@@ -1,0 +1,46 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/module.js",
+  "scripts": {
+    "precommit": "npm test && npm run build",
+    "build": "rimraf dist && webpack",
+    "coverage": "babel-node node_modules/.bin/isparta cover --root src/ node_modules/.bin/_mocha --report lcovonly -- -R spec",
+    "coveralls": "npm run coverage && coveralls < coverage/lcov.info && rimraf coverage",
+    "test": "mocha --recursive --compilers js:babel-core/register",
+    "tdd": "npm test -- --watch"
+  },
+  "repository": "mryoyo/pdf",
+  "keywords": [
+  ],
+  "files": [
+    "dist",
+    "src"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-eslint": "^4.1.6",
+    "babel-loader": "^6.0.0",
+    "babel-polyfill": "^6.2.0",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-eslint": "^4.1.4",
+    "chai": "^3.2.0",
+    "eslint": "^1.4.1",
+    "eslint-plugin-babel": "^2.1.1",
+    "husky": "^0.10.1",
+    "isparta": "^4.0.0",
+    "mocha": "^2.3.3",
+    "rimraf": "^2.4.3",
+    "webpack": "^1.12.2"
+  },
+  "author": {
+    "name": "suriya",
+    "email": "suriya.k@appman.co.th"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
