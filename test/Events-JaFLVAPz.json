@@ -408,6 +408,15 @@
     },
     {
       "replay" : 1,
+      "sequenceId" : 4072,
+      "fieldId" : "policy_insuredPerson_customer_partner_middlename",
+      "appId" : "JaFLVAPz",
+      "type" : "setValue",
+      "payload" : "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Textbox\",\"fieldName\":\"policy_insuredPerson_customer_partner_middlename\",\"value\":\"กลาง\",\"type\":\"setValue\"}}",
+      "timestamp" : 1479807985575
+    },
+    {
+      "replay" : 1,
       "sequenceId" : 408,
       "fieldId" : "policy_insuredPerson_customer_partner_lastName",
       "appId" : "JaFLVAPz",

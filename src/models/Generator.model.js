@@ -1,19 +1,25 @@
 import Positions from '../../config/position.json'
 import fs from 'fs'
 
-/*const toJSONFile = (data)=>{
-  fs.writeFile('../../output/out.json', data, 'utf-8', function(err) {
+const toJSONFile = (data)=>{
+  fs.writeFile('./output/out.json', JSON.stringify(data,null,4), 'utf-8', function(err) {
     if (err){
       throw err
     }
     console.log('write json file successfully.')
   })
-}*/
+}
 
 const generate = (dataObject) => {
   let results = []
   let result = {}
+  let page = {}
+  let current_page = 0
   Positions.forEach(position => {
+    if (current_page !== position.p){
+      results = []
+      current_page = position.p
+    }
     dataObject.forEach(data => {
       result = {}
       if (position.key === Object.keys(data)[0]){
@@ -24,10 +30,12 @@ const generate = (dataObject) => {
         results.push(result)
       }
     })
+    page[current_page] = results
   })
-  //toJSONFile(results)
-  //console.log(results)
-  console.log(fs)
+  //console.log(page)
+  toJSONFile(page)
+  //console.log(__dirname)
+  //console.log(fs)
   return dataObject
 }
 
