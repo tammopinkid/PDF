@@ -1,5 +1,15 @@
-import Filter from './models/FilterType.model'
-import events from '../test/event-from-app.json'
-const data = Filter.filter(events)
-console.log(data)
-//console.log(Event)
+/**
+ * PDF
+ * Description
+ *
+ * @name PDF
+ * @function
+ * @param {Array} data An array of data
+ * @param {Object} options An object containing the following fields:
+ *
+ * @return {Array} Result
+ */
+
+export default function(data, options) {
+  console.log('Hello AppMan');
+}
