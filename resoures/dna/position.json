@@ -1,0 +1,1862 @@
+[
+  {
+    "key": "policy.insuredPerson.customer.partner.idType.ID",
+    "p": 0,
+    "x": 133,
+    "y": 397
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idType.passport",
+    "p": 0,
+    "x": 246,
+    "y": 397
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idType.other",
+    "p": 0,
+    "x": 430,
+    "y": 397
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idType.otherName",
+    "p": 0,
+    "x": 500,
+    "y": 397
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idExpiryDate",
+    "p": 0,
+    "x": 305,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo00",
+    "p": 0,
+    "x": 81,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo01",
+    "p": 0,
+    "x": 98,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo02",
+    "p": 0,
+    "x": 110,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo03",
+    "p": 0,
+    "x": 121,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo04",
+    "p": 0,
+    "x": 132,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo05",
+    "p": 0,
+    "x": 149,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo06",
+    "p": 0,
+    "x": 160,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo07",
+    "p": 0,
+    "x": 171,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo08",
+    "p": 0,
+    "x": 183,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo09",
+    "p": 0,
+    "x": 194,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo10",
+    "p": 0,
+    "x": 211,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo11",
+    "p": 0,
+    "x": 222,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.idNo12",
+    "p": 0,
+    "x": 238,
+    "y": 413
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.fullName",
+    "p": 0,
+    "x": 140,
+    "y": 332
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.fullNameEng",
+    "p": 0,
+    "x": 140,
+    "y": 349
+  },
+  {
+    "key": "policy.insuredPerson.previousName",
+    "p": 0,
+    "x": 370,
+    "y": 332
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.sex.M",
+    "p": 0,
+    "x": 342,
+    "y": 348
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.sex.F",
+    "p": 0,
+    "x": 342,
+    "y": 348
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.dateOfBirth.D",
+    "p": 0,
+    "x": 90,
+    "y": 381
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.dateOfBirth.M",
+    "p": 0,
+    "x": 152,
+    "y": 381
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.dateOfBirth.Y",
+    "p": 0,
+    "x": 300,
+    "y": 381
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.age",
+    "p": 0,
+    "x": 520,
+    "y": 364
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.bornCountry",
+    "p": 0,
+    "x": 410,
+    "y": 381
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.nationality",
+    "p": 0,
+    "x": 450,
+    "y": 348
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.nationalitySecond",
+    "p": 0,
+    "x": 225,
+    "y": 364
+  },
+  {
+    "key": "print.insuredPerson.customer.partner.greencardNo",
+    "p": 0,
+    "x": 305,
+    "y": 428
+  },
+  {
+    "key": "print.insuredPerson.customer.partner.greencardExpiry",
+    "p": 0,
+    "x": 476,
+    "y": 428
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.maritalStatus.S",
+    "p": 0,
+    "x": 355,
+    "y": 364
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.maritalStatus.M",
+    "p": 0,
+    "x": 390,
+    "y": 364
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.maritalStatus.W",
+    "p": 0,
+    "x": 433,
+    "y": 364
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.maritalStatus.D",
+    "p": 0,
+    "x": 472,
+    "y": 364
+  },
+  {
+    "key": "policy.insuredPerson.spouseFullName",
+    "p": 0,
+    "x": 120,
+    "y": 444
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.countryCode",
+    "p": 0,
+    "x": 100,
+    "y": 652
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.province",
+    "p": 0,
+    "x": 330,
+    "y": 636
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo00",
+    "p": 0,
+    "x": 129,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo01",
+    "p": 0,
+    "x": 141,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo02",
+    "p": 0,
+    "x": 157,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo03",
+    "p": 0,
+    "x": 168,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo04",
+    "p": 0,
+    "x": 179,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo05",
+    "p": 0,
+    "x": 190,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo06",
+    "p": 0,
+    "x": 207,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo07",
+    "p": 0,
+    "x": 219,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo08",
+    "p": 0,
+    "x": 230,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.mobileNo09",
+    "p": 0,
+    "x": 241,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.email",
+    "p": 0,
+    "x": 280,
+    "y": 668
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.postCode00",
+    "p": 0,
+    "x": 500,
+    "y": 636
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.postCode01",
+    "p": 0,
+    "x": 512,
+    "y": 636
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.postCode02",
+    "p": 0,
+    "x": 524,
+    "y": 636
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.postCode03",
+    "p": 0,
+    "x": 535,
+    "y": 636
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.postCode04",
+    "p": 0,
+    "x": 546,
+    "y": 636
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.amphur",
+    "p": 0,
+    "x": 220,
+    "y": 636
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.tambol",
+    "p": 0,
+    "x": 116,
+    "y": 636
+  },
+  {
+    "key": "policy.insuredPerson.customer.homeAddress.addressLine",
+    "p": 0,
+    "x": 136,
+    "y": 620
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.countryCode",
+    "p": 0,
+    "x": 210,
+    "y": 598
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.province",
+    "p": 0,
+    "x": 456,
+    "y": 582
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.amphur",
+    "p": 0,
+    "x": 345,
+    "y": 582
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.tambol",
+    "p": 0,
+    "x": 220,
+    "y": 582
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.addressLine",
+    "p": 0,
+    "x": 125,
+    "y": 566
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.road",
+    "p": 0,
+    "x": 88,
+    "y": 582
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.phoneNo",
+    "p": 0,
+    "x": 337,
+    "y": 598
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.postCode00",
+    "p": 0,
+    "x": 124,
+    "y": 598
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.postCode01",
+    "p": 0,
+    "x": 136,
+    "y": 598
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.postCode02",
+    "p": 0,
+    "x": 147,
+    "y": 598
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.postCode03",
+    "p": 0,
+    "x": 158,
+    "y": 598
+  },
+  {
+    "key": "policy.insuredPerson.customer.officeAddress.postCode04",
+    "p": 0,
+    "x": 170,
+    "y": 598
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.countryCode",
+    "p": 0,
+    "x": 217,
+    "y": 529
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.province",
+    "p": 0,
+    "x": 460,
+    "y": 513
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.amphur",
+    "p": 0,
+    "x": 340,
+    "y": 513
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.tambol",
+    "p": 0,
+    "x": 215,
+    "y": 513
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.addressLine",
+    "p": 0,
+    "x": 171,
+    "y": 496
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.road",
+    "p": 0,
+    "x": 88,
+    "y": 513
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.postCode00",
+    "p": 0,
+    "x": 124,
+    "y": 529
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.postCode01",
+    "p": 0,
+    "x": 136,
+    "y": 529
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.postCode02",
+    "p": 0,
+    "x": 147,
+    "y": 529
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.postCode03",
+    "p": 0,
+    "x": 158,
+    "y": 529
+  },
+  {
+    "key": "policy.insuredPerson.customer.houseRegAddres.postCode04",
+    "p": 0,
+    "x": 170,
+    "y": 529
+  },
+  {
+    "key": "policy.insuredPerson.contactAddress.HG",
+    "p": 0,
+    "x": 183,
+    "y": 689
+  },
+  {
+    "key": "policy.insuredPerson.contactAddress.H",
+    "p": 0,
+    "x": 362,
+    "y": 689
+  },
+  {
+    "key": "policy.insuredPerson.contactAddress.O",
+    "p": 0,
+    "x": 286,
+    "y": 689
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.occupationCode",
+    "p": 0,
+    "x": 119,
+    "y": 729
+  },
+  {
+    "key": "print.insuredPerson.customer.partner.occupationPosition",
+    "p": 0,
+    "x": 273,
+    "y": 729
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.occupationDetails",
+    "p": 0,
+    "x": 436,
+    "y": 729
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.typeOfBusiness",
+    "p": 0,
+    "x": 110,
+    "y": 745
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.income",
+    "p": 0,
+    "x": 419,
+    "y": 745
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.occupationCodeSecond",
+    "p": 0,
+    "x": 119,
+    "y": 761
+  },
+  {
+    "key": "print.insuredPerson.customer.partner.occupationPositionSecond",
+    "p": 0,
+    "x": 273,
+    "y": 761
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.occupationDetailsSecond",
+    "p": 0,
+    "x": 436,
+    "y": 761
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.typeOfBusinessSecond",
+    "p": 0,
+    "x": 110,
+    "y": 777
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.incomeSecond",
+    "p": 0,
+    "x": 419,
+    "y": 777
+  },
+  {
+    "key": "policy.policyBase.planCode",
+    "p": 1,
+    "x": 100,
+    "y": 54
+  },
+  {
+    "key": "policy.policyBase.benefitTerm",
+    "p": 1,
+    "x": 170,
+    "y": 75
+  },
+  {
+    "key": "policy.policyBase.premiumTerm",
+    "p": 1,
+    "x": 170,
+    "y": 96
+  },
+  {
+    "key": "policy.policyBase.paymentFrequency.yearly",
+    "p": 1,
+    "x": 248,
+    "y": 74
+  },
+  {
+    "key": "policy.policyBase.paymentFrequency.6monthly",
+    "p": 1,
+    "x": 326,
+    "y": 74
+  },
+  {
+    "key": "policy.policyBase.paymentFrequency.3monthly",
+    "p": 1,
+    "x": 248,
+    "y": 95
+  },
+  {
+    "key": "policy.policyBase.paymentFrequency.monthly",
+    "p": 1,
+    "x": 326,
+    "y": 95
+  },
+  {
+    "key": "policy.policyBase.paymentFrequency.onetime",
+    "p": 1,
+    "x": 248,
+    "y": 116
+  },
+  {
+    "key": "policy.policyBase.dividendOption.toCash",
+    "p": 1,
+    "x": 417,
+    "y": 74
+  },
+  {
+    "key": "policy.policyBase.dividendOption.toPremium",
+    "p": 1,
+    "x": 417,
+    "y": 95
+  },
+  {
+    "key": "policy.policyBase.dividendOption.toSaving",
+    "p": 1,
+    "x": 417,
+    "y": 116
+  },
+  {
+    "key": "policy.policyBase.planCode2",
+    "p": 1,
+    "x": 77,
+    "y": 218
+  },
+  {
+    "key": "policy.riders[FREE_01].name",
+    "p": 1,
+    "x": 323,
+    "y": 394
+  },
+  {
+    "key": "policy.riders[FREE_02].name",
+    "p": 1,
+    "x": 323,
+    "y": 410
+  },
+  {
+    "key": "policy.riders[00].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 217
+  },
+  {
+    "key": "policy.riders[01].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 233
+  },
+  {
+    "key": "policy.riders[02].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 248
+  },
+  {
+    "key": "policy.riders[03].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 264
+  },
+  {
+    "key": "policy.riders[04].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 280
+  },
+  {
+    "key": "policy.riders[05].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 295
+  },
+  {
+    "key": "policy.riders[06].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 311
+  },
+  {
+    "key": "policy.riders[07].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 327
+  },
+  {
+    "key": "policy.riders[08].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 342
+  },
+  {
+    "key": "policy.riders[09].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 358
+  },
+  {
+    "key": "policy.riders[10].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 373
+  },
+  {
+    "key": "policy.riders[11].checkbox",
+    "p": 1,
+    "x": 27,
+    "y": 389
+  },
+  {
+    "key": "policy.riders[12].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 216
+  },
+  {
+    "key": "policy.riders[13].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 231
+  },
+  {
+    "key": "policy.riders[14].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 263
+  },
+  {
+    "key": "policy.riders[15].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 278
+  },
+  {
+    "key": "policy.riders[16].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 294
+  },
+  {
+    "key": "policy.riders[17].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 310
+  },
+  {
+    "key": "policy.riders[18].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 325
+  },
+  {
+    "key": "policy.riders[19].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 343
+  },
+  {
+    "key": "policy.riders[20].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 361
+  },
+  {
+    "key": "policy.riders[FREE_01].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 394
+  },
+  {
+    "key": "policy.riders[FREE_02].checkbox",
+    "p": 1,
+    "x": 309,
+    "y": 410
+  },
+  {
+    "key": "policy.policyBase.sumAssured",
+    "p": 1,
+    "x": 197,
+    "y": 217
+  },
+  {
+    "key": "policy.policyBase.annualPremium",
+    "p": 1,
+    "x": 247,
+    "y": 217
+  },
+  {
+    "key": "policy.riders[01].insured",
+    "p": 1,
+    "x": 197,
+    "y": 233
+  },
+  {
+    "key": "policy.riders[01].premium",
+    "p": 1,
+    "x": 247,
+    "y": 233
+  },
+  {
+    "key": "policy.riders[02].insured",
+    "p": 1,
+    "x": 197,
+    "y": 248
+  },
+  {
+    "key": "policy.riders[02].premium",
+    "p": 1,
+    "x": 247,
+    "y": 248
+  },
+  {
+    "key": "policy.riders[03].insured",
+    "p": 1,
+    "x": 197,
+    "y": 264
+  },
+  {
+    "key": "policy.riders[03].premium",
+    "p": 1,
+    "x": 247,
+    "y": 264
+  },
+  {
+    "key": "policy.riders[04].insured",
+    "p": 1,
+    "x": 197,
+    "y": 279
+  },
+  {
+    "key": "policy.riders[04].premium",
+    "p": 1,
+    "x": 247,
+    "y": 279
+  },
+  {
+    "key": "policy.riders[05].insured",
+    "p": 1,
+    "x": 197,
+    "y": 295
+  },
+  {
+    "key": "policy.riders[05].premium",
+    "p": 1,
+    "x": 247,
+    "y": 295
+  },
+  {
+    "key": "policy.riders[06].insured",
+    "p": 1,
+    "x": 197,
+    "y": 310
+  },
+  {
+    "key": "policy.riders[06].premium",
+    "p": 1,
+    "x": 247,
+    "y": 310
+  },
+  {
+    "key": "policy.riders[07].insured",
+    "p": 1,
+    "x": 197,
+    "y": 326
+  },
+  {
+    "key": "policy.riders[07].premium",
+    "p": 1,
+    "x": 247,
+    "y": 326
+  },
+  {
+    "key": "policy.riders[08].insured",
+    "p": 1,
+    "x": 197,
+    "y": 342
+  },
+  {
+    "key": "policy.riders[08].premium",
+    "p": 1,
+    "x": 247,
+    "y": 342
+  },
+  {
+    "key": "policy.riders[09].insured",
+    "p": 1,
+    "x": 197,
+    "y": 357
+  },
+  {
+    "key": "policy.riders[09].premium",
+    "p": 1,
+    "x": 247,
+    "y": 357
+  },
+  {
+    "key": "policy.riders[10].insured",
+    "p": 1,
+    "x": 197,
+    "y": 373
+  },
+  {
+    "key": "policy.riders[10].premium",
+    "p": 1,
+    "x": 247,
+    "y": 373
+  },
+  {
+    "key": "policy.riders[11].insured",
+    "p": 1,
+    "x": 197,
+    "y": 388
+  },
+  {
+    "key": "policy.riders[11].premium",
+    "p": 1,
+    "x": 247,
+    "y": 388
+  },
+  {
+    "key": "policy.riders[12].insured",
+    "p": 1,
+    "x": 482,
+    "y": 214
+  },
+  {
+    "key": "policy.riders[12].premium",
+    "p": 1,
+    "x": 533,
+    "y": 214
+  },
+  {
+    "key": "policy.riders[13].insured",
+    "p": 1,
+    "x": 482,
+    "y": 230
+  },
+  {
+    "key": "policy.riders[13].premium",
+    "p": 1,
+    "x": 533,
+    "y": 230
+  },
+  {
+    "key": "policy.riders[14].insured",
+    "p": 1,
+    "x": 482,
+    "y": 262
+  },
+  {
+    "key": "policy.riders[14].premium",
+    "p": 1,
+    "x": 533,
+    "y": 262
+  },
+  {
+    "key": "policy.riders[15].insured",
+    "p": 1,
+    "x": 482,
+    "y": 278
+  },
+  {
+    "key": "policy.riders[15].premium",
+    "p": 1,
+    "x": 533,
+    "y": 278
+  },
+  {
+    "key": "policy.riders[16].insured",
+    "p": 1,
+    "x": 482,
+    "y": 294
+  },
+  {
+    "key": "policy.riders[16].premium",
+    "p": 1,
+    "x": 533,
+    "y": 294
+  },
+  {
+    "key": "policy.riders[17].insured",
+    "p": 1,
+    "x": 482,
+    "y": 310
+  },
+  {
+    "key": "policy.riders[17].premium",
+    "p": 1,
+    "x": 533,
+    "y": 310
+  },
+  {
+    "key": "policy.riders[18].insured",
+    "p": 1,
+    "x": 482,
+    "y": 327
+  },
+  {
+    "key": "policy.riders[18].premium",
+    "p": 1,
+    "x": 533,
+    "y": 327
+  },
+  {
+    "key": "policy.riders[19].insured",
+    "p": 1,
+    "x": 482,
+    "y": 342
+  },
+  {
+    "key": "policy.riders[19].premium",
+    "p": 1,
+    "x": 533,
+    "y": 342
+  },
+  {
+    "key": "policy.riders[20].insured",
+    "p": 1,
+    "x": 482,
+    "y": 358
+  },
+  {
+    "key": "policy.riders[20].premium",
+    "p": 1,
+    "x": 533,
+    "y": 358
+  },
+  {
+    "key": "policy.riders[FREE_01].insured",
+    "p": 1,
+    "x": 482,
+    "y": 393
+  },
+  {
+    "key": "policy.riders[FREE_01].premium",
+    "p": 1,
+    "x": 533,
+    "y": 393
+  },
+  {
+    "key": "policy.riders[FREE_02].insured",
+    "p": 1,
+    "x": 482,
+    "y": 408
+  },
+  {
+    "key": "policy.riders[FREE_02].premium",
+    "p": 1,
+    "x": 533,
+    "y": 408
+  },
+  {
+    "key": "print.sumPremium",
+    "p": 1,
+    "x": 480,
+    "y": 477
+  },
+  {
+    "key": "policyNewApp.appDet.paymentMethodFirst.cach",
+    "p": 1,
+    "x": 82,
+    "y": 529
+  },
+  {
+    "key": "policyNewApp.appDet.paymentMethodFirst.counter",
+    "p": 1,
+    "x": 130,
+    "y": 529
+  },
+  {
+    "key": "policyNewApp.appDet.paymentMethodFirst.other",
+    "p": 1,
+    "x": 410,
+    "y": 529
+  },
+  {
+    "key": "policyNewApp.appDet.paymentMethodFirst.otherName",
+    "p": 1,
+    "x": 458,
+    "y": 529
+  },
+  {
+    "key": "policy.policyBase.paymentRefNo",
+    "p": 1,
+    "x": 200,
+    "y": 544
+  },
+  {
+    "key": "policy.policyBase.receiptPaidAmount",
+    "p": 1,
+    "x": 175,
+    "y": 477
+  },
+  {
+    "key": "policy.payer.customer.partner.fullName2",
+    "p": 1,
+    "x": 186,
+    "y": 603
+  },
+  {
+    "key": "policy.payer.customer.partner.age2",
+    "p": 1,
+    "x": 333,
+    "y": 603
+  },
+  {
+    "key": "payer.customer.partner.occupationCode2",
+    "p": 1,
+    "x": 490,
+    "y": 603
+  },
+  {
+    "key": "policyDetails.payer.beneficiaryRelation2",
+    "p": 1,
+    "x": 420,
+    "y": 603
+  },
+  {
+    "key": "policy.beneficiary[0].fullName",
+    "p": 1,
+    "x": 25,
+    "y": 728
+  },
+  {
+    "key": "policy.beneficiary[0].idNo",
+    "p": 1,
+    "x": 177,
+    "y": 728
+  },
+  {
+    "key": "policy.beneficiary[0].age",
+    "p": 1,
+    "x": 295,
+    "y": 728
+  },
+  {
+    "key": "policy.beneficiary[0].relation",
+    "p": 1,
+    "x": 325,
+    "y": 728
+  },
+  {
+    "key": "policy.beneficiary[0].address",
+    "p": 1,
+    "x": 360,
+    "y": 728
+  },
+  {
+    "key": "policy.beneficiary[0].share",
+    "p": 1,
+    "x": 540,
+    "y": 728
+  },
+  {
+    "key": "policy.beneficiary[1].fullName",
+    "p": 1,
+    "x": 25,
+    "y": 748
+  },
+  {
+    "key": "policy.beneficiary[1].idNo",
+    "p": 1,
+    "x": 177,
+    "y": 748
+  },
+  {
+    "key": "policy.beneficiary[1].age",
+    "p": 1,
+    "x": 295,
+    "y": 748
+  },
+  {
+    "key": "policy.beneficiary[1].relation",
+    "p": 1,
+    "x": 325,
+    "y": 748
+  },
+  {
+    "key": "policy.beneficiary[1].address",
+    "p": 1,
+    "x": 360,
+    "y": 748
+  },
+  {
+    "key": "policy.beneficiary[1].share",
+    "p": 1,
+    "x": 540,
+    "y": 748
+  },
+  {
+    "key": "policy.beneficiary[2].fullName",
+    "p": 1,
+    "x": 25,
+    "y": 773
+  },
+  {
+    "key": "policy.beneficiary[2].idNo",
+    "p": 1,
+    "x": 177,
+    "y": 773
+  },
+  {
+    "key": "policy.beneficiary[2].age",
+    "p": 1,
+    "x": 295,
+    "y": 773
+  },
+  {
+    "key": "policy.beneficiary[2].relation",
+    "p": 1,
+    "x": 325,
+    "y": 773
+  },
+  {
+    "key": "policy.beneficiary[2].address",
+    "p": 1,
+    "x": 360,
+    "y": 773
+  },
+  {
+    "key": "policy.beneficiary[2].share",
+    "p": 1,
+    "x": 540,
+    "y": 773
+  },
+  {
+    "key": "policy.beneficiary[3].fullName",
+    "p": 1,
+    "x": 25,
+    "y": 797
+  },
+  {
+    "key": "policy.beneficiary[3].idNo",
+    "p": 1,
+    "x": 177,
+    "y": 797
+  },
+  {
+    "key": "policy.beneficiary[3].age",
+    "p": 1,
+    "x": 295,
+    "y": 797
+  },
+  {
+    "key": "policy.beneficiary[3].relation",
+    "p": 1,
+    "x": 325,
+    "y": 797
+  },
+  {
+    "key": "policy.beneficiary[3].address",
+    "p": 1,
+    "x": 360,
+    "y": 797
+  },
+  {
+    "key": "policy.beneficiary[3].share",
+    "p": 1,
+    "x": 540,
+    "y": 797
+  },
+  {
+    "key": "no25[0]",
+    "p": 6,
+    "x": 25,
+    "y": 675
+  },
+  {
+    "key": "no25[1]",
+    "p": 6,
+    "x": 25,
+    "y": 692
+  },
+  {
+    "key": "no25[2]",
+    "p": 6,
+    "x": 25,
+    "y": 709
+  },
+  {
+    "key": "no25[3]",
+    "p": 6,
+    "x": 25,
+    "y": 726
+  },
+  {
+    "key": "no25[4]",
+    "p": 6,
+    "x": 25,
+    "y": 743
+  },
+  {
+    "key": "no25[5]",
+    "p": 6,
+    "x": 25,
+    "y": 760
+  },
+  {
+    "key": "no25[6]",
+    "p": 6,
+    "x": 25,
+    "y": 777
+  },
+  {
+    "key": "no25[7]",
+    "p": 6,
+    "x": 25,
+    "y": 794
+  },
+  {
+    "key": "policy.policyDetails.insured.motorcycleUsageFlag.false",
+    "p": 2,
+    "x": 207,
+    "y": 159
+  },
+  {
+    "key": "policy.policyDetails.insured.motorcycleUsageFlag.true",
+    "p": 2,
+    "x": 250,
+    "y": 159
+  },
+  {
+    "key": "policy.policyDetails.insured.lifeStyleFlag.false",
+    "p": 2,
+    "x": 36,
+    "y": 210
+  },
+  {
+    "key": "policy.policyDetails.insured.lifeStyleFlag.true",
+    "p": 2,
+    "x": 74,
+    "y": 210
+  },
+  {
+    "key": "policy.policyDetails.insured.lifeStyleDetails",
+    "p": 2,
+    "x": 150,
+    "y": 210
+  },
+  {
+    "key": "policy.policyDetails.insured.previuosPolicyFlag.false",
+    "p": 2,
+    "x": 36,
+    "y": 246
+  },
+  {
+    "key": "policy.policyDetails.insured.previuosPolicyFlag.true",
+    "p": 2,
+    "x": 74,
+    "y": 246
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[0].companyName",
+    "p": 2,
+    "x": 28,
+    "y": 300
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[0].lifeSA",
+    "p": 2,
+    "x": 166,
+    "y": 300
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[0].severeDiseaseSA",
+    "p": 2,
+    "x": 235,
+    "y": 300
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[0].accidentSA",
+    "p": 2,
+    "x": 305,
+    "y": 300
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[0].reimburseAmt",
+    "p": 2,
+    "x": 370,
+    "y": 300
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[0].inforceFlag",
+    "p": 2,
+    "x": 445,
+    "y": 300
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[1].companyName",
+    "p": 2,
+    "x": 28,
+    "y": 317
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[1].lifeSA",
+    "p": 2,
+    "x": 166,
+    "y": 317
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[1].severeDiseaseSA",
+    "p": 2,
+    "x": 235,
+    "y": 317
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[1].accidentSA",
+    "p": 2,
+    "x": 305,
+    "y": 317
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[1].reimburseAmt",
+    "p": 2,
+    "x": 370,
+    "y": 317
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[1].inforceFlag",
+    "p": 2,
+    "x": 445,
+    "y": 317
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[2].companyName",
+    "p": 2,
+    "x": 28,
+    "y": 334
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[2].lifeSA",
+    "p": 2,
+    "x": 166,
+    "y": 334
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[2].severeDiseaseSA",
+    "p": 2,
+    "x": 235,
+    "y": 334
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[2].accidentSA",
+    "p": 2,
+    "x": 305,
+    "y": 334
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[2].reimburseAmt",
+    "p": 2,
+    "x": 370,
+    "y": 334
+  },
+  {
+    "key": "policyNewApp.insuredAppPreviousPolicyList[2].inforceFlag",
+    "p": 2,
+    "x": 445,
+    "y": 334
+  },
+  {
+    "key": "policy.policyDetails.insured.rejectInsurerFlag.false",
+    "p": 2,
+    "x": 298,
+    "y": 362
+  },
+  {
+    "key": "policy.policyDetails.insured.rejectInsurerFlag.true",
+    "p": 2,
+    "x": 354,
+    "y": 362
+  },
+  {
+    "key": "policy.policyDetails.insured.rejectInsurerDetails[0].companyName",
+    "p": 2,
+    "x": 26,
+    "y": 399
+  },
+  {
+    "key": "policy.policyDetails.insured.rejectInsurerDetails[0].reason",
+    "p": 2,
+    "x": 167,
+    "y": 399
+  },
+  {
+    "key": "policy.policyDetails.insured.rejectInsurerDetails[0].time",
+    "p": 2,
+    "x": 510,
+    "y": 399
+  },
+  {
+    "key": "policy.policyDetails.insured.rejectInsurerDetails[1].companyName",
+    "p": 2,
+    "x": 26,
+    "y": 415
+  },
+  {
+    "key": "policy.policyDetails.insured.rejectInsurerDetails[1].reason",
+    "p": 2,
+    "x": 167,
+    "y": 415
+  },
+  {
+    "key": "policy.policyDetails.insured.rejectInsurerDetails[1].time",
+    "p": 2,
+    "x": 510,
+    "y": 415
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugPenalty.false",
+    "p": 2,
+    "x": 367,
+    "y": 437
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugPenalty.true",
+    "p": 2,
+    "x": 418,
+    "y": 437
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugUsage.false",
+    "p": 2,
+    "x": 37,
+    "y": 472
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugUsage.true",
+    "p": 2,
+    "x": 176,
+    "y": 472
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugUsageCategory",
+    "p": 2,
+    "x": 293,
+    "y": 473
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugUsageQuantity",
+    "p": 2,
+    "x": 414,
+    "y": 473
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugUsageFreq",
+    "p": 2,
+    "x": 483,
+    "y": 473
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugUsageLength",
+    "p": 2,
+    "x": 233,
+    "y": 488
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugQuitFlag.true",
+    "p": 2,
+    "x": 37,
+    "y": 488
+  },
+  {
+    "key": "policyNewApp.appDet.insuredDrugQuitReason",
+    "p": 2,
+    "x": 95,
+    "y": 488
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageFlag.false",
+    "p": 2,
+    "x": 37,
+    "y": 524
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageFlag.true",
+    "p": 2,
+    "x": 177,
+    "y": 524
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageCategory.wine",
+    "p": 2,
+    "x": 298,
+    "y": 524
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageCategory.beer",
+    "p": 2,
+    "x": 388,
+    "y": 524
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageCategory.L",
+    "p": 2,
+    "x": 377,
+    "y": 524
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageCategory.other",
+    "p": 2,
+    "x": 418,
+    "y": 524
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageCategory.otherName",
+    "p": 2,
+    "x": 470,
+    "y": 524
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageQuantity.1to3",
+    "p": 2,
+    "x": 253,
+    "y": 538
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageQuantity.4to5",
+    "p": 2,
+    "x": 330,
+    "y": 538
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageQuantity.6to7",
+    "p": 2,
+    "x": 409,
+    "y": 538
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageQuantity.8up",
+    "p": 2,
+    "x": 488,
+    "y": 538
+  },
+  {
+    "key": "policy.policyDetails.insured.alcoholUsageTimes",
+    "p": 2,
+    "x": 220,
+    "y": 554
+  },
+  {
+    "key": "policyNewApp.appDet.insuredAlcoholUsageLength",
+    "p": 2,
+    "x": 400,
+    "y": 554
+  },
+  {
+    "key": "policyNewApp.appDet.insuredAlcoholQuitFlag.true",
+    "p": 2,
+    "x": 37,
+    "y": 554
+  },
+  {
+    "key": "policyNewApp.appDet.insuredAlcoholQuitWhen",
+    "p": 2,
+    "x": 93,
+    "y": 554
+  },
+  {
+    "key": "policy.policyDetails.insured.smokingFlag.false",
+    "p": 2,
+    "x": 37,
+    "y": 589
+  },
+  {
+    "key": "policy.policyDetails.insured.smokingFlag.true",
+    "p": 2,
+    "x": 177,
+    "y": 589
+  },
+  {
+    "key": "policy.policyDetails.insured.smokingQuantity.1to20",
+    "p": 2,
+    "x": 295,
+    "y": 589
+  },
+  {
+    "key": "policy.policyDetails.insured.smokingQuantity.21to40",
+    "p": 2,
+    "x": 352,
+    "y": 589
+  },
+  {
+    "key": "policy.policyDetails.insured.smokingQuantity.41up",
+    "p": 2,
+    "x": 413,
+    "y": 589
+  },
+  {
+    "key": "policyNewApp.appDet.insuredSmokeLength",
+    "p": 2,
+    "x": 525,
+    "y": 589
+  },
+  {
+    "key": "policyNewApp.appDet.insuredSmokeQuitFlag.true",
+    "p": 2,
+    "x": 37,
+    "y": 604
+  },
+  {
+    "key": "policyNewApp.appDet.insuredSmokeQuitWhen",
+    "p": 2,
+    "x": 95,
+    "y": 604
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.height",
+    "p": 2,
+    "x": 69,
+    "y": 623
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.weight",
+    "p": 2,
+    "x": 69,
+    "y": 638
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.weightNoChange",
+    "p": 2,
+    "x": 360,
+    "y": 623
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.weightChange",
+    "p": 2,
+    "x": 410,
+    "y": 623
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.weightIncrease",
+    "p": 2,
+    "x": 451,
+    "y": 623
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.weightDecrease",
+    "p": 2,
+    "x": 493,
+    "y": 623
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.weightIncreaseDecrease",
+    "p": 2,
+    "x": 526,
+    "y": 623
+  },
+  {
+    "key": "policy.insuredPerson.reasonWeightChange.exercise",
+    "p": 2,
+    "x": 244,
+    "y": 638
+  },
+  {
+    "key": "policy.insuredPerson.reasonWeightChange.food",
+    "p": 2,
+    "x": 308,
+    "y": 638
+  },
+  {
+    "key": "policy.insuredPerson.reasonWeightChange.afterBaby",
+    "p": 2,
+    "x": 375,
+    "y": 638
+  },
+  {
+    "key": "policy.insuredPerson.reasonWeightChange.other",
+    "p": 2,
+    "x": 443,
+    "y": 638
+  },
+  {
+    "key": "policy.insuredPerson.reasonWeightChange.otherName",
+    "p": 2,
+    "x": 490,
+    "y": 638
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryFlag.false",
+    "p": 2,
+    "x": 37,
+    "y": 716
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryFlag.true",
+    "p": 2,
+    "x": 86,
+    "y": 716
+  },
+  {
+    "key": "policyNewApp.insuredAppFamilyHealthList[0].relation",
+    "p": 2,
+    "x": 80,
+    "y": 752
+  },
+  {
+    "key": "policyNewApp.insuredAppFamilyHealthList[0].disease",
+    "p": 2,
+    "x": 280,
+    "y": 752
+  },
+  {
+    "key": "policyNewApp.insuredAppFamilyHealthList[0].onSetAge",
+    "p": 2,
+    "x": 530,
+    "y": 752
+  },
+  {
+    "key": "policyNewApp.insuredAppFamilyHealthList[1].relation",
+    "p": 2,
+    "x": 80,
+    "y": 769
+  },
+  {
+    "key": "policyNewApp.insuredAppFamilyHealthList[1].disease",
+    "p": 2,
+    "x": 280,
+    "y": 769
+  },
+  {
+    "key": "policyNewApp.insuredAppFamilyHealthList[1].onSetAge",
+    "p": 2,
+    "x": 530,
+    "y": 769
+  },
+  {
+    "key": "policyNewApp.appDet.insuredAidsLiverFlag.none",
+    "p": 2,
+    "x": 320,
+    "y": 783
+  },
+  {
+    "key": "policyNewApp.appDet.insuredAidsLiverFlag.notNone",
+    "p": 2,
+    "x": 370,
+    "y": 783
+  },
+  {
+    "key": "policyNewApp.appDet.insuredAidsLiverFlag.aids",
+    "p": 2,
+    "x": 119,
+    "y": 798
+  },
+  {
+    "key": "policyNewApp.appDet.insuredAidsLiverFlag.liver",
+    "p": 2,
+    "x": 217,
+    "y": 798
+  }
+]

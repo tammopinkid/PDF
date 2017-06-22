@@ -1,0 +1,88 @@
+{
+  "1": [
+    {
+      "text": "บ. AppMannnnnnn",
+      "x": 346,
+      "y": 123,
+      "optlist": "shaping script=thai boxsize={206 20} position={1 50} fitmethod=clip"
+    },
+    {
+      "text": "นายเอเจนท์ เมท",
+      "x": 287,
+      "y": 640,
+      "optlist": "shaping script=thai boxsize={129 20} position={0 50} fitmethod=clip"
+    },
+    {
+      "text": "ประยุทธิ์ จันทร์โอชา",
+      "x": 287,
+      "y": 704,
+      "optlist": "shaping script=thai boxsize={129 20} position={0 50} fitmethod=clip"
+    },
+    {
+      "text": "60 ปี",
+      "x": 409,
+      "y": 194,
+      "optlist": "shaping script=thai boxsize={27 20} position={50 50} fitmethod=clip"
+    },
+    {
+      "text": "5536599636666",
+      "x": 128,
+      "y": 214,
+      "optlist": "shaping script=thai boxsize={164 20} position={1 50} fitmethod=clip"
+    },
+    {
+      "text": "นาย จักรี ธรรมะจิตรา",
+      "x": 202,
+      "y": 194,
+      "optlist": "shaping script=thai boxsize={184 20} position={1 50} fitmethod=clip"
+    },
+    {
+      "text": "นาย จักรี ธรรมะจิตรา",
+      "x": 288,
+      "y": 575,
+      "optlist": "shaping script=thai boxsize={129 20} position={0 50} fitmethod=clip"
+    },
+    {
+      "text": "นาย สิขำ ธรรมะจิตรา",
+      "x": 296,
+      "y": 254,
+      "optlist": "shaping script=thai boxsize={149 20} position={1 50} fitmethod=clip"
+    },
+    {
+      "text": "11",
+      "x": 344,
+      "y": 147,
+      "optlist": "shaping script=thai boxsize={38 20} position={50 50} fitmethod=clip"
+    },
+    {
+      "text": "ตุลาคม",
+      "x": 410,
+      "y": 147,
+      "optlist": "shaping script=thai boxsize={61 20} position={50 50} fitmethod=clip"
+    },
+    {
+      "text": "2558",
+      "x": 499,
+      "y": 147,
+      "optlist": "shaping script=thai boxsize={51 20} position={50 50} fitmethod=clip"
+    },
+    {
+      "image": "signature",
+      "x": 291,
+      "y": 611,
+      "optlist": "boxsize={121 30} position={center} fitmethod=meet"
+    },
+    {
+      "image": "signature",
+      "x": 291,
+      "y": 675,
+      "optlist": "boxsize={121 30} position={center} fitmethod=meet"
+    },
+    {
+      "image": "signature",
+      "x": 291,
+      "y": 547,
+      "optlist": "boxsize={121 30} position={center} fitmethod=meet"
+    }
+  ]
+}
