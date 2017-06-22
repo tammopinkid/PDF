@@ -1,2 +1,2 @@
-var pdf = require('./dist/module')
+const pdf = require('./dist/module')
 console.log(pdf)

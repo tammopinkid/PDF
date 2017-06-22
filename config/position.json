@@ -1,0 +1,14 @@
+[
+    {
+        "key": "policy_insuredPerson_customer_partner_firstName",
+        "p": 1,
+        "x": 133,
+        "y": 397
+    },
+    {
+        "key": "policy_insuredPerson_customer_partner_lastName",
+        "p": 1,
+        "x": 246,
+        "y": 397
+    }
+]

@@ -22,5 +22,8 @@ module.exports = {
         loader: 'json-loader'
       }
     ]
+  },
+  node: {
+    fs: 'empty'
   }
 };
