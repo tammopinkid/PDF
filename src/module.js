@@ -10,6 +10,6 @@
  * @return {Array} Result
  */
 
-export default function(data, options) {
-  console.log("Hello AppMan");
+export default function add(a, b){
+  return a + b
 }

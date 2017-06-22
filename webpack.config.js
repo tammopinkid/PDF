@@ -5,7 +5,8 @@ module.exports = {
   output: {
     path: './dist',
     filename: 'module.js',
-    libraryTarget: 'umd'
+    libraryTarget: 'umd',
+    library: 'Modulez'
   },
   module: {
     loaders: [{
