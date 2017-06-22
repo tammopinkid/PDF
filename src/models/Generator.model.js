@@ -17,7 +17,12 @@ const generate = (dataObject) => {
   let current_page = 0
   Positions.forEach(position => {
     if (current_page !== position.p){
-      results = []
+      if (page[position.p]){
+        //console.log(page[position.p])
+        results = page[position.p]
+      }else {
+        results = []
+      }
       current_page = position.p
     }
     dataObject.forEach(data => {

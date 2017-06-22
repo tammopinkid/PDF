@@ -1,19 +1,19 @@
 [
     {
         "key": "policy_insuredPerson_customer_partner_firstName",
-        "p": 1,
+        "p": 2,
         "x": 133,
         "y": 397
     },
     {
         "key": "policy_insuredPerson_customer_partner_lastName",
-        "p": 2,
+        "p": 1,
         "x": 246,
         "y": 397
     },
     {
         "key": "policy_insuredPerson_customer_partner_middlename",
-        "p": 2,
+        "p": 1,
         "x": 160,
         "y": 397
     }

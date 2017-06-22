@@ -3,7 +3,7 @@ import Generator from './Generator.model'
 const filter = (jsonObject) => {
   let events = jsonObject.events
   let data = []
-  if (events.length > 0){
+  if (events.length > 0 && typeof events === 'object'){
     events.forEach( item => {
       const key = item.fieldId
       const componentType = JSON.parse(item.payload).params.componentType
