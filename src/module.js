@@ -1,3 +1,6 @@
-export default function(data, options) {
-  console.log("Hello AppMan");
-}
+import events from '../test/Events-JaFLVAPz.json'
+import Filter from './models/FilterType.model'
+const data = Filter.filter(events)
+//console.log(Event)
+
+

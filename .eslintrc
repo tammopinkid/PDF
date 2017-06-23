@@ -28,8 +28,13 @@
     "no-use-before-define": [2, "nofunc"],
     "object-curly-spacing": [1, "always"],
     "quotes": [2, "single", "avoid-escape"],
-    "semi": [2, "always"],
     "space-after-keywords": [2, "always"],
     "space-unary-ops": 2
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": false,
+    "codeFrame": false
   }
 }

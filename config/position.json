@@ -1,0 +1,50 @@
+[
+    {
+        "key": "policy_insuredPerson_customer_partner_firstName",
+        "p": 1,
+        "x": 133,
+        "y": 397
+    },
+    {
+        "key": "policy_insuredPerson_customer_partner_lastName",
+        "p": 2,
+        "x": 246,
+        "y": 397
+    },
+    {
+        "key": "policy_insuredPerson_customer_partner_middlename",
+        "p": 2,
+        "x": 160,
+        "y": 397
+    },
+    {
+        "key": "inforceFlag",
+        "p": 2,
+        "x": 445,
+        "y": 300
+    },
+    {
+        "key": "policy_insuredPerson_customer_partner_bornCountry",
+        "p": 0,
+        "x": 410,
+        "y": 381
+    },
+    {
+        "key": "policy_insuredPerson_customer_partner_nationality",
+        "p": 0,
+        "x": 450,
+        "y": 348
+    },
+    {
+        "key": "policy_policyBase_planCode",
+        "p": 1,
+        "x": 100,
+        "y": 54
+    },
+    {
+        "key": "policy_insuredPerson_customer_partner_title",
+        "p": 1,
+        "x": 100,
+        "y": 54
+    }
+]
