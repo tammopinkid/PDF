@@ -9,7 +9,8 @@
     "coverage": "babel-node node_modules/.bin/isparta cover --root src/ node_modules/.bin/_mocha --report lcovonly -- -R spec",
     "coveralls": "npm run coverage && coveralls < coverage/lcov.info && rimraf coverage",
     "test": "mocha --recursive --compilers js:babel-core/register",
-    "tdd": "npm test -- --watch"
+    "tdd": "npm test -- --watch",
+    "start": "webpack-dev-server --hot --inline"
   },
   "repository": "mryoyo/pdf",
   "keywords": [],
@@ -32,7 +33,8 @@
     "json-loader": "^0.5.4",
     "mocha": "^2.3.3",
     "rimraf": "^2.4.3",
-    "webpack": "^1.12.2"
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^2.5.0"
   },
   "author": {
     "name": "suriya",
@@ -42,5 +44,9 @@
     "node": ">=0.12.0"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4",
+    "path": "^0.12.7"
+  }
 }

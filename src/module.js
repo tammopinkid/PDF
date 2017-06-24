@@ -1,15 +1,5 @@
-/**
- * PDF
- * Description
- *
- * @name PDF
- * @function
- * @param {Array} data An array of data
- * @param {Object} options An object containing the following fields:
- *
- * @return {Array} Result
- */
+import events from '../test/Events-JaFLVAPz.json'
+import Filter from './models/FilterType.model'
+const data = Filter.filter(events)
+//console.log(Event)
 
-export default function(data, options) {
-  console.log('Hello AppMan');
-}
