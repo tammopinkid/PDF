@@ -1,75 +1,129 @@
 [
-    {
-        "key": "frontend_riders",
-        "p": 1,
-        "x": 246,
-        "y": 200
-    },
-    {
-        "key": "policy_insuredPerson_customer_partner_firstName",
-        "p": 1,
-        "x": 133,
-        "y": 397
-    },
-    {
-        "key": "policy_insuredPerson_customer_partner_lastName",
-        "p": 1,
-        "x": 246,
-        "y": 397
-    },
-    {
-        "key": "policy_insuredPerson_customer_partner_middlename",
-        "p": 1,
-        "x": 160,
-        "y": 397
-    },
-    {
-        "key": "policy_policyBase_dividendOption",
-        "outputType": "x",
-        "p": 2,
-        "x": 160,
-        "y": 397
-    },
-    {
-        "key": "frontend_riders",
-        "outputType": "text",
-        "p": 2,
-        "x": 160,
-        "y": 397
-    },
-    {
-        "key": "front_policy_riders",
-        "outputType": "text",
-        "p": 2,
-        "x": 160,
-        "y": 397
-    },
-    {
-        "key": "policy_insuredPerson_customer_partner_sex",
-        "outputType": "text",
-        "p": 2,
-        "x": 160,
-        "y": 397
-    },
-    {
-        "key": "policy_policyDetails_insured_previuosPolicyFlag",
-        "outputType": "x",
-        "p": 3,
-        "x": 160,
-        "y": 200
-    },
-    {
-        "key": "policy_policyDetails_insured_rejectInsurerFlag",
-        "outputType": "x",
-        "p": 3,
-        "x": 160,
-        "y": 397
-    },
-    {
-        "key": "policy_policyDetails_insured_familyHealthHistoryFlag",
-        "outputType": "text",
-        "p": 3,
-        "x": 160,
-        "y": 397
-    }
+  {
+    "key": "inforceFlag",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "frontend_riders",
+    "p": 1,
+    "x": 246,
+    "y": 200
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_firstName",
+    "p": 1,
+    "x": 133,
+    "y": 397
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_lastName",
+    "p": 1,
+    "x": 246,
+    "y": 397
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_middlename",
+    "p": 1,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyBase_dividendOption",
+    "outputType": "x",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "frontend_riders",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_sex",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "inforceFlag_2",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyBase_premiumTerm",
+    "p": 3,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyBase_benefitTerm",
+    "p": 3,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyDetails_insured_previuosPolicyFlag",
+    "outputType": "x",
+    "p": 3,
+    "x": 160,
+    "y": 200
+  },
+  {
+    "key": "policy_policyDetails_insured_rejectInsurerFlag",
+    "outputType": "x",
+    "p": 3,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyDetails_insured_familyHealthHistoryFlag",
+    "outputType": "text",
+    "p": 3,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "inforceFlag",
+    "p": 4,
+    "x": 445,
+    "y": 300
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_bornCountry",
+    "p": 4,
+    "x": 410,
+    "y": 381
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_nationality",
+    "p": 4,
+    "x": 450,
+    "y": 348
+  },
+  {
+    "key": "policy_policyBase_planCode",
+    "p": 4,
+    "x": 100,
+    "y": 54
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_title",
+    "p": 4,
+    "x": 100,
+    "y": 54
+  }
 ]

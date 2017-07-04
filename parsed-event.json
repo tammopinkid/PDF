@@ -1,0 +1,3443 @@
+{
+  "agentId": {
+    "key": "agentId",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "type": "setValue",
+        "componentType": "Auto",
+        "fieldName": "agentId",
+        "value": "5225199"
+      }
+    }
+  },
+  "isPaperless": {
+    "key": "isPaperless",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "type": "setValue",
+        "componentType": "Auto",
+        "fieldName": "isPaperless",
+        "value": true
+      }
+    }
+  },
+  "appStatus": {
+    "key": "appStatus",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "type": "setValue",
+        "componentType": "Auto",
+        "fieldName": "appStatus",
+        "value": {
+          "code": "DRAFT",
+          "th": "แบบร่าง",
+          "en": "Draft"
+        }
+      }
+    }
+  },
+  "policy_policyBase_policyNo": {
+    "key": "policy_policyBase_policyNo",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Auto",
+        "fieldName": "policy_policyBase_policyNo",
+        "value": "3018920664",
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_insuredPerson_customer_partner_bornCountry": {
+    "key": "policy_insuredPerson_customer_partner_bornCountry",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "policy_insuredPerson_customer_partner_bornCountry",
+        "componentType": "InfiniteDropdown",
+        "value": {
+          "value": "TH",
+          "label": {
+            "en": "Thailand - ISO code",
+            "th": "ไทย"
+          }
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_insuredPerson_customer_partner_nationality": {
+    "key": "policy_insuredPerson_customer_partner_nationality",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "policy_insuredPerson_customer_partner_nationality",
+        "componentType": "InfiniteDropdown",
+        "value": {
+          "value": "TH",
+          "label": {
+            "en": "Thailand - ISO code",
+            "th": "ไทย"
+          }
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "policyNewApp_questionNMix_doctorDiagList": {
+    "key": "policyNewApp_questionNMix_doctorDiagList",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "YesNoList",
+        "fieldName": "policyNewApp_questionNMix_doctorDiagList",
+        "value": [
+          {
+            "label": {
+              "en": "Visual Impairment",
+              "th": "สายตาพิการ"
+            },
+            "value": 1,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Glaucoma",
+              "th": "โรคต้อหิน"
+            },
+            "value": 2,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Cerebrovascular disease",
+              "th": "โรคหลอดเลือดในสมอง"
+            },
+            "value": 3,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Paralysis",
+              "th": "โรคอัมพฤกษ์/อัมพาต"
+            },
+            "value": 4,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Parkinson's disease",
+              "th": "โรคพาร์กินสัน"
+            },
+            "value": 5,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Seizure",
+              "th": "โรคชัก"
+            },
+            "value": 6,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Lung disease",
+              "th": "โรคปอด"
+            },
+            "value": 7,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Tuberculosis",
+              "th": "โรควัณโรค"
+            },
+            "value": 8,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Asthma",
+              "th": "โรคหอบหืด"
+            },
+            "value": 9,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "COPD (Chronic obstructive pulmonary disease)",
+              "th": "ถุงลมโป่งพอง"
+            },
+            "value": 10,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "OSA (Obstructive sleep apnoea)",
+              "th": "ภาวะหยุดหายใจขณะหลับ"
+            },
+            "value": 11,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Hypertension",
+              "th": "ความดันโลหิตสูง"
+            },
+            "value": 12,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Heart Disease",
+              "th": "โรคหัวใจ"
+            },
+            "value": 13,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Cardiovascular disease",
+              "th": "โรคเส้นเลือดหัวใจตีบ"
+            },
+            "value": 14,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Vascular disease",
+              "th": "โรคหลอดเลือด"
+            },
+            "value": 15,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Gastric ulcer",
+              "th": "โรคแผลในทางเดินอาหาร"
+            },
+            "value": 16,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Liver or biliary duct  disease",
+              "th": "โรคตับหรือทางเดินน้ำดี"
+            },
+            "value": 17,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Alcoholism",
+              "th": "โรคพิษสุราเรื้อรัง"
+            },
+            "value": 18,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Jaundice",
+              "th": "ดีซ่าน"
+            },
+            "value": 19,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Splenomegaly",
+              "th": "ม้ามโต"
+            },
+            "value": 20,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Pancreatitis",
+              "th": "โรคตับอ่อนอักเสบ"
+            },
+            "value": 21,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Kidney disease",
+              "th": "โรคไต"
+            },
+            "value": 22,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Arthritis",
+              "th": "โรคข้ออักเสบ"
+            },
+            "value": 23,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Gout",
+              "th": "โรคเก๊าท์"
+            },
+            "value": 24,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Scleroderma",
+              "th": "โรคหนังแข็ง"
+            },
+            "value": 25,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "SLE (System Lupus Erythematous)",
+              "th": "โรคเอสแอลอี"
+            },
+            "value": 26,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Blood disease",
+              "th": "โรคเลือด"
+            },
+            "value": 27,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Diabetes Mellitus",
+              "th": "โรคเบาหวาน"
+            },
+            "value": 28,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Thyroid disease",
+              "th": "โรคไทรอยด์"
+            },
+            "value": 29,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Lymph node enlargement",
+              "th": "โรคต่อมน้ำเหลืองโต"
+            },
+            "value": 30,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Tumor  /  Nodule /  Cyst",
+              "th": "เนื้องอก ก้อนหรือถุงน้ำ"
+            },
+            "value": 31,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Cancer",
+              "th": "โรคมะเร็ง"
+            },
+            "value": 32,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "AIDS or HIV",
+              "th": "โรคเอดส์หรือภูมิคุ้มกันบกพร่อง"
+            },
+            "value": 33,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Venereal disease (within 2 years)",
+              "th": "โรคกามโรค (ภายใน 2 ปี)"
+            },
+            "value": 34,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Physical impairment",
+              "th": "พิการทางร่างกาย"
+            },
+            "value": 35,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Psychosis",
+              "th": "โรคจิต"
+            },
+            "value": 36,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Neurosis",
+              "th": "โรคประสาท"
+            },
+            "value": 37,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Depressive disorder",
+              "th": "โรคซึมเศร้า"
+            },
+            "value": 38,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Down's syndrome",
+              "th": "ดาวน์ซินโดรม"
+            },
+            "value": 39,
+            "group": null,
+            "backend": "{}",
+            "groupType": "DOCTOR_DIAG",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_policyBase_planCode": {
+    "key": "policy_policyBase_planCode",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "InfiniteDropdown",
+        "fieldName": "policy_policyBase_planCode",
+        "value": {
+          "giosProductId": "26",
+          "label": {
+            "th": "MSS15/10......มาย สมาร์ท แพลน 15/10 (มีเงินปันผล)",
+            "en": "MSS15/10......มาย สมาร์ท แพลน 15/10 (มีเงินปันผล)"
+          },
+          "businessProductId": "377",
+          "premiumTerm": "10",
+          "premiumTermMin": null,
+          "benefitTermType": "F",
+          "benefitTermMin": null,
+          "value": "MSS15/10",
+          "premiumTermType": "F",
+          "benefitTerm": "15",
+          "appType": "FULL",
+          "mainCoverCode": "L001HC",
+          "guaranteeDividendFlag": "NDV",
+          "premiumTermMax": null,
+          "dividendFlag": "Y",
+          "benefitTermMax": null,
+          "groupId": "23"
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_policyBase_premiumTerm": {
+    "key": "policy_policyBase_premiumTerm",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "policy_policyBase_premiumTerm",
+        "value": "10",
+        "type": "setValue",
+        "componentType": "Picker"
+      }
+    }
+  },
+  "policy_policyBase_benefitTerm": {
+    "key": "policy_policyBase_benefitTerm",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "policy_policyBase_benefitTerm",
+        "value": "15",
+        "type": "setValue",
+        "componentType": "Picker"
+      }
+    }
+  },
+  "policy_policyBase_dividendOption": {
+    "key": "policy_policyBase_dividendOption",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "policy_policyBase_dividendOption",
+        "value": {
+          "1": {
+            "checked": false,
+            "value": "1",
+            "order": 3,
+            "label": {
+              "th": "ขอรับเป็นเงินสด",
+              "en": "Cash"
+            },
+            "backend": "{}"
+          },
+          "2": {
+            "checked": false,
+            "value": "2",
+            "order": 2,
+            "label": {
+              "th": "นำไปลดเบี้ยประกันภัย",
+              "en": "Deduct the premium"
+            },
+            "backend": "{}"
+          },
+          "3": {
+            "checked": true,
+            "value": "3",
+            "order": 1,
+            "label": {
+              "th": "ฝากไว้กับบริษัท",
+              "en": "Accumulate at the company"
+            },
+            "backend": "{}"
+          }
+        },
+        "componentType": "Option",
+        "type": "setValue"
+      }
+    }
+  },
+  "frontend_riders": {
+    "key": "frontend_riders",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Option",
+        "fieldName": "frontend_riders",
+        "value": {
+          "yes": {
+            "order": 0,
+            "value": "yes",
+            "label": {
+              "en": "Yes",
+              "th": "ต้องการ"
+            },
+            "checked": true
+          },
+          "no": {
+            "order": 1,
+            "value": "no",
+            "label": {
+              "en": "No",
+              "th": "ไม่ต้องการ"
+            },
+            "checked": false
+          }
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "frontend_boughtHealthRider": {
+    "key": "frontend_boughtHealthRider",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Auto",
+        "fieldName": "frontend_boughtHealthRider",
+        "value": true,
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_riders": {
+    "key": "policy_riders",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "CardList",
+        "fieldName": "policy_riders",
+        "value": [
+          {
+            "value": "ADB",
+            "label": {
+              "th": "(ADB) อุบัติเหตุ อ.3",
+              "en": "(ADB) อุบัติเหตุ อ.3"
+            },
+            "coverCode": "R001EA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R001EA",
+                "label": {
+                  "th": "อุบัติเหตุ อ.3",
+                  "en": "อุบัติเหตุ อ.3"
+                },
+                "coverCode": "R001EA",
+                "riderCode": "ADB",
+                "sumInsured": null
+              }
+            ],
+            "index": 0,
+            "slideId": 82634,
+            "riderCode": "ADB"
+          },
+          {
+            "value": "ADD_RCC",
+            "label": {
+              "th": "(ADD_RCC) สลักหลังอุบัติเหตุ อ2",
+              "en": "(ADD_RCC) สลักหลังอุบัติเหตุ อ2"
+            },
+            "coverCode": "R003CA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R003CA",
+                "label": {
+                  "th": "สลักหลังอุบัติเหตุ อ2",
+                  "en": "สลักหลังอุบัติเหตุ อ2"
+                },
+                "coverCode": "R003CA",
+                "riderCode": "ADD_RCC",
+                "sumInsured": null
+              }
+            ],
+            "index": 1,
+            "slideId": 70763,
+            "riderCode": "ADD_RCC"
+          },
+          {
+            "value": "AI_RCC",
+            "label": {
+              "th": "(AI_RCC) สลักหลังอุบัติเหตุ อ1",
+              "en": "(AI_RCC) สลักหลังอุบัติเหตุ อ1"
+            },
+            "coverCode": "R003BA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R003BA",
+                "label": {
+                  "th": "สลักหลังอุบัติเหตุ อ1",
+                  "en": "สลักหลังอุบัติเหตุ อ1"
+                },
+                "coverCode": "R003BA",
+                "riderCode": "AI_RCC",
+                "sumInsured": null
+              }
+            ],
+            "index": 2,
+            "slideId": 7128,
+            "riderCode": "AI_RCC"
+          },
+          {
+            "value": "CI48",
+            "label": {
+              "th": "(CI48) คุ้มครองโรคร้ายแรง 48",
+              "en": "(CI48) คุ้มครองโรคร้ายแรง 48"
+            },
+            "coverCode": "R002GA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R002GA",
+                "label": {
+                  "th": "คุ้มครองโรคร้ายแรง 48",
+                  "en": "คุ้มครองโรคร้ายแรง 48"
+                },
+                "coverCode": "R002GA",
+                "riderCode": "CI48",
+                "sumInsured": null
+              }
+            ],
+            "index": 3,
+            "slideId": 98860,
+            "riderCode": "CI48"
+          },
+          {
+            "value": "HB",
+            "label": {
+              "th": "(HB) ค่ารักษาพยาบาลรายวัน",
+              "en": "(HB) ค่ารักษาพยาบาลรายวัน"
+            },
+            "coverCode": "R008EA",
+            "sumInsured": null,
+            "isHealth": true,
+            "SA": "NONE",
+            "options": [
+              {
+                "value": "R008EA",
+                "label": {
+                  "th": "ค่ารักษาพยาบาลรายวัน",
+                  "en": "ค่ารักษาพยาบาลรายวัน"
+                },
+                "coverCode": "R008EA",
+                "riderCode": "HB",
+                "sumInsured": null
+              }
+            ],
+            "index": 4,
+            "slideId": 58904,
+            "riderCode": "HB"
+          },
+          {
+            "value": "HSMHPE",
+            "label": {
+              "th": "(HSMHPE) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+              "en": "(HSMHPE) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+            },
+            "coverCode": "R004OD",
+            "sumInsured": "10000000",
+            "isHealth": true,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R004OD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004OD",
+                "riderCode": "HSMHPE",
+                "sumInsured": "10000000"
+              },
+              {
+                "value": "R004KD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004KD",
+                "riderCode": "HSMHPE",
+                "sumInsured": "2000000"
+              },
+              {
+                "value": "R004LD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004LD",
+                "riderCode": "HSMHPE",
+                "sumInsured": "4000000"
+              },
+              {
+                "value": "R004MD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004MD",
+                "riderCode": "HSMHPE",
+                "sumInsured": "6000000"
+              },
+              {
+                "value": "R004ND",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004ND",
+                "riderCode": "HSMHPE",
+                "sumInsured": "8000000"
+              }
+            ],
+            "index": 5,
+            "slideId": 13545,
+            "riderCode": "HSMHPE"
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "frontend_plan_summary": {
+    "key": "frontend_plan_summary",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "frontend_plan_summary",
+        "type": "setValue",
+        "componentType": "TablePlanSummary"
+      }
+    }
+  },
+  "front_policy_riders": {
+    "key": "front_policy_riders",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Option",
+        "fieldName": "front_policy_riders",
+        "value": {
+          "ADB": {
+            "value": "ADB",
+            "label": {
+              "th": "(ADB) อุบัติเหตุ อ.3",
+              "en": "(ADB) อุบัติเหตุ อ.3"
+            },
+            "coverCode": "R001EA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R001EA",
+                "label": {
+                  "th": "อุบัติเหตุ อ.3",
+                  "en": "อุบัติเหตุ อ.3"
+                },
+                "coverCode": "R001EA",
+                "riderCode": "ADB",
+                "sumInsured": null
+              }
+            ],
+            "checked": true
+          },
+          "ADD": {
+            "value": "ADD",
+            "label": {
+              "th": "(ADD) อุบัติเหตุ อ.2",
+              "en": "(ADD) อุบัติเหตุ อ.2"
+            },
+            "coverCode": "R001DA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R001DA",
+                "label": {
+                  "th": "อุบัติเหตุ อ.2",
+                  "en": "อุบัติเหตุ อ.2"
+                },
+                "coverCode": "R001DA",
+                "riderCode": "ADD",
+                "sumInsured": null
+              }
+            ]
+          },
+          "ADD_RCC": {
+            "value": "ADD_RCC",
+            "label": {
+              "th": "(ADD_RCC) สลักหลังอุบัติเหตุ อ2",
+              "en": "(ADD_RCC) สลักหลังอุบัติเหตุ อ2"
+            },
+            "coverCode": "R003CA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R003CA",
+                "label": {
+                  "th": "สลักหลังอุบัติเหตุ อ2",
+                  "en": "สลักหลังอุบัติเหตุ อ2"
+                },
+                "coverCode": "R003CA",
+                "riderCode": "ADD_RCC",
+                "sumInsured": null
+              }
+            ],
+            "checked": true
+          },
+          "AI": {
+            "value": "AI",
+            "label": {
+              "th": "(AI) อุบัติเหตุ อ.1",
+              "en": "(AI) อุบัติเหตุ อ.1"
+            },
+            "coverCode": "R001CA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R001CA",
+                "label": {
+                  "th": "อุบัติเหตุ อ.1",
+                  "en": "อุบัติเหตุ อ.1"
+                },
+                "coverCode": "R001CA",
+                "riderCode": "AI",
+                "sumInsured": null
+              }
+            ]
+          },
+          "AI_RCC": {
+            "value": "AI_RCC",
+            "label": {
+              "th": "(AI_RCC) สลักหลังอุบัติเหตุ อ1",
+              "en": "(AI_RCC) สลักหลังอุบัติเหตุ อ1"
+            },
+            "coverCode": "R003BA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R003BA",
+                "label": {
+                  "th": "สลักหลังอุบัติเหตุ อ1",
+                  "en": "สลักหลังอุบัติเหตุ อ1"
+                },
+                "coverCode": "R003BA",
+                "riderCode": "AI_RCC",
+                "sumInsured": null
+              }
+            ],
+            "checked": true
+          },
+          "CB": {
+            "value": "CB",
+            "label": {
+              "th": "(CB) คุ้มครองโรคมะเร็ง",
+              "en": "(CB) คุ้มครองโรคมะเร็ง"
+            },
+            "coverCode": "R002HA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R002HA",
+                "label": {
+                  "th": "คุ้มครองโรคมะเร็ง",
+                  "en": "คุ้มครองโรคมะเร็ง"
+                },
+                "coverCode": "R002HA",
+                "riderCode": "CB",
+                "sumInsured": null
+              }
+            ]
+          },
+          "CI48": {
+            "value": "CI48",
+            "label": {
+              "th": "(CI48) คุ้มครองโรคร้ายแรง 48",
+              "en": "(CI48) คุ้มครองโรคร้ายแรง 48"
+            },
+            "coverCode": "R002GA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R002GA",
+                "label": {
+                  "th": "คุ้มครองโรคร้ายแรง 48",
+                  "en": "คุ้มครองโรคร้ายแรง 48"
+                },
+                "coverCode": "R002GA",
+                "riderCode": "CI48",
+                "sumInsured": null
+              }
+            ],
+            "checked": true
+          },
+          "HB": {
+            "value": "HB",
+            "label": {
+              "th": "(HB) ค่ารักษาพยาบาลรายวัน",
+              "en": "(HB) ค่ารักษาพยาบาลรายวัน"
+            },
+            "coverCode": "R008EA",
+            "sumInsured": null,
+            "isHealth": true,
+            "SA": "NONE",
+            "options": [
+              {
+                "value": "R008EA",
+                "label": {
+                  "th": "ค่ารักษาพยาบาลรายวัน",
+                  "en": "ค่ารักษาพยาบาลรายวัน"
+                },
+                "coverCode": "R008EA",
+                "riderCode": "HB",
+                "sumInsured": null
+              }
+            ],
+            "checked": true
+          },
+          "HBCI": {
+            "value": "HBCI",
+            "label": {
+              "th": "(HBCI) ค่ารักษาพยาบาลรายวันและ 5 โรคร้ายแรง",
+              "en": "(HBCI) ค่ารักษาพยาบาลรายวันและ 5 โรคร้ายแรง"
+            },
+            "coverCode": "R008YA",
+            "sumInsured": null,
+            "isHealth": true,
+            "SA": "NONE",
+            "options": [
+              {
+                "value": "R008YA",
+                "label": {
+                  "th": "ค่ารักษาพยาบาลรายวันและ 5 โรคร้ายแรง",
+                  "en": "ค่ารักษาพยาบาลรายวันและ 5 โรคร้ายแรง"
+                },
+                "coverCode": "R008YA",
+                "riderCode": "HBCI",
+                "sumInsured": null
+              }
+            ]
+          },
+          "HBP": {
+            "value": "HBP",
+            "label": {
+              "th": "(HBP) ค่ารักษาพยาบาลรายวันพิเศษ",
+              "en": "(HBP) ค่ารักษาพยาบาลรายวันพิเศษ"
+            },
+            "coverCode": "R008FA",
+            "sumInsured": null,
+            "isHealth": true,
+            "SA": "NONE",
+            "options": [
+              {
+                "value": "R008FA",
+                "label": {
+                  "th": "ค่ารักษาพยาบาลรายวันพิเศษ",
+                  "en": "ค่ารักษาพยาบาลรายวันพิเศษ"
+                },
+                "coverCode": "R008FA",
+                "riderCode": "HBP",
+                "sumInsured": null
+              }
+            ]
+          },
+          "HSMHPE": {
+            "value": "HSMHPE",
+            "label": {
+              "th": "(HSMHPE) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+              "en": "(HSMHPE) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+            },
+            "coverCode": "R004OD",
+            "sumInsured": "10000000",
+            "isHealth": true,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R004OD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004OD",
+                "riderCode": "HSMHPE",
+                "sumInsured": "10000000"
+              },
+              {
+                "value": "R004KD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004KD",
+                "riderCode": "HSMHPE",
+                "sumInsured": "2000000"
+              },
+              {
+                "value": "R004LD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004LD",
+                "riderCode": "HSMHPE",
+                "sumInsured": "4000000"
+              },
+              {
+                "value": "R004MD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004MD",
+                "riderCode": "HSMHPE",
+                "sumInsured": "6000000"
+              },
+              {
+                "value": "R004ND",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า."
+                },
+                "coverCode": "R004ND",
+                "riderCode": "HSMHPE",
+                "sumInsured": "8000000"
+              }
+            ],
+            "checked": true
+          },
+          "HSMHPED": {
+            "value": "HSMHPED",
+            "label": {
+              "th": "(HSMHPED) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก",
+              "en": "(HSMHPED) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก"
+            },
+            "coverCode": "R004TD",
+            "sumInsured": "10000000",
+            "isHealth": true,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R004TD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก"
+                },
+                "coverCode": "R004TD",
+                "riderCode": "HSMHPED",
+                "sumInsured": "10000000"
+              },
+              {
+                "value": "R004PD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก"
+                },
+                "coverCode": "R004PD",
+                "riderCode": "HSMHPED",
+                "sumInsured": "2000000"
+              },
+              {
+                "value": "R004QD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก"
+                },
+                "coverCode": "R004QD",
+                "riderCode": "HSMHPED",
+                "sumInsured": "4000000"
+              },
+              {
+                "value": "R004RD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก"
+                },
+                "coverCode": "R004RD",
+                "riderCode": "HSMHPED",
+                "sumInsured": "6000000"
+              },
+              {
+                "value": "R004SD",
+                "label": {
+                  "th": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก",
+                  "en": "ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก"
+                },
+                "coverCode": "R004SD",
+                "riderCode": "HSMHPED",
+                "sumInsured": "8000000"
+              }
+            ]
+          },
+          "HSPS": {
+            "value": "HSPS",
+            "label": {
+              "th": "(HSPS) ผู้ป่วยในพรีเมียร์",
+              "en": "(HSPS) ผู้ป่วยในพรีเมียร์"
+            },
+            "coverCode": "R004WB",
+            "sumInsured": "1000",
+            "isHealth": true,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R004WB",
+                "label": {
+                  "th": "ผู้ป่วยในพรีเมียร์",
+                  "en": "ผู้ป่วยในพรีเมียร์"
+                },
+                "coverCode": "R004WB",
+                "riderCode": "HSPS",
+                "sumInsured": "1000"
+              },
+              {
+                "value": "R004XB",
+                "label": {
+                  "th": "ผู้ป่วยในพรีเมียร์",
+                  "en": "ผู้ป่วยในพรีเมียร์"
+                },
+                "coverCode": "R004XB",
+                "riderCode": "HSPS",
+                "sumInsured": "1500"
+              },
+              {
+                "value": "R004YB",
+                "label": {
+                  "th": "ผู้ป่วยในพรีเมียร์",
+                  "en": "ผู้ป่วยในพรีเมียร์"
+                },
+                "coverCode": "R004YB",
+                "riderCode": "HSPS",
+                "sumInsured": "2000"
+              },
+              {
+                "value": "R004ZB",
+                "label": {
+                  "th": "ผู้ป่วยในพรีเมียร์",
+                  "en": "ผู้ป่วยในพรีเมียร์"
+                },
+                "coverCode": "R004ZB",
+                "riderCode": "HSPS",
+                "sumInsured": "3000"
+              },
+              {
+                "value": "R004AC",
+                "label": {
+                  "th": "ผู้ป่วยในพรีเมียร์",
+                  "en": "ผู้ป่วยในพรีเมียร์"
+                },
+                "coverCode": "R004AC",
+                "riderCode": "HSPS",
+                "sumInsured": "4000"
+              },
+              {
+                "value": "R004VB",
+                "label": {
+                  "th": "ผู้ป่วยในพรีเมียร์",
+                  "en": "ผู้ป่วยในพรีเมียร์"
+                },
+                "coverCode": "R004VB",
+                "riderCode": "HSPS",
+                "sumInsured": "500"
+              },
+              {
+                "value": "R004BC",
+                "label": {
+                  "th": "ผู้ป่วยในพรีเมียร์",
+                  "en": "ผู้ป่วยในพรีเมียร์"
+                },
+                "coverCode": "R004BC",
+                "riderCode": "HSPS",
+                "sumInsured": "5000"
+              },
+              {
+                "value": "R004CC",
+                "label": {
+                  "th": "ผู้ป่วยในพรีเมียร์",
+                  "en": "ผู้ป่วยในพรีเมียร์"
+                },
+                "coverCode": "R004CC",
+                "riderCode": "HSPS",
+                "sumInsured": "6000"
+              }
+            ]
+          },
+          "HSS": {
+            "value": "HSS",
+            "label": {
+              "th": "(HSS) ผู้ป่วยใน",
+              "en": "(HSS) ผู้ป่วยใน"
+            },
+            "coverCode": "R004IB",
+            "sumInsured": "1100",
+            "isHealth": true,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R004IB",
+                "label": {
+                  "th": "ผู้ป่วยใน",
+                  "en": "ผู้ป่วยใน"
+                },
+                "coverCode": "R004IB",
+                "riderCode": "HSS",
+                "sumInsured": "1100"
+              },
+              {
+                "value": "R004JB",
+                "label": {
+                  "th": "ผู้ป่วยใน",
+                  "en": "ผู้ป่วยใน"
+                },
+                "coverCode": "R004JB",
+                "riderCode": "HSS",
+                "sumInsured": "1700"
+              },
+              {
+                "value": "R004KB",
+                "label": {
+                  "th": "ผู้ป่วยใน",
+                  "en": "ผู้ป่วยใน"
+                },
+                "coverCode": "R004KB",
+                "riderCode": "HSS",
+                "sumInsured": "2400"
+              },
+              {
+                "value": "R004LB",
+                "label": {
+                  "th": "ผู้ป่วยใน",
+                  "en": "ผู้ป่วยใน"
+                },
+                "coverCode": "R004LB",
+                "riderCode": "HSS",
+                "sumInsured": "3000"
+              },
+              {
+                "value": "R004MB",
+                "label": {
+                  "th": "ผู้ป่วยใน",
+                  "en": "ผู้ป่วยใน"
+                },
+                "coverCode": "R004MB",
+                "riderCode": "HSS",
+                "sumInsured": "4000"
+              },
+              {
+                "value": "R004HB",
+                "label": {
+                  "th": "ผู้ป่วยใน",
+                  "en": "ผู้ป่วยใน"
+                },
+                "coverCode": "R004HB",
+                "riderCode": "HSS",
+                "sumInsured": "500"
+              },
+              {
+                "value": "R004VC",
+                "label": {
+                  "th": "ผู้ป่วยใน",
+                  "en": "ผู้ป่วยใน"
+                },
+                "coverCode": "R004VC",
+                "riderCode": "HSS",
+                "sumInsured": "5000"
+              },
+              {
+                "value": "R004WC",
+                "label": {
+                  "th": "ผู้ป่วยใน",
+                  "en": "ผู้ป่วยใน"
+                },
+                "coverCode": "R004WC",
+                "riderCode": "HSS",
+                "sumInsured": "8000"
+              }
+            ]
+          },
+          "OPDBS": {
+            "value": "OPDBS",
+            "label": {
+              "th": "(OPDBS) สลักหลังผู้ป่วยนอก",
+              "en": "(OPDBS) สลักหลังผู้ป่วยนอก"
+            },
+            "coverCode": "R012VC",
+            "sumInsured": "1000",
+            "isHealth": true,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R012VC",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012VC",
+                "riderCode": "OPDBS",
+                "sumInsured": "1000"
+              },
+              {
+                "value": "R012QD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012QD",
+                "riderCode": "OPDBS",
+                "sumInsured": "1500"
+              },
+              {
+                "value": "R012RD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012RD",
+                "riderCode": "OPDBS",
+                "sumInsured": "2000"
+              },
+              {
+                "value": "R012PC",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012PC",
+                "riderCode": "OPDBS",
+                "sumInsured": "400"
+              },
+              {
+                "value": "R012QC",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012QC",
+                "riderCode": "OPDBS",
+                "sumInsured": "500"
+              },
+              {
+                "value": "R012RC",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012RC",
+                "riderCode": "OPDBS",
+                "sumInsured": "600"
+              },
+              {
+                "value": "R012SC",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012SC",
+                "riderCode": "OPDBS",
+                "sumInsured": "700"
+              },
+              {
+                "value": "R012TC",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012TC",
+                "riderCode": "OPDBS",
+                "sumInsured": "800"
+              },
+              {
+                "value": "R012UC",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอก",
+                  "en": "สลักหลังผู้ป่วยนอก"
+                },
+                "coverCode": "R012UC",
+                "riderCode": "OPDBS",
+                "sumInsured": "900"
+              }
+            ]
+          },
+          "OPDME": {
+            "value": "OPDME",
+            "label": {
+              "th": "(OPDME) บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+              "en": "(OPDME) บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+            },
+            "coverCode": "R012MH",
+            "sumInsured": "1000",
+            "isHealth": true,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R012MH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012MH",
+                "riderCode": "OPDME",
+                "sumInsured": "1000"
+              },
+              {
+                "value": "R012NH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012NH",
+                "riderCode": "OPDME",
+                "sumInsured": "1500"
+              },
+              {
+                "value": "R012OH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012OH",
+                "riderCode": "OPDME",
+                "sumInsured": "2000"
+              },
+              {
+                "value": "R012PH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012PH",
+                "riderCode": "OPDME",
+                "sumInsured": "2500"
+              },
+              {
+                "value": "R012QH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012QH",
+                "riderCode": "OPDME",
+                "sumInsured": "3000"
+              },
+              {
+                "value": "R012RH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012RH",
+                "riderCode": "OPDME",
+                "sumInsured": "3500"
+              },
+              {
+                "value": "R012GH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012GH",
+                "riderCode": "OPDME",
+                "sumInsured": "400"
+              },
+              {
+                "value": "R012SH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012SH",
+                "riderCode": "OPDME",
+                "sumInsured": "4000"
+              },
+              {
+                "value": "R012HH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012HH",
+                "riderCode": "OPDME",
+                "sumInsured": "500"
+              },
+              {
+                "value": "R012IH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012IH",
+                "riderCode": "OPDME",
+                "sumInsured": "600"
+              },
+              {
+                "value": "R012JH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012JH",
+                "riderCode": "OPDME",
+                "sumInsured": "700"
+              },
+              {
+                "value": "R012KH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012KH",
+                "riderCode": "OPDME",
+                "sumInsured": "800"
+              },
+              {
+                "value": "R012LH",
+                "label": {
+                  "th": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า",
+                  "en": "บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า"
+                },
+                "coverCode": "R012LH",
+                "riderCode": "OPDME",
+                "sumInsured": "900"
+              }
+            ]
+          },
+          "OPDPS": {
+            "value": "OPDPS",
+            "label": {
+              "th": "(OPDPS) สลักหลังผู้ป่วยนอกพรีเมียร์",
+              "en": "(OPDPS) สลักหลังผู้ป่วยนอกพรีเมียร์"
+            },
+            "coverCode": "R012JD",
+            "sumInsured": "1000",
+            "isHealth": true,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R012JD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012JD",
+                "riderCode": "OPDPS",
+                "sumInsured": "1000"
+              },
+              {
+                "value": "R012KD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012KD",
+                "riderCode": "OPDPS",
+                "sumInsured": "1500"
+              },
+              {
+                "value": "R012LD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012LD",
+                "riderCode": "OPDPS",
+                "sumInsured": "2000"
+              },
+              {
+                "value": "R012DD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012DD",
+                "riderCode": "OPDPS",
+                "sumInsured": "400"
+              },
+              {
+                "value": "R012ED",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012ED",
+                "riderCode": "OPDPS",
+                "sumInsured": "500"
+              },
+              {
+                "value": "R012FD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012FD",
+                "riderCode": "OPDPS",
+                "sumInsured": "600"
+              },
+              {
+                "value": "R012GD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012GD",
+                "riderCode": "OPDPS",
+                "sumInsured": "700"
+              },
+              {
+                "value": "R012HD",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012HD",
+                "riderCode": "OPDPS",
+                "sumInsured": "800"
+              },
+              {
+                "value": "R012ID",
+                "label": {
+                  "th": "สลักหลังผู้ป่วยนอกพรีเมียร์",
+                  "en": "สลักหลังผู้ป่วยนอกพรีเมียร์"
+                },
+                "coverCode": "R012ID",
+                "riderCode": "OPDPS",
+                "sumInsured": "900"
+              }
+            ]
+          },
+          "PB4": {
+            "value": "PB4",
+            "label": {
+              "th": "(PB4) ผลประโยชน์ผู้ชำระเบี้ยฯ",
+              "en": "(PB4) ผลประโยชน์ผู้ชำระเบี้ยฯ"
+            },
+            "coverCode": "R007DA",
+            "sumInsured": null,
+            "isPB": true,
+            "SA": "FIX_SA",
+            "options": [
+              {
+                "value": "R007DA",
+                "label": {
+                  "th": "ผลประโยชน์ผู้ชำระเบี้ยฯ",
+                  "en": "ผลประโยชน์ผู้ชำระเบี้ยฯ"
+                },
+                "coverCode": "R007DA",
+                "riderCode": "PB4",
+                "sumInsured": null
+              }
+            ]
+          },
+          "TRC_A": {
+            "value": "TRC_A",
+            "label": {
+              "th": "(TRC_A) สัญญาเพิ่มเติมแบบเฉพาะกาล ชนิดเปลี่ยนเป็นกรมธรรม์ประกันภัยได้",
+              "en": "(TRC_A) สัญญาเพิ่มเติมแบบเฉพาะกาล ชนิดเปลี่ยนเป็นกรมธรรม์ประกันภัยได้"
+            },
+            "coverCode": "R006IA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R006IA",
+                "label": {
+                  "th": "สัญญาเพิ่มเติมแบบเฉพาะกาล ชนิดเปลี่ยนเป็นกรมธรรม์ประกันภัยได้",
+                  "en": "สัญญาเพิ่มเติมแบบเฉพาะกาล ชนิดเปลี่ยนเป็นกรมธรรม์ประกันภัยได้"
+                },
+                "coverCode": "R006IA",
+                "riderCode": "TRC_A",
+                "sumInsured": null,
+                "benefitTerm": 0,
+                "premiumTerm": 0
+              }
+            ]
+          },
+          "TRN_A": {
+            "value": "TRN_A",
+            "label": {
+              "th": "(TRN_A) เฉพาะกาล",
+              "en": "(TRN_A) เฉพาะกาล"
+            },
+            "coverCode": "R006EA",
+            "sumInsured": null,
+            "SA": "PRE_SA",
+            "options": [
+              {
+                "value": "R006EA",
+                "label": {
+                  "th": "เฉพาะกาล",
+                  "en": "เฉพาะกาล"
+                },
+                "coverCode": "R006EA",
+                "riderCode": "TRN_A",
+                "sumInsured": null,
+                "benefitTerm": 0,
+                "premiumTerm": 0
+              }
+            ]
+          },
+          "WP": {
+            "value": "WP",
+            "label": {
+              "th": "(WP) ทุพพลภาพ (ทพ1)",
+              "en": "(WP) ทุพพลภาพ (ทพ1)"
+            },
+            "coverCode": "R007BA",
+            "sumInsured": null,
+            "SA": "FIX_SA",
+            "options": [
+              {
+                "value": "R007BA",
+                "label": {
+                  "th": "ทุพพลภาพ (ทพ1)",
+                  "en": "ทุพพลภาพ (ทพ1)"
+                },
+                "coverCode": "R007BA",
+                "riderCode": "WP",
+                "sumInsured": null
+              }
+            ]
+          }
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_beneficiary": {
+    "key": "policy_beneficiary",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "type": "setValue",
+        "componentType": "CardList",
+        "fieldName": "policy_beneficiary",
+        "value": [
+          {
+            "slideId": 23483,
+            "label": {
+              "en": "Beneficiary number",
+              "th": "ผู้รับประโยชน์คนที่"
+            },
+            "share": 20,
+            "index": 0,
+            "title": {
+              "value": "น.ส.",
+              "label": {
+                "th": "น.ส.",
+                "en": "น.ส."
+              },
+              "gender": "F"
+            },
+            "firstName": "พวงมาลัยทอง",
+            "lastName": "ครองรักที่วังเวียง",
+            "relation": {
+              "value": "LEGGUARD",
+              "label": {
+                "th": "ผู้ปกครองโดยชอบธรรม",
+                "en": "PARENT"
+              }
+            },
+            "address_country": {
+              "value": "TH",
+              "label": {
+                "th": "ไทย",
+                "en": "Thailand - ISO code"
+              }
+            },
+            "address_province": {
+              "value": "14",
+              "label": {
+                "th": "พระนครศรีอยุธยา",
+                "en": "พระนครศรีอยุธยา"
+              },
+              "backend": "{}"
+            },
+            "address_amphur": {
+              "value": "14_PhraNakhonSiAyutthaya",
+              "label": {
+                "th": "พระนครศรีอยุธยา",
+                "en": "Phra Nakhon Si Ayutthaya"
+              }
+            },
+            "address_tambol": {
+              "value": "140111",
+              "label": {
+                "th": "คลองตะเคียน",
+                "en": "Khlong Takhian"
+              },
+              "postal": "13000"
+            },
+            "address_postCode": "13000",
+            "address_homeNo": "หมู่บ้าน สวรรค์ชั้นเจ็ด",
+            "address_moo": "8",
+            "address_soi": "บ่อปลาจาระเม็ด",
+            "address_road": "สุขุมวิทที่ยี่สิบแปด"
+          },
+          {
+            "slideId": 20297,
+            "label": {
+              "en": "Beneficiary number",
+              "th": "ผู้รับประโยชน์คนที่"
+            },
+            "share": 20,
+            "index": 1,
+            "firstName": "อุ้ยอ้าย",
+            "lastName": "กระหายน้ำ",
+            "relation": {
+              "value": "DEBTER",
+              "label": {
+                "th": "ผู้ให้กู้(เจ้าหนี้)",
+                "en": "DEBTER"
+              }
+            }
+          },
+          {
+            "slideId": 59632,
+            "label": {
+              "en": "Beneficiary number",
+              "th": "ผู้รับประโยชน์คนที่"
+            },
+            "share": 20,
+            "index": 2,
+            "firstName": "นอนลอยคอ",
+            "lastName": "ชลอรถ",
+            "relation": {
+              "value": "ACHILD",
+              "label": {
+                "th": "บุตรบุญธรรม",
+                "en": "ADOPTED CHILD"
+              }
+            }
+          },
+          {
+            "slideId": 41431,
+            "label": {
+              "en": "Beneficiary number",
+              "th": "ผู้รับประโยชน์คนที่"
+            },
+            "share": 20,
+            "index": 3,
+            "title": {
+              "value": "ห้างหุ้นส่วนสามัญนิติบุคคล",
+              "label": {
+                "th": "ห้างหุ้นส่วนสามัญนิติบุคคล",
+                "en": "ห้างหุ้นส่วนสามัญนิติบุคคล"
+              },
+              "gender": null
+            },
+            "firstName": "นรกโลกรรย์",
+            "lastName": "อภินันธนาการ",
+            "relation": {
+              "value": "LEGGUARD",
+              "label": {
+                "th": "ผู้ปกครองโดยชอบธรรม",
+                "en": "PARENT"
+              }
+            }
+          },
+          {
+            "slideId": 63293,
+            "label": {
+              "en": "Beneficiary number",
+              "th": "ผู้รับประโยชน์คนที่"
+            },
+            "share": 20,
+            "index": 4,
+            "firstName": "ยาวไปมั้ย",
+            "lastName": "ไม่หรอก",
+            "relation": {
+              "value": "ACHILD",
+              "label": {
+                "th": "บุตรบุญธรรม",
+                "en": "ADOPTED CHILD"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "clearSignature": {
+    "key": "clearSignature",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "clearSignature",
+        "componentType": "Auto",
+        "value": true,
+        "type": "setValue"
+      }
+    }
+  },
+  "front_document_list": {
+    "key": "front_document_list",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "front_document_list",
+        "componentType": "Auto",
+        "type": "setValue"
+      }
+    }
+  },
+  "front_upload_list": {
+    "key": "front_upload_list",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Auto",
+        "fieldName": "front_upload_list",
+        "value": "{}",
+        "type": "setValue"
+      }
+    }
+  },
+  "submitAppFormFlag": {
+    "key": "submitAppFormFlag",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "type": "setValue",
+        "componentType": "Auto",
+        "fieldName": "submitAppFormFlag",
+        "value": false
+      }
+    }
+  },
+  "frontend_already_camera_person": {
+    "key": "frontend_already_camera_person",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "type": "setValue",
+        "componentType": "Auto",
+        "fieldName": "frontend_already_camera_person"
+      }
+    }
+  },
+  "policy_insuredPerson_customer_partner_title": {
+    "key": "policy_insuredPerson_customer_partner_title",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "InfiniteDropdown",
+        "fieldName": "policy_insuredPerson_customer_partner_title",
+        "value": {
+          "value": "นาย",
+          "label": {
+            "th": "นาย",
+            "en": "นาย"
+          },
+          "gender": "M"
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_insuredPerson_customer_partner_sex": {
+    "key": "policy_insuredPerson_customer_partner_sex",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "fieldName": "policy_insuredPerson_customer_partner_sex",
+        "value": {
+          "M": {
+            "order": 0,
+            "value": "M",
+            "label": {
+              "en": "Male",
+              "th": "ชาย"
+            },
+            "imagePath": "images/allianz/male.png",
+            "checked": true
+          },
+          "F": {
+            "order": 1,
+            "value": "F",
+            "label": {
+              "en": "Female",
+              "th": "หญิง"
+            },
+            "imagePath": "images/allianz/female.png",
+            "checked": false
+          }
+        },
+        "type": "setValue",
+        "componentType": "Option"
+      }
+    }
+  },
+  "policy_insuredPerson_customer_partner_firstName": {
+    "key": "policy_insuredPerson_customer_partner_firstName",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Textbox",
+        "fieldName": "policy_insuredPerson_customer_partner_firstName",
+        "value": "ทดสอบตัดคำ",
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_insuredPerson_customer_partner_middlename": {
+    "key": "policy_insuredPerson_customer_partner_middlename",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Textbox",
+        "fieldName": "policy_insuredPerson_customer_partner_middlename",
+        "value": "กลาง",
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_insuredPerson_customer_partner_lastName": {
+    "key": "policy_insuredPerson_customer_partner_lastName",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Textbox",
+        "fieldName": "policy_insuredPerson_customer_partner_lastName",
+        "value": "PDF",
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_policyDetails_insured_previuosPolicyFlag": {
+    "key": "policy_policyDetails_insured_previuosPolicyFlag",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Option",
+        "fieldName": "policy_policyDetails_insured_previuosPolicyFlag",
+        "value": {
+          "yes": {
+            "order": 0,
+            "value": "yes",
+            "label": {
+              "th": "มี",
+              "en": "Yes"
+            },
+            "checked": true
+          },
+          "no": {
+            "order": 1,
+            "value": "no",
+            "label": {
+              "th": "ไม่มี",
+              "en": "No"
+            },
+            "checked": false
+          }
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "inforceFlag": {
+    "key": "inforceFlag",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Checkbox",
+        "fieldName": "inforceFlag",
+        "value": false,
+        "type": "setValue"
+      }
+    }
+  },
+  "policyNewApp_insuredAppPreviousPolicyList": {
+    "key": "policyNewApp_insuredAppPreviousPolicyList",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "CardList",
+        "fieldName": "policyNewApp_insuredAppPreviousPolicyList",
+        "value": [
+          {
+            "companyName": "เป็นชื่อบริษัทที่ยาวมากๆ แถมมีเว้นวรรคอีก แน่ะ",
+            "lifeSA": "1234000",
+            "severeDiseaseSA": "213000",
+            "accidentSA": "9000000",
+            "reimburseAmt": "80000",
+            "inforceFlag": true
+          },
+          {
+            "companyName": "อันนี้ก็ยาว แต่ SPACEBAR เยอะกว่า อันแรก นะ จ้ะ",
+            "lifeSA": "1",
+            "severeDiseaseSA": "2",
+            "accidentSA": "3",
+            "reimburseAmt": "4",
+            "inforceFlag": false
+          },
+          {
+            "companyName": "อันนี้ทั้งใหญ่ทั้งยาวและไม่มีเว้นวรรคแต่มีจุด.หนึ่งจุด",
+            "lifeSA": "0",
+            "severeDiseaseSA": "0",
+            "accidentSA": "0",
+            "reimburseAmt": "0",
+            "inforceFlag": false
+          },
+          {
+            "companyName": "สั้น",
+            "lifeSA": "1",
+            "severeDiseaseSA": "1",
+            "accidentSA": "1",
+            "reimburseAmt": "1",
+            "inforceFlag": true
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_policyDetails_insured_rejectInsurerFlag": {
+    "key": "policy_policyDetails_insured_rejectInsurerFlag",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Option",
+        "fieldName": "policy_policyDetails_insured_rejectInsurerFlag",
+        "value": {
+          "yes": {
+            "order": 0,
+            "value": "yes",
+            "label": {
+              "th": "เคย",
+              "en": "Yes"
+            },
+            "checked": true
+          },
+          "no": {
+            "order": 1,
+            "value": "no",
+            "label": {
+              "th": "ไม่เคย ",
+              "en": "No"
+            },
+            "checked": false
+          }
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_policyDetails_insured_rejectInsurerDetails": {
+    "key": "policy_policyDetails_insured_rejectInsurerDetails",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "CardList",
+        "fieldName": "policy_policyDetails_insured_rejectInsurerDetails",
+        "value": [
+          {
+            "detail1": "นครวัดตอนเช้าไม่มีลิง เมฆหนาหมอกลง มองไม่เห็นพระอาทิตย์ เลยไปเดินส่องสาวเล่น",
+            "detail2": "ก็ไม่มีอะไรมากแค่อยากจะบอกว่าหิวข้าวและง่วงนอนมากๆ แต่ตังไม่มีเลยเดินลงไปกดน้ำฟรี แล้วขึ้นมานั่งทำงานต่อ แต่ลืมไปว่าวันนี้วันหยุด เลยเก็บของละกลับบ้าน แต่ BTS เสีย. เลยต้องเรียก UBER นั่งไปได้ครึ่งทางนึกได้ว่าลืมเอากระเป๋าตังมา เลยลงรถยกมือไหว้ขอโทษคนขับ แล้วเดินกลับบ้านยาวๆไป",
+            "detail3": "เมื่อวันที่แปดเดือนแปดปีสองพันห้าร้อยห้าสิบแปด"
+          },
+          {
+            "detail1": "พักแปป",
+            "detail2": "เมื่อยมือ",
+            "detail3": "-.-"
+          },
+          {
+            "detail1": "ปวดตา",
+            "detail2": "มากๆ",
+            "detail3": "นะจ๊ะ"
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "policy_policyDetails_insured_familyHealthHistoryFlag": {
+    "key": "policy_policyDetails_insured_familyHealthHistoryFlag",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "Option",
+        "fieldName": "policy_policyDetails_insured_familyHealthHistoryFlag",
+        "value": {
+          "yes": {
+            "order": 0,
+            "value": "yes",
+            "label": {
+              "th": "เคย",
+              "en": "Yes"
+            },
+            "checked": true
+          },
+          "no": {
+            "order": 1,
+            "value": "no",
+            "label": {
+              "th": "ไม่เคย",
+              "en": "No"
+            },
+            "checked": false
+          }
+        },
+        "type": "setValue"
+      }
+    }
+  },
+  "policyNewApp_questionNMix_riderDoctorDiagList": {
+    "key": "policyNewApp_questionNMix_riderDoctorDiagList",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "YesNoList",
+        "fieldName": "policyNewApp_questionNMix_riderDoctorDiagList",
+        "value": [
+          {
+            "label": {
+              "en": "Otitis media",
+              "th": "ติดเชื้อในหูชั้นกลาง"
+            },
+            "value": 71,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic tonsilitis)",
+              "th": "ต่อมทอนซิลอักเสบเรื้อรัง"
+            },
+            "value": 72,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Sinusitis",
+              "th": "ไซนัสอักเสบ"
+            },
+            "value": 73,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Migraine",
+              "th": "ปวดศีรษะไมเกรน"
+            },
+            "value": 74,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Allergy",
+              "th": "ภูมิแพ้"
+            },
+            "value": 75,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic bronchitis",
+              "th": "หลอดลมอักเสบเรื้อรัง"
+            },
+            "value": 76,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "GERD",
+              "th": "กรดไหลย้อน"
+            },
+            "value": 77,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Calculi",
+              "th": "นิ่ว"
+            },
+            "value": 78,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Hernia",
+              "th": "ไส้เลื่อน"
+            },
+            "value": 79,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Hemorrhoid",
+              "th": "ริดสีดวงทวาร"
+            },
+            "value": 80,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Anal fistula",
+              "th": "ฝีคันฑสูตร"
+            },
+            "value": 81,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Endometriosis",
+              "th": "เยื่อบุโพรงมดลูกเจริญผิดที่"
+            },
+            "value": 82,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Spondylolisthesis",
+              "th": "กระดูกสันหลังเคลื่อน"
+            },
+            "value": 83,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Herniated disc",
+              "th": "หมอนรองกระดูกเคลื่อนหรือทับเส้นประสาท"
+            },
+            "value": 84,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": true
+            }
+          },
+          {
+            "label": {
+              "en": "Osteoarthritis",
+              "th": "ข้อเสื่อม"
+            },
+            "value": 85,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic tendenitis",
+              "th": "เส้นเอ็นอักเสบเรื้อรัง"
+            },
+            "value": 86,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Autistic",
+              "th": "ออทิสติก"
+            },
+            "value": 87,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Attention deficit disorder",
+              "th": "สมาธิสั้น"
+            },
+            "value": 88,
+            "group": null,
+            "backend": "{}",
+            "groupType": "RIDER",
+            "questionType": "SIMPLE",
+            "checked": {
+              "insPayAns": null
+            }
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "policyNewApp_riderDoctorDiagList": {
+    "key": "policyNewApp_riderDoctorDiagList",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "CardList",
+        "fieldName": "policyNewApp_riderDoctorDiagList",
+        "value": [
+          {
+            "item": {
+              "label": {
+                "en": "Herniated disc",
+                "th": "หมอนรองกระดูกเคลื่อนหรือทับเส้นประสาท"
+              },
+              "value": 84,
+              "group": null,
+              "backend": "{}",
+              "groupType": "RIDER",
+              "questionType": "SIMPLE",
+              "checked": {
+                "insPayAns": true
+              }
+            },
+            "column": {
+              "value": "insPayAns",
+              "label": {
+                "en": "Insured",
+                "th": "ผู้ขอเอาประกันภัย"
+              }
+            },
+            "form": {
+              "beginDate": "นานมากแล้ว จำไม่ได้แบ้วอะ 21/12/21 มั้ง",
+              "currentDiag": "มีความเป็นไปได้ว่าหมอนลองกระดูกเกิดการบีบตัว ทำให้กล้ามเนื้อมัดที่แปด นับจากข้างขวาบน หดตัวลงมาทับเส้นประสาทหลังหูขวา จึงเป็นอัมพาดครึ่งตัวซ้าย",
+              "hospital": "โรงพยาบาลแถวบ้าน ใกล้ๆซอยมะพร้าวเตี้ย แยก4 ก่อนถึงสะพานลอย",
+              "disease": "หมอนรองกระดูกเคลื่อนหรือทับเส้นประสาท"
+            }
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "policyNewApp_questionNMix_currentSymptomList": {
+    "key": "policyNewApp_questionNMix_currentSymptomList",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "YesNoList",
+        "fieldName": "policyNewApp_questionNMix_currentSymptomList",
+        "value": [
+          {
+            "label": {
+              "en": "Visual impairment",
+              "th": "การมองเห็นผิดปกติ"
+            },
+            "value": 40,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": false,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Muscular weakness",
+              "th": "กล้ามเนื้ออ่อนแรง"
+            },
+            "value": 41,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Abnormal  body movement",
+              "th": "การเคลื่อนไหวของร่างกายผิดปกติ"
+            },
+            "value": 42,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Sensory Neuropathy",
+              "th": "ร่างกายสูญเสียประสาทรับความรู้สึก"
+            },
+            "value": 43,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": true,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Delay development",
+              "th": "มีพัฒนาการช้า"
+            },
+            "value": 44,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Severe chronic headache",
+              "th": "ปวดศีรษะรุนแรงเรื้อรัง"
+            },
+            "value": 45,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic cough",
+              "th": "ไอเรื้อรัง"
+            },
+            "value": 46,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Hemoptysis",
+              "th": "ไอเป็นเลือด"
+            },
+            "value": 47,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Easy fatigue",
+              "th": "เหนื่อยง่ายผิดปกติ"
+            },
+            "value": 48,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chest  pain / Discomfort",
+              "th": "เจ็บหรือแน่นหน้าอก"
+            },
+            "value": 49,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Palpitation",
+              "th": "ใจสั่น"
+            },
+            "value": 50,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic Stomach ache",
+              "th": "ปวดท้องเรื้อรัง"
+            },
+            "value": 51,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Haematemesis",
+              "th": "อาเจียนหรือถ่ายเป็นเลือด"
+            },
+            "value": 52,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Ascites",
+              "th": "ท้องมาน"
+            },
+            "value": 53,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Haematuria",
+              "th": "มีเลือดปนในปัสสาวะ"
+            },
+            "value": 54,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic joint pain",
+              "th": "ปวดข้อเรื้อรัง"
+            },
+            "value": 55,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Past attempt suicidal",
+              "th": "เคยพยายามทำร้ายร่างกายตนเอง"
+            },
+            "value": 56,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Purpura",
+              "th": "จ้ำเลือด"
+            },
+            "value": 57,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Palpable mass",
+              "th": "คลำพบก้อนเนื้อ"
+            },
+            "value": 58,
+            "group": null,
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "header": {
+              "en": "In the past 6 months, do you have any of below symptom",
+              "th": "อาการในระหว่าง 6 เดือนที่ผ่านมา"
+            },
+            "value": 59,
+            "group": {
+              "en": "In the past 6 months, do you have any of below symptom",
+              "th": "อาการในระหว่าง 6 เดือนที่ผ่านมา"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "HEADER",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            },
+            "newGroup": {
+              "en": "In the past 6 months, do you have any of below symptom",
+              "th": "อาการในระหว่าง 6 เดือนที่ผ่านมา"
+            }
+          },
+          {
+            "label": {
+              "en": "Exhausted",
+              "th": "อาการอ่อนเพลีย"
+            },
+            "value": 60,
+            "group": {
+              "en": "In the past 6 months, do you have any of below symptom",
+              "th": "อาการในระหว่าง 6 เดือนที่ผ่านมา"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Weight loss",
+              "th": "น้ำหนักลด"
+            },
+            "value": 61,
+            "group": {
+              "en": "In the past 6 months, do you have any of below symptom",
+              "th": "อาการในระหว่าง 6 เดือนที่ผ่านมา"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic diarrhea",
+              "th": "ท้องเดินเรื้อรัง"
+            },
+            "value": 62,
+            "group": {
+              "en": "In the past 6 months, do you have any of below symptom",
+              "th": "อาการในระหว่าง 6 เดือนที่ผ่านมา"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic fever",
+              "th": "ไข้เรื้อรัง"
+            },
+            "value": 63,
+            "group": {
+              "en": "In the past 6 months, do you have any of below symptom",
+              "th": "อาการในระหว่าง 6 เดือนที่ผ่านมา"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Chronic skin disease",
+              "th": "โรคผิวหนังเรื้อรัง"
+            },
+            "value": 64,
+            "group": {
+              "en": "In the past 6 months, do you have any of below symptom",
+              "th": "อาการในระหว่าง 6 เดือนที่ผ่านมา"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "header": {
+              "en": "For female only",
+              "th": "คำถามเฉพาะสตรี"
+            },
+            "value": 65,
+            "group": {
+              "en": "For female only",
+              "th": "คำถามเฉพาะสตรี"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "HEADER",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            },
+            "newGroup": {
+              "en": "For female only",
+              "th": "คำถามเฉพาะสตรี"
+            }
+          },
+          {
+            "label": {
+              "en": "Pregnant",
+              "th": "กำลังตั้งครรภ์"
+            },
+            "value": 66,
+            "group": {
+              "en": "For female only",
+              "th": "คำถามเฉพาะสตรี"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Complication during pregnancy and  delivery",
+              "th": "โรคแทรกซ้อนในการตั้งครรภ์และคลอดบุตร"
+            },
+            "value": 67,
+            "group": {
+              "en": "For female only",
+              "th": "คำถามเฉพาะสตรี"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "Dysfunctional Uterine Bleeding",
+              "th": "เลือดออกผิดปกติทางช่องคลอด"
+            },
+            "value": 68,
+            "group": {
+              "en": "For female only",
+              "th": "คำถามเฉพาะสตรี"
+            },
+            "backend": "{}",
+            "groupType": "CURRENT_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "policyNewApp_appCurrentSymptomList": {
+    "key": "policyNewApp_appCurrentSymptomList",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "CardList",
+        "fieldName": "policyNewApp_appCurrentSymptomList",
+        "value": [
+          {
+            "item": {
+              "label": {
+                "en": "Sensory Neuropathy",
+                "th": "ร่างกายสูญเสียประสาทรับความรู้สึก"
+              },
+              "value": 43,
+              "group": null,
+              "backend": "{}",
+              "groupType": "CURRENT_SYMPTOM",
+              "questionType": "SIMPLE",
+              "checked": {
+                "juvenileAns": true,
+                "insPayAns": null
+              }
+            },
+            "column": {
+              "value": "juvenileAns",
+              "label": {
+                "en": "Insured",
+                "th": "ผู้ขอเอาประกันภัย"
+              }
+            },
+            "form": {
+              "beginDate": "21/3/45",
+              "symptomDetail": "มีความฟรุ้งฟริ้ง และมุ้งมิ้ง. มองไม่เห็นทางงงงง มองไม่เห็นนนนนน ผมจะทำยังไงดีครับคุณพยาบาล",
+              "currentSymptom": "ร่างกายสูญเสียประสาทรับความรู้สึก"
+            }
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "policyNewApp_questionNMix_otherSymptomList": {
+    "key": "policyNewApp_questionNMix_otherSymptomList",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "YesNoList",
+        "fieldName": "policyNewApp_questionNMix_otherSymptomList",
+        "value": [
+          {
+            "label": {
+              "en": "a) medical examination, biopsy, or diagnosis tests such as xray, ECG, blood tests, or special investigation",
+              "th": "ก. การตรวจสุขภาพ การตรวจชิ้นเนื้อ หรือการตรวจเพื่อการวินิจฉัยโรค เช่น การเอ็กซเรย์ การตรวจคลื่นหัวใจ การตรวจเลือดหรือ การตรวจด้วยเครื่องมือพิเศษอื่นๆ หรือไม่"
+            },
+            "value": 69,
+            "group": null,
+            "backend": "{}",
+            "groupType": "OTHER_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": true,
+              "insPayAns": null
+            }
+          },
+          {
+            "label": {
+              "en": "b) injury, illness, surgery, medical consultation, medical advisory, admission in hospital which not mentioned above",
+              "th": "ข. การบาดเจ็บ เจ็บป่วย การผ่าตัด การปรึกษาแพทย์ การแนะนำจากแพทย์เกี่ยวกับสุขภาพ การรักษาในสถานพยาบาลที่มิได้ระบุไว้ข้างต้น"
+            },
+            "value": 70,
+            "group": null,
+            "backend": "{}",
+            "groupType": "OTHER_SYMPTOM",
+            "questionType": "SIMPLE",
+            "checked": {
+              "juvenileAns": null,
+              "insPayAns": null
+            }
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  },
+  "policyNewApp_appOtherSymptomList": {
+    "key": "policyNewApp_appOtherSymptomList",
+    "payload": {
+      "type": "setValue",
+      "params": {
+        "componentType": "CardList",
+        "fieldName": "policyNewApp_appOtherSymptomList",
+        "value": [
+          {
+            "item": {
+              "label": {
+                "en": "a) medical examination, biopsy, or diagnosis tests such as xray, ECG, blood tests, or special investigation",
+                "th": "ก. การตรวจสุขภาพ การตรวจชิ้นเนื้อ หรือการตรวจเพื่อการวินิจฉัยโรค เช่น การเอ็กซเรย์ การตรวจคลื่นหัวใจ การตรวจเลือดหรือ การตรวจด้วยเครื่องมือพิเศษอื่นๆ หรือไม่"
+              },
+              "value": 69,
+              "group": null,
+              "backend": "{}",
+              "groupType": "OTHER_SYMPTOM",
+              "questionType": "SIMPLE",
+              "checked": {
+                "juvenileAns": true,
+                "insPayAns": null
+              }
+            },
+            "column": {
+              "value": "juvenileAns",
+              "label": {
+                "en": "Insured",
+                "th": "ผู้ขอเอาประกันภัย"
+              }
+            },
+            "form": {
+              "otherSymptom": "หมอเอาหลอดมาเสียบหูซ้าย แล้วเป่าลมจนหูอื้อเลยครับคุณพยาบาล",
+              "beginDate": "เมื่อวานเลยเนี่ย",
+              "hospital": "บ่อนไก่ ณ อยุธยา.  แคว้นมะยมพรมอาละดิน",
+              "diagResult": "เป็นไปด้วยดี แต่ตอนนี้หูผมไม่ได้ยินอะไรเลย ผมจะทำยังไงดีครับคุณพยาบาลลลล",
+              "doctorSuggest": "ลืมเปิดไฟรึปล่าวครับ. ไม่เกี่ยวนี่นา หิวแล้ว ไปหาอะไรกินก่อนนะ บ๊ายบาย"
+            }
+          }
+        ],
+        "type": "setValue"
+      }
+    }
+  }
+}
