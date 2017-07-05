@@ -19,6 +19,18 @@
             "x": 133,
             "y": 397,
             "optlist": "abcd"
+        },
+        {
+            "text": "checked",
+            "x": 200,
+            "y": 203,
+            "optlist": "abcd"
+        },
+        {
+            "text": "",
+            "x": 200,
+            "y": 205,
+            "optlist": "abcd"
         }
     ]
 }

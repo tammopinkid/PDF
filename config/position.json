@@ -16,5 +16,19 @@
         "p": 1,
         "x": 160,
         "y": 397
+    },
+    {
+        "key": "policy_policyDetails_insured_familyHealthHistoryFlag[yes]",
+        "outputType": "x",
+        "p": 2,
+        "x": 200,
+        "y": 203
+    },
+    {
+        "key": "policy_policyDetails_insured_familyHealthHistoryFlag[no]",
+        "p": 2,
+        "outputType": "x",
+        "x": 200,
+        "y": 205
     }
 ]
