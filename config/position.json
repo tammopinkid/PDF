@@ -30,5 +30,17 @@
         "outputType": "x",
         "x": 200,
         "y": 205
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[40][juvenileAns]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[40][insPayAns]",
+        "p": 3,
+        "x": 122,
+        "y": 212
     }
 ]

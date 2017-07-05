@@ -1,5 +1,6 @@
 import Textbox from '../types/Textbox.type'
 import Option from '../types/Option.type'
+import YesNoList from '../types/YesNoList.type'
 import Generator from './Generator.model'
 import { ignoreEvent } from '../../config/eventIgnore.json'
 import _ from 'lodash'
@@ -25,6 +26,10 @@ const filter = (jsonObject) => {
           }
           case 'Option':{
             data.push(Option.compile(item))
+            break
+          }
+          case 'YesNoList':{
+            data.push(YesNoList.compile(item))
             break
           }
         }

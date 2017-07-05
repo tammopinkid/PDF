@@ -21,7 +21,7 @@
             "optlist": "abcd"
         },
         {
-            "text": "checked",
+            "text": "x",
             "x": 200,
             "y": 203,
             "optlist": "abcd"
@@ -30,6 +30,20 @@
             "text": "",
             "x": 200,
             "y": 205,
+            "optlist": "abcd"
+        }
+    ],
+    "3": [
+        {
+            "text": false,
+            "x": 121,
+            "y": 211,
+            "optlist": "abcd"
+        },
+        {
+            "text": null,
+            "x": 122,
+            "y": 212,
             "optlist": "abcd"
         }
     ]
