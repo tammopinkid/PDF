@@ -6,12 +6,6 @@
     "y": 397
   },
   {
-    "key": "frontend_riders",
-    "p": 1,
-    "x": 246,
-    "y": 200
-  },
-  {
     "key": "policy_insuredPerson_customer_partner_firstName",
     "p": 1,
     "x": 133,
@@ -37,21 +31,203 @@
     "y": 397
   },
   {
-    "key": "frontend_riders",
+    "key": "frontend_riders[yes]",
     "outputType": "text",
     "p": 2,
     "x": 160,
     "y": 397
   },
   {
-    "key": "front_policy_riders",
+    "key": "frontend_riders[no]",
     "outputType": "text",
     "p": 2,
     "x": 160,
     "y": 397
   },
   {
-    "key": "policy_insuredPerson_customer_partner_sex",
+    "key": "front_policy_riders[ADB]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[ADD]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[ADD_RCC]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[AI]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[AI_RCC]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[CB]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[CI48]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[HB]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[HBCI]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[HBP]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[HSMHPE]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[HSMHPED]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[HSPS]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[HSS]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[OPDBS]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[OPDME]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[OPDPS]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[PB4]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[TRC_A]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[TRN_A]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "front_policy_riders[WP]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyDetails_insured_previuosPolicyFlag[yes]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyDetails_insured_previuosPolicyFlag[no]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyDetails_insured_rejectInsurerFlag[yes]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_policyDetails_insured_rejectInsurerFlag[no]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_sex[M]",
+    "outputType": "text",
+    "p": 2,
+    "x": 160,
+    "y": 397
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_sex[F]",
     "outputType": "text",
     "p": 2,
     "x": 160,
@@ -76,21 +252,14 @@
     "y": 397
   },
   {
-    "key": "policy_policyDetails_insured_previuosPolicyFlag",
-    "outputType": "x",
-    "p": 3,
-    "x": 160,
-    "y": 200
-  },
-  {
-    "key": "policy_policyDetails_insured_rejectInsurerFlag",
-    "outputType": "x",
+    "key": "policy_policyDetails_insured_familyHealthHistoryFlag[yes]",
+    "outputType": "text",
     "p": 3,
     "x": 160,
     "y": 397
   },
   {
-    "key": "policy_policyDetails_insured_familyHealthHistoryFlag",
+    "key": "policy_policyDetails_insured_familyHealthHistoryFlag[no]",
     "outputType": "text",
     "p": 3,
     "x": 160,
@@ -139,5 +308,40 @@
     "outputType": "x",
     "x": 200,
     "y": 205
-  }
+  },
+  {
+    "key": "policy_policyBase_dividendOption[1]",
+    "p": 2,
+    "outputType": "x",
+    "x": 200,
+    "y": 205
+  },
+  {
+    "key": "policy_policyBase_dividendOption[2]",
+    "p": 2,
+    "outputType": "x",
+    "x": 200,
+    "y": 205
+  },
+  {
+    "key": "policy_policyBase_dividendOption[3]",
+    "p": 2,
+    "outputType": "x",
+    "x": 200,
+    "y": 205
+  },
+  {
+    "key": "policy_policyBase_dividendOption[1]",
+    "p": 2,
+    "outputType": "x",
+    "x": 200,
+    "y": 205
+  },
+  {
+    "key": "policy_policyBase_dividendOption[1]",
+    "p": 2,
+    "outputType": "x",
+    "x": 200,
+    "y": 205
+  },
 ]
