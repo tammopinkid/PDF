@@ -6,29 +6,31 @@ import InfiniteDropdown from '../types/InfiniteDropdown.type'
 const filter = (jsonObject) => {
   let events = jsonObject.events
   let data = []
+    let data2 = []
   if (events.length > 0) {
     events.forEach(item => {
       const key = item.fieldId
       const componentType = JSON.parse(item.payload).params.componentType
       switch (componentType) {
         case 'Textbox': {
-          data.push(Textbox.compile(item))
+          data2.push(Textbox.compile(item))
+          
           break
         }
         case 'Checkbox': {
-          data.push(Checkbox.compile(item))
+          data2.push(Checkbox.compile(item))
 
 
           break
         }
-        //case 'YesNoList': {
-        //data.push(Yesnolist.compile(item))
+        case 'YesNoList': {
+        data.push(Yesnolist.compile(item))
 
 
-        //break
-        //}
+        break
+        }
         case 'InfiniteDropdown': {
-          data.push(InfiniteDropdown.compile(item))
+          data2.push(InfiniteDropdown.compile(item))
           //console.log('asa')
 
           break
@@ -37,7 +39,8 @@ const filter = (jsonObject) => {
       }
     })
   }
-  //console.log(data)
+ //console.log(data)
+  
   Generator.generate(data)
 }
 export default {

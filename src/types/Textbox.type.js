@@ -3,6 +3,7 @@ const compile = (item) => {
   const value = JSON.parse(item.payload).params.value
   let result = {}
   result[key] = value
+  
   return result
 }
 export default{

@@ -46,5 +46,2431 @@
         "p": 1,
         "x": 100,
         "y": 54
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[1][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[1][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[1][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[1][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
     }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[2][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[2][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[2][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[2][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[3][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[3][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[3][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[3][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[4][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[4][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[4][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[4][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[5][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[5][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[5][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[5][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[6][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[6][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[6][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[6][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[7][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[7][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[7][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[7][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[8][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[8][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[8][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[8][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[9][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[9][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[9][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[9][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[10][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[10][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[10][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[10][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[11][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[11][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[11][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[11][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[12][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[12][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[12][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[12][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[13][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[13][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[13][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[13][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[14][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[14][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[14][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[14][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[15][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[15][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[15][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[15][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[16][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[16][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[16][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[16][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[17][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[17][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[17][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[17][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[18][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[18][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[18][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[18][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[19][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[19][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[19][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[19][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[20][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[20][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[20][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[20][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[21][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[21][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[21][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[21][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[22][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[22][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[22][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[22][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[23][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[23][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[23][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[23][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[24][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[24][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[24][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[24][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[25][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[25][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[25][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[25][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[26][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[26][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[26][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[26][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+ ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[27][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[27][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[27][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[27][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[28][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[28][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[28][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[28][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[29][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[29][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[29][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[29][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[30][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[30][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[30][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[30][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[31][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[31][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[31][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[31][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[32][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[32][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[32][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[32][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[33][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[33][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[33][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[33][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[34][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[34][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[34][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[34][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[35][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[35][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[35][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[35][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[36][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[36][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[36][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[36][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[37][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[37][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[37][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[37][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[38][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[38][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[38][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[38][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[39][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[39][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[39][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_doctorDiagList[39][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[71][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[71][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[71][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[71][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[72][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[72][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[72][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[72][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[73][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[73][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[73][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[73][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[74][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[74][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[74][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[74][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[75][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[75][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[75][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[75][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[76][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[76][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[76][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[76][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[77][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[77][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[77][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[77][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[78][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[78][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[78][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[78][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[79][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[79][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[79][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[79][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[80][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[80][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[80][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[80][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[81][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[81][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[81][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[81][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[82][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[82][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[82][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[82][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[83][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[83][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[83][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[83][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[84][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[84][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[84][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[84][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[85][juvenileAns][true]",
+        "p": 3,
+        "x": 121,
+        "y": 211
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[85][juvenileAns][false]",
+        "p": 3,
+        "x": 122,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[85][insPayAns][true]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[85][insPayAns][false]",
+        "p": 3,
+        "x": 123,
+        "y": 211
+    }
+     ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[86][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[86][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[86][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[86][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+     ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[87][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[87][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[87][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[87][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+     ,
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[88][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[88][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[88][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_riderDoctorDiagList[88][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[40][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[40][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[40][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[40][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[41][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[41][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[41][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[41][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[42][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[42][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[42][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[42][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[43][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[43][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[43][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[43][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[44][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[44][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[44][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[44][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[45][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[45][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[45][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[45][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[46][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[46][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[46][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[46][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[47][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[47][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[47][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[47][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[48][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[48][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[48][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[48][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[49][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[49][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[49][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[49][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[50][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[50][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[50][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[50][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[51][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[51][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[51][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[51][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[52][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[52][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[52][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[52][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[53][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[53][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[53][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[53][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[54][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[54][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[54][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[54][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[55][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[55][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[55][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[55][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[56][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[56][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[56][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[56][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[57][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[57][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[57][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[57][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[58][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[58][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[58][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[58][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[59][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[59][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[59][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[59][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[60][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[60][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[60][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[60][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[61][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[61][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[61][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[61][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[62][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[62][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[62][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[62][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[63][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[63][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[63][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[63][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[64][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[64][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[64][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[64][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[65][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[65][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[65][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[65][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[66][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[66][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[66][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[66][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[67][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[67][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[67][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[67][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[68][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[68][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[68][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_currentSymptomList[68][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+       ,
+    
+    {
+        "key": "policyNewApp_questionNMix_otherSymptomList[69][juvenileAns][true]",
+        "p": 3,
+        "x": 5000,
+        "y": 5000
+    },
+    {
+        "key": "policyNewApp_questionNMix_otherSymptomList[69][juvenileAns][false]",
+        "p": 3,
+        "x": 5000,
+        "y": 5000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_otherSymptomList[69][insPayAns][true]",
+        "p": 3,
+        "x": 5000,
+        "y": 5000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_otherSymptomList[69][insPayAns][false]",
+        "p": 3,
+        "x": 5000,
+        "y": 5000
+    }
+  
+    ,
+    
+    {
+        "key": "policyNewApp_questionNMix_otherSymptomList[70][juvenileAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    {
+        "key": "policyNewApp_questionNMix_otherSymptomList[70][juvenileAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_otherSymptomList[70][insPayAns][true]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    },
+    
+    {
+        "key": "policyNewApp_questionNMix_otherSymptomList[70][insPayAns][false]",
+        "p": 3,
+        "x": 2000,
+        "y": 2000
+    }
+    
+
 ]
