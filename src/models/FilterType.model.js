@@ -31,7 +31,7 @@ const filter = (jsonObject) => {
         }
         case 'InfiniteDropdown': {
           data2.push(InfiniteDropdown.compile(item))
-          //console.log('asa')
+          
 
           break
         }
@@ -39,7 +39,7 @@ const filter = (jsonObject) => {
       }
     })
   }
- //console.log(data)
+ 
   
   Generator.generate(data)
 }
