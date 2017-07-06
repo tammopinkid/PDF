@@ -33,7 +33,6 @@ const filter = jsonObject => {
           case 'Option': {
             if (Option.compile(item)) {
               data.push(Option.compile(item));
-              //console.log('textbox = ', componentType);
             }
             break;
           }
@@ -54,6 +53,10 @@ const filter = jsonObject => {
             data.push(Picker.compile(item));
             break;
           }
+          // case 'CardList': {
+          //   data.push(CardList.compile(item));
+          //   break;
+          // }
         }
       }
 
@@ -62,9 +65,9 @@ const filter = jsonObject => {
       // }
     });
   }
-  //console.log(data);
+  console.log(data);
   //console.log('i = ',i)
-  Generator.generate(data);
+  //Generator.generate(data);
 };
 export default {
   filter
