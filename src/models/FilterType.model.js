@@ -37,23 +37,23 @@ const filter = jsonObject => {
             }
             break;
           }
-          // case 'Checkbox': {
-          //   data.push(Checkbox.compile(item));
-          //   break;
-          // }
-          //case 'YesNoList': {
-          //data.push(Yesnolist.compile(item))
+          case 'Checkbox': {
+            data.push(Checkbox.compile(item));
+            break;
+          }
+          // case 'YesNoList': {
+          // data.push(Yesnolist.compile(item))
 
-          //break
-          //}
-          // case 'InfiniteDropdown': {
-          //   data.push(InfiniteDropdown.compile(item));
-          //   break;
+          // break
           // }
-          // case 'Picker': {
-          //   data.push(Picker.compile(item));
-          //   break;
-          // }
+          case 'InfiniteDropdown': {
+            data.push(InfiniteDropdown.compile(item));
+            break;
+          }
+          case 'Picker': {
+            data.push(Picker.compile(item));
+            break;
+          }
           case 'CardList': {
             data.push(CardList.compile(item));
             break;
@@ -66,9 +66,9 @@ const filter = jsonObject => {
       // }
     });
   }
-  // console.log(data);
+  //console.log(data);
   //console.log('i = ',i)
-  Generator.generate(data);
+  //Generator.generate(data);
 };
 export default {
   filter

@@ -37,7 +37,7 @@ const compile = item => {
     .reject(_.isEmpty)
     .value();
 
-  console.log(result);
+  //console.log(result);
   return result;
 };
 export default {
