@@ -309,5 +309,539 @@
     "p": 2,
     "x": 200,
     "y": 205
+  },
+  {
+    "key": "policy_beneficiary[0].share",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].title",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].firstName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].lastName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].relation",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].address_province",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].address_amphur",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].shaaddress_tambol",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].address_postCode",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].address_homeNo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].address_moo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].address_soi",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[0].address_road",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].share",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].title",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].firstName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].lastName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].relation",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].address_province",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].address_amphur",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].shaaddress_tambol",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].address_postCode",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].address_homeNo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].address_moo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].address_soi",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[1].address_road",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].share",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].title",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].firstName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].lastName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].relation",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].address_province",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].address_amphur",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].shaaddress_tambol",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].address_postCode",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].address_homeNo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].address_moo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].address_soi",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[2].address_road",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].share",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].title",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].firstName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].lastName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].relation",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].address_province",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].address_amphur",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].shaaddress_tambol",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].address_postCode",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].address_homeNo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].address_moo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].address_soi",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[3].address_road",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].share",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].title",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].firstName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].lastName",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].relation",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].address_province",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].address_amphur",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].shaaddress_tambol",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].address_postCode",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].address_homeNo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].address_moo",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].address_soi",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policy_beneficiary[4].address_road",
+    "p": 2,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[0].companyName",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[0].lifeSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[0].severeDiseaseSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[0].accidentSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[0].reimburseAmt",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[0].inforceFlag",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[1].companyName",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[1].lifeSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[1].severeDiseaseSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[1].accidentSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[1].reimburseAmt",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[1].inforceFlag",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[2].companyName",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[2].lifeSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[2].severeDiseaseSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[2].accidentSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[2].reimburseAmt",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[2].inforceFlag",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[3].companyName",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[3].lifeSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[3].severeDiseaseSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[3].accidentSA",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[3].reimburseAmt",
+    "p": 3,
+    "x": 666,
+    "y": 666
+  },
+  {
+    "key": "policyNewApp_insuredAppPreviousPolicyList[3].inforceFlag",
+    "p": 3,
+    "x": 666,
+    "y": 666
   }
 ]
