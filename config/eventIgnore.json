@@ -1,0 +1,6 @@
+{
+  "ignoreList": [
+    "isPaperless",
+    "policy_insuredPerson_customer_partner_firstName"
+  ]
+}

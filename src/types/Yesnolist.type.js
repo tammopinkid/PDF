@@ -2,7 +2,8 @@ import _ from 'lodash'
 const compile = (item) => {
 
   const key = item.fieldId
-  const values = JSON.parse(item.payload).params.value
+  const values = JSON.parse(item.payload).params.value//item.payload.params.value//JSON.parse(item.payload).params.value
+  console.log(values)
   let result = []
   _.map(values, (value, index) => {
     let final_key
@@ -14,13 +15,15 @@ const compile = (item) => {
         obj[final_key] ='x'
         result.push(obj)
       }
-      else  {
+      else if(item==false) {
         final_key = key+'['+value.value+']'+'['+key2+'][false]'
         let obj = {}
-        obj[final_key] =''
+        obj[final_key] ='x'
         result.push(obj)
 
       }
+     
+  
     })
   })
   
@@ -29,4 +32,3 @@ const compile = (item) => {
 export default{
   compile
 }
-

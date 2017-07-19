@@ -1,0 +1,20 @@
+{
+    "0": [],
+    "1": [],
+    "2": [],
+    "3": [
+        {
+            "text": "x",
+            "x": 121,
+            "y": 211,
+            "optlist": "script=thai boxsize={206 20}"
+        },
+        {
+            "text": "x",
+            "x": 123,
+            "y": 211,
+            "optlist": "script=thai boxsize={206 20}"
+        }
+    ],
+    "4": []
+}

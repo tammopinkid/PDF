@@ -10,5 +10,6 @@ eventString.events.forEach((element) => {
   }
 });
 
-var filename = './parsed-event.json';
+var filename = '../test/parsed-event.json';
+//var filename = './parsed-event.json';
 fs.writeFileSync(filename, JSON.stringify(parsed, null, 2));

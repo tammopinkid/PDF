@@ -48,27 +48,27 @@
         "y": 54
     },
     {
-        "key": "policyNewApp_questionNMix_doctorDiagList[1][juvenileAns][true]",
+        "key": "YesNolist[2][juvenileAns][true]",
         "p": 3,
         "x": 121,
         "y": 211
     },
     {
-        "key": "policyNewApp_questionNMix_doctorDiagList[1][juvenileAns][false]",
+        "key": "YesNolist[2][juvenileAns][false]",
         "p": 3,
         "x": 122,
         "y": 211
     },
     
     {
-        "key": "policyNewApp_questionNMix_doctorDiagList[1][insPayAns][true]",
+        "key": "YesNolist[2][insPayAns][true]",
         "p": 3,
         "x": 123,
         "y": 211
     },
     
     {
-        "key": "policyNewApp_questionNMix_doctorDiagList[1][insPayAns][false]",
+        "key": "YesNolist[2][insPayAns][false]",
         "p": 3,
         "x": 123,
         "y": 211
@@ -2471,6 +2471,76 @@
         "x": 2000,
         "y": 2000
     }
+    ,
+    {
+        "key": "agentId[0]",
+        "p": 4,
+        "x": 1400,
+        "y": 1400
+
+    }
+     ,
+    {
+        "key": "agentId[1]",
+        "p": 4,
+        "x": 1700,
+        "y": 1700
+
+    }
+      ,
+    {
+        "key": "agentId[2]",
+        "p": 4,
+        "x": 1700,
+        "y": 1700
+
+    }
+      ,
+    {
+        "key": "agentId[3]",
+        "p": 4,
+        "x": 1700,
+        "y": 1700
+
+    }
+      ,
+    {
+        "key": "agentId[4]",
+        "p": 4,
+        "x": 1700,
+        "y": 1700
+
+    }
+      ,
+    {
+        "key": "agentId[5]",
+        "p": 4,
+        "x": 1700,
+        "y": 1700
+
+    }
+      ,
+    {
+        "key": "agentId[6]",
+        "p": 4,
+        "x": 1700,
+        "y": 1700
+
+    }
+     ,
+    {
+        "key": "paper_insure_no",
+        "p": 0,
+        "x": 1700,
+        "y": 1700
+
+    }
+     
+  
+    
+    
+    
+    
     
 
 ]

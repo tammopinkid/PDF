@@ -7,8 +7,7 @@ const compile = (item) => {
   
   return result
 }
+
 export default {
   compile
-}
-
-
+};

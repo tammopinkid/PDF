@@ -1,0 +1,225 @@
+   
+
+[
+{"key": "paper_insure_no","outputType": "text","p": 1,"x": 324.400639649739,"y": 194.880335449901},{"key": "insurance_insure_no","outputType": "text","p": 1,"x": 394.960783204718,"y": 211.92037011794},{"key": "way_distributors","outputType": "text","p": 1,"x": 303.280596680902,"y": 228.96040478598},{"key": "agent_name","outputType": "text","p": 1,"x": 250.480489258808,"y": 246.240439942301},{"key": "license_agent","outputType": "text","p": 1,"x": 502.001000978599,"y": 246.240439942301},{"key": "manager_agent_name","outputType": "text","p": 1,"x": 286.00056152458,"y": 263.280474610341},{"key": "llicense_agent_name","outputType": "text","p": 1,"x": 502.001000978599,"y": 263.280474610341},{"key": "agentId[0]","outputType": "text","p": 1,"x": 395.200783693001,"y": 250.320448243099},{"key": "executiveId[0] ","outputType": "text","p": 1,"x": 395.200783693001,"y": 267.360482911139},{"key": "executiveId[1] ","outputType": "text","p": 1,"x": 404.80080322429,"y": 267.360482911139},{"key": "executiveId[2]  ","outputType": "text","p": 1,"x": 414.40082275558,"y": 267.360482911139},{"key": "executiveId[3]   ","outputType": "text","p": 1,"x": 424.00084228687,"y": 267.360482911139},{"key": "executiveId[4]    ","outputType": "text","p": 1,"x": 433.840862306442,"y": 267.600483399421},{"key": "executiveId[5]    ","outputType": "text","p": 1,"x": 443.440881837732,"y": 267.600483399421},{"key": "executiveId[6]    ","outputType": "text","p": 1,"x": 453.040901369021,"y": 267.600483399421},{"key": "agentId[1] ","outputType": "text","p": 1,"x": 404.80080322429,"y": 250.320448243099},{"key": "agentId[2] ","outputType": "text","p": 1,"x": 414.40082275558,"y": 250.320448243099},{"key": "agentId[3] ","outputType": "text","p": 1,"x": 424.00084228687,"y": 250.320448243099},{"key": "agentId[4]  ","outputType": "text","p": 1,"x": 433.840862306442,"y": 250.320448243099},{"key": "agentId[5]   ","outputType": "text","p": 1,"x": 443.440881837732,"y": 250.320448243099},{"key": "agentId[6]    ","outputType": "text","p": 1,"x": 453.040901369021,"y": 250.320448243099},{"key": "branchId[0]    ","outputType": "text","p": 1,"x": 413.680821290733,"y": 284.880518555742},{"key": "branchId[1]     ","outputType": "text","p": 1,"x": 423.280840822023,"y": 284.880518555742},{"key": "branchId[2]     ","outputType": "text","p": 1,"x": 433.120860841595,"y": 284.880518555742},{"key": "branchId[3]      ","outputType": "text","p": 1,"x": 442.720880372885,"y": 284.880518555742},{"key": "branchId[4]       ","outputType": "text","p": 1,"x": 452.320899904175,"y": 284.880518555742},{"key": "branchId[5]       ","outputType": "text","p": 1,"x": 461.920919435464,"y": 284.880518555742},{"key": "branch","outputType": "text","p": 1,"x": 241.360470704083,"y": 280.32050927838},{"key": "THname_1","outputType": "text","p": 1,"x": 132.160248535662,"y": 333.600617677038},{"key": "formalName_1","outputType": "text","p": 1,"x": 368.320729005389,"y": 332.880616212191},{"key": "EngName_1","outputType": "text","p": 1,"x": 137.920260254436,"y": 349.680650391948},{"key": "maleGender_1","outputType": "text","p": 1,"x": 342.400676270907,"y": 353.760658692746},{"key": "femaleGender_1","outputType": "text","p": 1,"x": 376.96074658355,"y": 353.520658204464},{"key": "nationality_1","outputType": "text","p": 1,"x": 442.24087939632,"y": 349.680650391948},{"key": "oneMoreNationality _1","outputType": "text","p": 1,"x": 223.120433594632,"y": 365.760683106859},{"key": "single_1","outputType": "text","p": 1,"x": 355.120702149866,"y": 369.840691407657},{"key": "marry_1","outputType": "text","p": 1,"x": 390.88077490392,"y": 369.840691407657},{"key": "widower/widow_1","outputType": "text","p": 1,"x": 431.920858400184,"y": 369.840691407657},{"key": "divorce_1","outputType": "text","p": 1,"x": 471.280938478472,"y": 369.840691407657},{"key": "age_1","outputType": "text","p": 1,"x": 518.081033693509,"y": 365.760683106859},{"key": "date_1","outputType": "text","p": 1,"x": 88.2401591800113,"y": 383.04071826318},{"key": "month_1","outputType": "text","p": 1,"x": 143.68027197321,"y": 383.04071826318},{"key": "year_1","outputType": "text","p": 1,"x": 300.400590821515,"y": 383.04071826318},{"key": "country_1","outputType": "text","p": 1,"x": 404.080801759444,"y": 381.600715333487},{"key": "identificationCard_1","outputType": "text","p": 1,"x": 132.160248535662,"y": 402.480757814042},{"key": "passport_1","outputType": "text","p": 1,"x": 244.960478028316,"y": 402.480757814042},{"key": "etcCheckbox_1","outputType": "text","p": 1,"x": 431.200856935337,"y": 402.480757814042},{"key": "etcText_1","outputType": "text","p": 1,"x": 502.481001955163,"y": 397.920748536679},{"key": "idNo[0]","outputType": "text","p": 1,"x": 79.1201406252861,"y": 418.32079004067},{"key": "idNo[1] ","outputType": "text","p": 1,"x": 96.1601752933254,"y": 418.32079004067},{"key": "idNo[2]  ","outputType": "text","p": 1,"x": 107.440198242591,"y": 418.32079004067},{"key": "idNo[3]   ","outputType": "text","p": 1,"x": 118.720221191856,"y": 418.32079004067},{"key": "idNo[4]    ","outputType": "text","p": 1,"x": 130.000244141122,"y": 418.32079004067},{"key": "idNo[5]     ","outputType": "text","p": 1,"x": 146.800278320879,"y": 418.32079004067},{"key": "idNo[6]      ","outputType": "text","p": 1,"x": 158.080301270144,"y": 418.32079004067},{"key": "idNo[7]       ","outputType": "text","p": 1,"x": 169.36032421941,"y": 418.32079004067},{"key": "idNo[8]        ","outputType": "text","p": 1,"x": 180.640347168675,"y": 418.32079004067},{"key": "idNo[9]         ","outputType": "text","p": 1,"x": 191.92037011794,"y": 418.32079004067},{"key": "idNo[10]     ","outputType": "text","p": 1,"x": 208.720404297698,"y": 418.32079004067},{"key": "idNo[11]     ","outputType": "text","p": 1,"x": 220.000427246963,"y": 418.32079004067},{"key": "idNo[12]     ","outputType": "text","p": 1,"x": 236.80046142672,"y": 418.32079004067},{"key": "exp_1","outputType": "text","p": 1,"x": 308.080606446546,"y": 414.000781251589},{"key": "greencardNumber_1","outputType": "text","p": 1,"x": 308.560607423111,"y": 430.0808139665},{"key": "greencardNumberExp_1","outputType": "text","p": 1,"x": 473.20094238473,"y": 430.0808139665},{"key": "husband/wifeName_1","outputType": "text","p": 1,"x": 109.840203125413,"y": 446.16084668141},{"key": "houseNo_2A","outputType": "text","p": 1,"x": 173.920333496772,"y": 496.080948244117},{"key": "road_2A","outputType": "text","p": 1,"x": 88.2401591800113,"y": 513.360983400438},{"key": "subdistrict_2A","outputType": "text","p": 1,"x": 217.840422852423,"y": 513.360983400438},{"key": "district_2A","outputType": "text","p": 1,"x": 342.400676270907,"y": 513.360983400438},{"key": "province_2A","outputType": "text","p": 1,"x": 460.240916017489,"y": 513.360983400438},{"key": "postalCodeA[0]","outputType": "text","p": 1,"x": 122.32022851609,"y": 532.081021486453},{"key": "postalCodeA[1] ","outputType": "text","p": 1,"x": 133.840251953638,"y": 531.601020509889},{"key": "postalCodeA[2] ","outputType": "text","p": 1,"x": 145.120274902903,"y": 531.841020998171},{"key": "postalCodeA[3] ","outputType": "text","p": 1,"x": 156.640298340451,"y": 531.841020998171},{"key": "postalCodeA[4]  ","outputType": "text","p": 1,"x": 167.680320801434,"y": 531.841020998171},{"key": "country_2A","outputType": "text","p": 1,"x": 216.640420411012,"y": 528.001013185655},{"key": "telHome_2A","outputType": "text","p": 1,"x": 442.720880372885,"y": 528.001013185655},{"key": "phoneA[0]","outputType": "text","p": 1,"x": 127.120238281735,"y": 548.641055177928},{"key": "phoneA[1]","outputType": "text","p": 1,"x": 138.160260742718,"y": 548.641055177928},{"key": "phoneA[2] ","outputType": "text","p": 1,"x": 155.200295410757,"y": 548.641055177928},{"key": "phoneA[3]  ","outputType": "text","p": 1,"x": 166.480318360023,"y": 548.401054689646},{"key": "phoneA[4]   ","outputType": "text","p": 1,"x": 177.760341309288,"y": 548.401054689646},{"key": "phoneA[5]    ","outputType": "text","p": 1,"x": 189.280364746836,"y": 548.161054201364},{"key": "phoneA[6]     ","outputType": "text","p": 1,"x": 205.840398438311,"y": 548.161054201364},{"key": "phoneA[7]      ","outputType": "text","p": 1,"x": 217.120421387576,"y": 548.161054201364},{"key": "phoneA[8]       ","outputType": "text","p": 1,"x": 228.640444825124,"y": 548.161054201364},{"key": "phoneA[9]        ","outputType": "text","p": 1,"x": 240.160468262671,"y": 548.161054201364},{"key": "office_2B","outputType": "text","p": 1,"x": 124.48023291063,"y": 565.201088869403},{"key": "road_2B","outputType": "text","p": 1,"x": 89.920162597987,"y": 581.761122560878},{"key": "subdistrict_2B","outputType": "text","p": 1,"x": 217.840422852423,"y": 581.761122560878},{"key": "district_2B","outputType": "text","p": 1,"x": 341.920675294343,"y": 581.761122560878},{"key": "province_2B","outputType": "text","p": 1,"x": 456.640908693255,"y": 581.761122560878},{"key": "postalCodeB[0]","outputType": "text","p": 1,"x": 122.560229004372,"y": 602.641165041433},{"key": "postalCodeB[1] ","outputType": "text","p": 1,"x": 134.08025244192,"y": 602.641165041433},{"key": "postalCodeB[2]  ","outputType": "text","p": 1,"x": 145.120274902903,"y": 602.641165041433},{"key": "postalCodeB[3]  ","outputType": "text","p": 1,"x": 156.640298340451,"y": 602.641165041433},{"key": "postalCodeB[4]   ","outputType": "text","p": 1,"x": 167.920321289716,"y": 602.641165041433},{"key": "country_2B","outputType": "text","p": 1,"x": 211.12040918052,"y": 598.08115576407},{"key": "telHome_2B","outputType": "text","p": 1,"x": 338.560668458391,"y": 597.841155275788},{"key": "email_2B ","outputType": "text","p": 1,"x": 465.520926759698,"y": 597.841155275788},{"key": "houseNo_2C","outputType": "text","p": 1,"x": 137.440259277871,"y": 619.44119922119},{"key": "subdistrict_2C","outputType": "text","p": 1,"x": 116.080215820752,"y": 636.001232912665},{"key": "district_2C","outputType": "text","p": 1,"x": 220.72042871181,"y": 636.001232912665},{"key": "province_2C","outputType": "text","p": 1,"x": 331.360653809924,"y": 636.001232912665},{"key": "postalCodeC[0]","outputType": "text","p": 1,"x": 501.04099902547,"y": 640.561242190027},{"key": "postalCodeC[1] ","outputType": "text","p": 1,"x": 512.321021974735,"y": 640.561242190027},{"key": "postalCodeC[2] ","outputType": "text","p": 1,"x": 523.841045412283,"y": 640.561242190027},{"key": "postalCodeC[3]  ","outputType": "text","p": 1,"x": 534.881067873266,"y": 640.561242190027},{"key": "postalCodeC[4]   ","outputType": "text","p": 1,"x": 546.161090822532,"y": 640.561242190027},{"key": "country_2C","outputType": "text","p": 1,"x": 101.440186035535,"y": 652.081265627575},{"key": "telHome_2C","outputType": "text","p": 1,"x": 324.400639649739,"y": 652.081265627575},{"key": "phoneC[0]","outputType": "text","p": 1,"x": 127.120238281735,"y": 672.96130810813},{"key": "phoneC[1] ","outputType": "text","p": 1,"x": 138.400261231,"y": 672.96130810813},{"key": "phoneC[2]  ","outputType": "text","p": 1,"x": 155.200295410757,"y": 672.721307619848},{"key": "phoneC[3]   ","outputType": "text","p": 1,"x": 166.480318360023,"y": 672.721307619848},{"key": "phoneC[4]    ","outputType": "text","p": 1,"x": 177.760341309288,"y": 672.721307619848},{"key": "phoneC[5]     ","outputType": "text","p": 1,"x": 189.040364258554,"y": 672.721307619848},{"key": "phoneC[6]      ","outputType": "text","p": 1,"x": 205.840398438311,"y": 672.96130810813},{"key": "phoneC[7]     ","outputType": "text","p": 1,"x": 217.120421387576,"y": 672.721307619848},{"key": "phoneC[8]      ","outputType": "text","p": 1,"x": 228.640444825124,"y": 672.721307619848},{"key": "phoneC[9]       ","outputType": "text","p": 1,"x": 240.160468262671,"y": 672.721307619848},{"key": "email_2C","outputType": "text","p": 1,"x": 282.880555176911,"y": 668.161298342485},{"key": "homeSensus_2D","outputType": "text","p": 1,"x": 180.880347656957,"y": 694.081351076968},{"key": "office_2D ","outputType": "text","p": 1,"x": 284.080557618322,"y": 694.081351076968},{"key": "currentHome_2D  ","outputType": "text","p": 1,"x": 361.360714845204,"y": 694.081351076968},{"key": "occupation_3","outputType": "text","p": 1,"x": 105.040193359768,"y": 720.721405276297},{"key": "position_3","outputType": "text","p": 1,"x": 273.280535645621,"y": 720.721405276297},{"key": "occupationType_3","outputType": "text","p": 1,"x": 437.680870118958,"y": 720.721405276297},{"key": "businessType_3","outputType": "text","p": 1,"x": 108.880201172284,"y": 736.801437991207},{"key": "incomePerYear_3","outputType": "text","p": 1,"x": 423.040840333741,"y": 736.561437502925},{"key": "otherOccupation_3","outputType": "text","p": 1,"x": 121.840227539525,"y": 752.401469729553},{"key": "otherOccupationPosition_3","outputType": "text","p": 1,"x": 274.720538575314,"y": 752.641470217835},{"key": "otherOccupationType_3","outputType": "text","p": 1,"x": 437.92087060724,"y": 752.401469729553},{"key": "otherOccupationBusiness_3","outputType": "text","p": 1,"x": 110.080203613696,"y": 768.961503421027},{"key": "otherOccupationIncomeperYear_3","outputType": "text","p": 1,"x": 417.040828126685,"y": 768.721502932745},{"key": "useMotorcycleToWork_No_3","outputType": "text","p": 1,"x": 226.000439454019,"y": 788.161542483607},{"key": "useMotorcycleToWork_Yes_3","outputType": "text","p": 1,"x": 268.960526856541,"y": 788.161542483607}
+]
+
+/*
+   [{
+        "key": "paper_insure_no",
+        "p": 1,
+        "x": 121,
+        "y": 211
+    }
+   ,
+    {
+        "key": "insurance_insure_no",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "way_distributors",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+    ,
+    {
+        "key": "agent_name",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "license_agent",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "manager_agent_name",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "license_agent_name",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "branch",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "name_person_Insurance_th",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+    ,
+    {
+        "key": "old_name_person_Insurance_th",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "name_person_Insurance_eng",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+      ,
+    {
+        "key": "nationality_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "nationality2_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+    ,
+    {
+        "key": "age_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "born_day_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "born_year_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "born_country_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "orther_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+      ,
+    {
+        "key": "Expired_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "green_card_no_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+    ,
+    {
+        "key": "Expired_person_Insurance2",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "couple_name_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "address_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+    ,
+    {
+        "key": "street_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "subdistrict_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "district_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "province_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+      ,
+    {
+        "key": "country_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "phonenum_home_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+      ,
+    {
+        "key": "office_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+     ,
+    {
+        "key": "street_office_person_Insurance",
+        "p": 2,
+        "x": 122,
+        "y": 211
+    }
+
+   ]*/
