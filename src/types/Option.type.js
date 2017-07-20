@@ -1,4 +1,4 @@
-import Positions from '../../config/position.json';
+import Positions from '../../config/position1.json';
 import _ from 'lodash';
 const compile = item => {
   const key = item.fieldId;

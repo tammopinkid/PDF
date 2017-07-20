@@ -39,7 +39,7 @@ const generate = dataObject => {
             result.text = item[Object.keys(item)];
             result.x = position.x;
             result.y = position.y;
-            result.optlist = 'abcd';
+            result.optlist = 'script=thai boxsize={206 20}';
             results.push(result);
           }
         });
@@ -49,7 +49,7 @@ const generate = dataObject => {
           result.text = data[Object.keys(data)];
           result.x = position.x;
           result.y = position.y;
-          result.optlist = 'abcd';
+          result.optlist = 'script=thai boxsize={206 20}';
           results.push(result);
         }
       }

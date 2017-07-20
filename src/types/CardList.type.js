@@ -1,4 +1,5 @@
 import Positions from '../../config/position.json';
+import IgnoreCardList from '../../config/ignoreCardList.json';
 import _ from 'lodash';
 const compile = item => {
   const key = item.fieldId;
@@ -25,12 +26,21 @@ const compile = item => {
     .map(item =>
       _.chain(item)
         .omitBy((value, key) => {
-          return (
+          const isIgnore = _.map(IgnoreCardList.ignore, ignore => {
+            if (
+              _.chain(key).split('[', 1).first().value() === ignore.key &&
+              _.endsWith(key, `].${ignore.value}`)
+            ) {
+              return true;
+            }
+          });
+          return _.includes(isIgnore, true);
+          /*return (
             _.endsWith(key, '].slideId') ||
             _.endsWith(key, '].label') ||
             _.endsWith(key, '].index') ||
             _.endsWith(key, '].detail1')
-          );
+          );*/
         })
         .value()
     )

@@ -27,10 +27,10 @@ const filter = jsonObject => {
       });
       if (isIgnore === false) {
         switch (componentType) {
-          // case 'Textbox': {
-          //   data.push(Textbox.compile(item));
-          //   break;
-          // }
+          case 'Textbox': {
+            data.push(Textbox.compile(item));
+            break;
+          }
           case 'Option': {
             if (Option.compile(item)) {
               data.push(Option.compile(item));
@@ -41,11 +41,10 @@ const filter = jsonObject => {
             data.push(Checkbox.compile(item));
             break;
           }
-          // case 'YesNoList': {
-          // data.push(Yesnolist.compile(item))
-
-          // break
-          // }
+          case 'YesNoList': {
+            data.push(Yesnolist.compile(item));
+            break;
+          }
           case 'InfiniteDropdown': {
             data.push(InfiniteDropdown.compile(item));
             break;
@@ -58,6 +57,10 @@ const filter = jsonObject => {
             data.push(CardList.compile(item));
             break;
           }
+          case 'Auto': {
+            data.push(CardList.compile(item));
+            break;
+          }
         }
       }
 
@@ -66,9 +69,9 @@ const filter = jsonObject => {
       // }
     });
   }
-  //console.log(data);
+  console.log(data);
   //console.log('i = ',i)
-  //Generator.generate(data);
+  Generator.generate(data);
 };
 export default {
   filter

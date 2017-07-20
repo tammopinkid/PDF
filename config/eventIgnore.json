@@ -1,9 +1,3 @@
 {
-  "ignoreList": [
-    "isPaperless",
-    "policy_riders",
-    "policyNewApp_riderDoctorDiagList",
-    "policyNewApp_appCurrentSymptomList",
-    "policyNewApp_appOtherSymptomList"
-  ]
+  "ignoreList": ["isPaperless"]
 }

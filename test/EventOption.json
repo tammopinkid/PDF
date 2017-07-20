@@ -1,0 +1,428 @@
+{
+  "agentId": "5225199",
+  "events": [
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_insuredPerson_customer_partner_sex",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_insuredPerson_customer_partner_sex\",\"value\":{\"M\":{\"order\":0,\"value\":\"M\",\"label\":{\"en\":\"Male\",\"th\":\"ชาย\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"F\":{\"order\":1,\"value\":\"F\",\"label\":{\"en\":\"Female\",\"th\":\"หญิง\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_insuredPerson_customer_partner_status",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_insuredPerson_customer_partner_status\",\"value\":{\"S\":{\"order\":0,\"value\":\"S\",\"label\":{\"en\":\"Single\",\"th\":\"โสด\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"M\":{\"order\":1,\"value\":\"M\",\"label\":{\"en\":\"Married\",\"th\":\"สมรส\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"W\":{\"order\":2,\"value\":\"W\",\"label\":{\"en\":\"Widow\",\"th\":\"หม้าย\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":false},\"D\":{\"order\":3,\"value\":\"D\",\"label\":{\"en\":\"Divorce\",\"th\":\"หย่า\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "confirmation_documents",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"confirmation_documents\",\"value\":{\"ID\":{\"order\":0,\"value\":\"ID\",\"label\":{\"en\":\"Identification card\",\"th\":\"บัตรประจำตัวประชาชน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Passport\":{\"order\":1,\"value\":\"Passport\",\"label\":{\"en\":\"Passport\",\"th\":\"หนังสือเดินทาง\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Other\":{\"order\":1,\"value\":\"Other\",\"label\":{\"en\":\"Other\",\"th\":\"อื่นๆ\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "home_contact",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"home_contact\",\"value\":{\"Registered\":{\"order\":0,\"value\":\"Registered\",\"label\":{\"en\":\"Registered address\",\"th\":\"ที่อยู่ตามทะเบียนบ้าน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Office\":{\"order\":1,\"value\":\"Office\",\"label\":{\"en\":\"Office\",\"th\":\"สถานที่ทำงาน\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Current\":{\"order\":2,\"value\":\"Current\",\"label\":{\"en\":\"Current address\",\"th\":\"ที่อยู่ปัจจุบัน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policyNewApp_appDet_insuredMotorcycleUsageFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policyNewApp_appDet_insuredMotorcycleUsageFlag\",\"value\":{\"Yes\":{\"order\":0,\"value\":\"Yes\",\"label\":{\"en\":\"Yes\",\"th\":\"ใช้\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"No\":{\"order\":1,\"value\":\"No\",\"label\":{\"en\":\"No\",\"th\":\"ไม่ใช้\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "premium_payment_period",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"premium_payment_period\",\"value\":{\"Annual\":{\"order\":0,\"value\":\"Annual\",\"label\":{\"en\":\"Annual\",\"th\":\"รายปี\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Six months\":{\"order\":1,\"value\":\"Six months\",\"label\":{\"en\":\"Six months\",\"th\":\"รายหกเดือน\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Three months\":{\"order\":2,\"value\":\"Three months\",\"label\":{\"en\":\"Three months\",\"th\":\"รายสามเดือน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":false},\"Monthly\":{\"order\":3,\"value\":\"Monthly\",\"label\":{\"en\":\"Monthly\",\"th\":\"รายเดือน\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"One time\":{\"order\":3,\"value\":\"One time\",\"label\":{\"en\":\"One time\",\"th\":\"ชำระเบี้ยประกันภัยครั้งเดียว\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 165,
+      "fieldId": "policy_policyBase_dividendOption",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_policyBase_dividendOption\",\"value\":{\"1\":{\"checked\":false,\"value\":\"1\",\"order\":3,\"label\":{\"th\":\"ขอรับเป็นเงินสด\",\"en\":\"Cash\"},\"backend\":\"{}\"},\"2\":{\"checked\":false,\"value\":\"2\",\"order\":2,\"label\":{\"th\":\"นำไปลดเบี้ยประกันภัย\",\"en\":\"Deduct the premium\"},\"backend\":\"{}\"},\"3\":{\"checked\":true,\"value\":\"3\",\"order\":1,\"label\":{\"th\":\"ฝากไว้กับบริษัท\",\"en\":\"Accumulate at the company\"},\"backend\":\"{}\"}},\"componentType\":\"Option\",\"type\":\"setValue\"}}",
+      "timestamp": 1479806564540
+    },
+    {
+      "replay": 1,
+      "sequenceId": 190,
+      "fieldId": "front_policy_riders",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"front_policy_riders\",\"value\":{\"ADB\":{\"value\":\"ADB\",\"label\":{\"th\":\"(ADB) อุบัติเหตุ อ.3\",\"en\":\"(ADB) อุบัติเหตุ อ.3\"},\"coverCode\":\"R001EA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R001EA\",\"label\":{\"th\":\"อุบัติเหตุ อ.3\",\"en\":\"อุบัติเหตุ อ.3\"},\"coverCode\":\"R001EA\",\"riderCode\":\"ADB\",\"sumInsured\":null}],\"checked\":true},\"ADD\":{\"value\":\"ADD\",\"label\":{\"th\":\"(ADD) อุบัติเหตุ อ.2\",\"en\":\"(ADD) อุบัติเหตุ อ.2\"},\"coverCode\":\"R001DA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R001DA\",\"label\":{\"th\":\"อุบัติเหตุ อ.2\",\"en\":\"อุบัติเหตุ อ.2\"},\"coverCode\":\"R001DA\",\"riderCode\":\"ADD\",\"sumInsured\":null}]},\"ADD_RCC\":{\"value\":\"ADD_RCC\",\"label\":{\"th\":\"(ADD_RCC) สลักหลังอุบัติเหตุ อ2\",\"en\":\"(ADD_RCC) สลักหลังอุบัติเหตุ อ2\"},\"coverCode\":\"R003CA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R003CA\",\"label\":{\"th\":\"สลักหลังอุบัติเหตุ อ2\",\"en\":\"สลักหลังอุบัติเหตุ อ2\"},\"coverCode\":\"R003CA\",\"riderCode\":\"ADD_RCC\",\"sumInsured\":null}],\"checked\":true},\"AI\":{\"value\":\"AI\",\"label\":{\"th\":\"(AI) อุบัติเหตุ อ.1\",\"en\":\"(AI) อุบัติเหตุ อ.1\"},\"coverCode\":\"R001CA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R001CA\",\"label\":{\"th\":\"อุบัติเหตุ อ.1\",\"en\":\"อุบัติเหตุ อ.1\"},\"coverCode\":\"R001CA\",\"riderCode\":\"AI\",\"sumInsured\":null}]},\"AI_RCC\":{\"value\":\"AI_RCC\",\"label\":{\"th\":\"(AI_RCC) สลักหลังอุบัติเหตุ อ1\",\"en\":\"(AI_RCC) สลักหลังอุบัติเหตุ อ1\"},\"coverCode\":\"R003BA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R003BA\",\"label\":{\"th\":\"สลักหลังอุบัติเหตุ อ1\",\"en\":\"สลักหลังอุบัติเหตุ อ1\"},\"coverCode\":\"R003BA\",\"riderCode\":\"AI_RCC\",\"sumInsured\":null}],\"checked\":true},\"CB\":{\"value\":\"CB\",\"label\":{\"th\":\"(CB) คุ้มครองโรคมะเร็ง\",\"en\":\"(CB) คุ้มครองโรคมะเร็ง\"},\"coverCode\":\"R002HA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R002HA\",\"label\":{\"th\":\"คุ้มครองโรคมะเร็ง\",\"en\":\"คุ้มครองโรคมะเร็ง\"},\"coverCode\":\"R002HA\",\"riderCode\":\"CB\",\"sumInsured\":null}]},\"CI48\":{\"value\":\"CI48\",\"label\":{\"th\":\"(CI48) คุ้มครองโรคร้ายแรง 48\",\"en\":\"(CI48) คุ้มครองโรคร้ายแรง 48\"},\"coverCode\":\"R002GA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R002GA\",\"label\":{\"th\":\"คุ้มครองโรคร้ายแรง 48\",\"en\":\"คุ้มครองโรคร้ายแรง 48\"},\"coverCode\":\"R002GA\",\"riderCode\":\"CI48\",\"sumInsured\":null}],\"checked\":true},\"HB\":{\"value\":\"HB\",\"label\":{\"th\":\"(HB) ค่ารักษาพยาบาลรายวัน\",\"en\":\"(HB) ค่ารักษาพยาบาลรายวัน\"},\"coverCode\":\"R008EA\",\"sumInsured\":null,\"isHealth\":true,\"SA\":\"NONE\",\"options\":[{\"value\":\"R008EA\",\"label\":{\"th\":\"ค่ารักษาพยาบาลรายวัน\",\"en\":\"ค่ารักษาพยาบาลรายวัน\"},\"coverCode\":\"R008EA\",\"riderCode\":\"HB\",\"sumInsured\":null}],\"checked\":true},\"HBCI\":{\"value\":\"HBCI\",\"label\":{\"th\":\"(HBCI) ค่ารักษาพยาบาลรายวันและ 5 โรคร้ายแรง\",\"en\":\"(HBCI) ค่ารักษาพยาบาลรายวันและ 5 โรคร้ายแรง\"},\"coverCode\":\"R008YA\",\"sumInsured\":null,\"isHealth\":true,\"SA\":\"NONE\",\"options\":[{\"value\":\"R008YA\",\"label\":{\"th\":\"ค่ารักษาพยาบาลรายวันและ 5 โรคร้ายแรง\",\"en\":\"ค่ารักษาพยาบาลรายวันและ 5 โรคร้ายแรง\"},\"coverCode\":\"R008YA\",\"riderCode\":\"HBCI\",\"sumInsured\":null}]},\"HBP\":{\"value\":\"HBP\",\"label\":{\"th\":\"(HBP) ค่ารักษาพยาบาลรายวันพิเศษ\",\"en\":\"(HBP) ค่ารักษาพยาบาลรายวันพิเศษ\"},\"coverCode\":\"R008FA\",\"sumInsured\":null,\"isHealth\":true,\"SA\":\"NONE\",\"options\":[{\"value\":\"R008FA\",\"label\":{\"th\":\"ค่ารักษาพยาบาลรายวันพิเศษ\",\"en\":\"ค่ารักษาพยาบาลรายวันพิเศษ\"},\"coverCode\":\"R008FA\",\"riderCode\":\"HBP\",\"sumInsured\":null}]},\"HSMHPE\":{\"value\":\"HSMHPE\",\"label\":{\"th\":\"(HSMHPE) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"(HSMHPE) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004OD\",\"sumInsured\":\"10000000\",\"isHealth\":true,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R004OD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004OD\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"10000000\"},{\"value\":\"R004KD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004KD\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"2000000\"},{\"value\":\"R004LD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004LD\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"4000000\"},{\"value\":\"R004MD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004MD\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"6000000\"},{\"value\":\"R004ND\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004ND\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"8000000\"}],\"checked\":true},\"HSMHPED\":{\"value\":\"HSMHPED\",\"label\":{\"th\":\"(HSMHPED) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\",\"en\":\"(HSMHPED) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\"},\"coverCode\":\"R004TD\",\"sumInsured\":\"10000000\",\"isHealth\":true,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R004TD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\"},\"coverCode\":\"R004TD\",\"riderCode\":\"HSMHPED\",\"sumInsured\":\"10000000\"},{\"value\":\"R004PD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\"},\"coverCode\":\"R004PD\",\"riderCode\":\"HSMHPED\",\"sumInsured\":\"2000000\"},{\"value\":\"R004QD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\"},\"coverCode\":\"R004QD\",\"riderCode\":\"HSMHPED\",\"sumInsured\":\"4000000\"},{\"value\":\"R004RD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\"},\"coverCode\":\"R004RD\",\"riderCode\":\"HSMHPED\",\"sumInsured\":\"6000000\"},{\"value\":\"R004SD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.มีความรับผิดส่วนแรก\"},\"coverCode\":\"R004SD\",\"riderCode\":\"HSMHPED\",\"sumInsured\":\"8000000\"}]},\"HSPS\":{\"value\":\"HSPS\",\"label\":{\"th\":\"(HSPS) ผู้ป่วยในพรีเมียร์\",\"en\":\"(HSPS) ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004WB\",\"sumInsured\":\"1000\",\"isHealth\":true,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R004WB\",\"label\":{\"th\":\"ผู้ป่วยในพรีเมียร์\",\"en\":\"ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004WB\",\"riderCode\":\"HSPS\",\"sumInsured\":\"1000\"},{\"value\":\"R004XB\",\"label\":{\"th\":\"ผู้ป่วยในพรีเมียร์\",\"en\":\"ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004XB\",\"riderCode\":\"HSPS\",\"sumInsured\":\"1500\"},{\"value\":\"R004YB\",\"label\":{\"th\":\"ผู้ป่วยในพรีเมียร์\",\"en\":\"ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004YB\",\"riderCode\":\"HSPS\",\"sumInsured\":\"2000\"},{\"value\":\"R004ZB\",\"label\":{\"th\":\"ผู้ป่วยในพรีเมียร์\",\"en\":\"ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004ZB\",\"riderCode\":\"HSPS\",\"sumInsured\":\"3000\"},{\"value\":\"R004AC\",\"label\":{\"th\":\"ผู้ป่วยในพรีเมียร์\",\"en\":\"ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004AC\",\"riderCode\":\"HSPS\",\"sumInsured\":\"4000\"},{\"value\":\"R004VB\",\"label\":{\"th\":\"ผู้ป่วยในพรีเมียร์\",\"en\":\"ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004VB\",\"riderCode\":\"HSPS\",\"sumInsured\":\"500\"},{\"value\":\"R004BC\",\"label\":{\"th\":\"ผู้ป่วยในพรีเมียร์\",\"en\":\"ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004BC\",\"riderCode\":\"HSPS\",\"sumInsured\":\"5000\"},{\"value\":\"R004CC\",\"label\":{\"th\":\"ผู้ป่วยในพรีเมียร์\",\"en\":\"ผู้ป่วยในพรีเมียร์\"},\"coverCode\":\"R004CC\",\"riderCode\":\"HSPS\",\"sumInsured\":\"6000\"}]},\"HSS\":{\"value\":\"HSS\",\"label\":{\"th\":\"(HSS) ผู้ป่วยใน\",\"en\":\"(HSS) ผู้ป่วยใน\"},\"coverCode\":\"R004IB\",\"sumInsured\":\"1100\",\"isHealth\":true,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R004IB\",\"label\":{\"th\":\"ผู้ป่วยใน\",\"en\":\"ผู้ป่วยใน\"},\"coverCode\":\"R004IB\",\"riderCode\":\"HSS\",\"sumInsured\":\"1100\"},{\"value\":\"R004JB\",\"label\":{\"th\":\"ผู้ป่วยใน\",\"en\":\"ผู้ป่วยใน\"},\"coverCode\":\"R004JB\",\"riderCode\":\"HSS\",\"sumInsured\":\"1700\"},{\"value\":\"R004KB\",\"label\":{\"th\":\"ผู้ป่วยใน\",\"en\":\"ผู้ป่วยใน\"},\"coverCode\":\"R004KB\",\"riderCode\":\"HSS\",\"sumInsured\":\"2400\"},{\"value\":\"R004LB\",\"label\":{\"th\":\"ผู้ป่วยใน\",\"en\":\"ผู้ป่วยใน\"},\"coverCode\":\"R004LB\",\"riderCode\":\"HSS\",\"sumInsured\":\"3000\"},{\"value\":\"R004MB\",\"label\":{\"th\":\"ผู้ป่วยใน\",\"en\":\"ผู้ป่วยใน\"},\"coverCode\":\"R004MB\",\"riderCode\":\"HSS\",\"sumInsured\":\"4000\"},{\"value\":\"R004HB\",\"label\":{\"th\":\"ผู้ป่วยใน\",\"en\":\"ผู้ป่วยใน\"},\"coverCode\":\"R004HB\",\"riderCode\":\"HSS\",\"sumInsured\":\"500\"},{\"value\":\"R004VC\",\"label\":{\"th\":\"ผู้ป่วยใน\",\"en\":\"ผู้ป่วยใน\"},\"coverCode\":\"R004VC\",\"riderCode\":\"HSS\",\"sumInsured\":\"5000\"},{\"value\":\"R004WC\",\"label\":{\"th\":\"ผู้ป่วยใน\",\"en\":\"ผู้ป่วยใน\"},\"coverCode\":\"R004WC\",\"riderCode\":\"HSS\",\"sumInsured\":\"8000\"}]},\"OPDBS\":{\"value\":\"OPDBS\",\"label\":{\"th\":\"(OPDBS) สลักหลังผู้ป่วยนอก\",\"en\":\"(OPDBS) สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012VC\",\"sumInsured\":\"1000\",\"isHealth\":true,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R012VC\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012VC\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"1000\"},{\"value\":\"R012QD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012QD\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"1500\"},{\"value\":\"R012RD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012RD\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"2000\"},{\"value\":\"R012PC\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012PC\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"400\"},{\"value\":\"R012QC\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012QC\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"500\"},{\"value\":\"R012RC\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012RC\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"600\"},{\"value\":\"R012SC\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012SC\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"700\"},{\"value\":\"R012TC\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012TC\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"800\"},{\"value\":\"R012UC\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอก\",\"en\":\"สลักหลังผู้ป่วยนอก\"},\"coverCode\":\"R012UC\",\"riderCode\":\"OPDBS\",\"sumInsured\":\"900\"}]},\"OPDME\":{\"value\":\"OPDME\",\"label\":{\"th\":\"(OPDME) บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"(OPDME) บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012MH\",\"sumInsured\":\"1000\",\"isHealth\":true,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R012MH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012MH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"1000\"},{\"value\":\"R012NH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012NH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"1500\"},{\"value\":\"R012OH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012OH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"2000\"},{\"value\":\"R012PH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012PH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"2500\"},{\"value\":\"R012QH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012QH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"3000\"},{\"value\":\"R012RH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012RH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"3500\"},{\"value\":\"R012GH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012GH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"400\"},{\"value\":\"R012SH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012SH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"4000\"},{\"value\":\"R012HH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012HH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"500\"},{\"value\":\"R012IH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012IH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"600\"},{\"value\":\"R012JH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012JH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"700\"},{\"value\":\"R012KH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012KH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"800\"},{\"value\":\"R012LH\",\"label\":{\"th\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\",\"en\":\"บันทึกสลักหลังแนบท้ายสัญญาเพิ่มเติมคุ้มครองสุขภาพ ปลดล็อค เอ็กซ์ตร้า\"},\"coverCode\":\"R012LH\",\"riderCode\":\"OPDME\",\"sumInsured\":\"900\"}]},\"OPDPS\":{\"value\":\"OPDPS\",\"label\":{\"th\":\"(OPDPS) สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"(OPDPS) สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012JD\",\"sumInsured\":\"1000\",\"isHealth\":true,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R012JD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012JD\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"1000\"},{\"value\":\"R012KD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012KD\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"1500\"},{\"value\":\"R012LD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012LD\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"2000\"},{\"value\":\"R012DD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012DD\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"400\"},{\"value\":\"R012ED\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012ED\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"500\"},{\"value\":\"R012FD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012FD\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"600\"},{\"value\":\"R012GD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012GD\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"700\"},{\"value\":\"R012HD\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012HD\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"800\"},{\"value\":\"R012ID\",\"label\":{\"th\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\",\"en\":\"สลักหลังผู้ป่วยนอกพรีเมียร์\"},\"coverCode\":\"R012ID\",\"riderCode\":\"OPDPS\",\"sumInsured\":\"900\"}]},\"PB4\":{\"value\":\"PB4\",\"label\":{\"th\":\"(PB4) ผลประโยชน์ผู้ชำระเบี้ยฯ\",\"en\":\"(PB4) ผลประโยชน์ผู้ชำระเบี้ยฯ\"},\"coverCode\":\"R007DA\",\"sumInsured\":null,\"isPB\":true,\"SA\":\"FIX_SA\",\"options\":[{\"value\":\"R007DA\",\"label\":{\"th\":\"ผลประโยชน์ผู้ชำระเบี้ยฯ\",\"en\":\"ผลประโยชน์ผู้ชำระเบี้ยฯ\"},\"coverCode\":\"R007DA\",\"riderCode\":\"PB4\",\"sumInsured\":null}]},\"TRC_A\":{\"value\":\"TRC_A\",\"label\":{\"th\":\"(TRC_A) สัญญาเพิ่มเติมแบบเฉพาะกาล ชนิดเปลี่ยนเป็นกรมธรรม์ประกันภัยได้\",\"en\":\"(TRC_A) สัญญาเพิ่มเติมแบบเฉพาะกาล ชนิดเปลี่ยนเป็นกรมธรรม์ประกันภัยได้\"},\"coverCode\":\"R006IA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R006IA\",\"label\":{\"th\":\"สัญญาเพิ่มเติมแบบเฉพาะกาล ชนิดเปลี่ยนเป็นกรมธรรม์ประกันภัยได้\",\"en\":\"สัญญาเพิ่มเติมแบบเฉพาะกาล ชนิดเปลี่ยนเป็นกรมธรรม์ประกันภัยได้\"},\"coverCode\":\"R006IA\",\"riderCode\":\"TRC_A\",\"sumInsured\":null,\"benefitTerm\":0,\"premiumTerm\":0}]},\"TRN_A\":{\"value\":\"TRN_A\",\"label\":{\"th\":\"(TRN_A) เฉพาะกาล\",\"en\":\"(TRN_A) เฉพาะกาล\"},\"coverCode\":\"R006EA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R006EA\",\"label\":{\"th\":\"เฉพาะกาล\",\"en\":\"เฉพาะกาล\"},\"coverCode\":\"R006EA\",\"riderCode\":\"TRN_A\",\"sumInsured\":null,\"benefitTerm\":0,\"premiumTerm\":0}]},\"WP\":{\"value\":\"WP\",\"label\":{\"th\":\"(WP) ทุพพลภาพ (ทพ1)\",\"en\":\"(WP) ทุพพลภาพ (ทพ1)\"},\"coverCode\":\"R007BA\",\"sumInsured\":null,\"SA\":\"FIX_SA\",\"options\":[{\"value\":\"R007BA\",\"label\":{\"th\":\"ทุพพลภาพ (ทพ1)\",\"en\":\"ทุพพลภาพ (ทพ1)\"},\"coverCode\":\"R007BA\",\"riderCode\":\"WP\",\"sumInsured\":null}]}},\"type\":\"setValue\"}}",
+      "timestamp": 1479806592749
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "payment_way",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"payment_way\",\"value\":{\"Cash\":{\"order\":0,\"value\":\"Cash\",\"label\":{\"en\":\"Cash\",\"th\":\"เงินสด\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"ATM\":{\"order\":1,\"value\":\"ATM\",\"label\":{\"en\":\"ATM\",\"th\":\"เอทีเอ็ม\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"OTHERS\":{\"order\":2,\"value\":\"OTHERS\",\"label\":{\"en\":\"OTHERS\",\"th\":\"อื่นๆ\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "lifeStyleFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"lifeStyleFlag\",\"value\":{\"Yes\":{\"order\":0,\"value\":\"Yes\",\"label\":{\"en\":\"Yes\",\"th\":\"มี\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"No\":{\"order\":1,\"value\":\"No\",\"label\":{\"en\":\"No\",\"th\":\"ไม่มี\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_policyDetails_insured_lifeStyleFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_policyDetails_insured_lifeStyleFlag\",\"value\":{\"Plane\":{\"order\":0,\"value\":\"Plane\",\"label\":{\"en\":\"Drive a private plane\",\"th\":\"ขับเครื่องบินส่วนตัว\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Parachute\":{\"order\":1,\"value\":\"Parachute\",\"label\":{\"en\":\"Parachute\",\"th\":\"กระโดดร่ม\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Glider\":{\"order\":2,\"value\":\"Glider\",\"label\":{\"en\":\"Drive glider\",\"th\":\"ขับเครื่องร่อน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":false},\"Balloon\":{\"order\":3,\"value\":\"Balloon\",\"label\":{\"en\":\"Balloon\",\"th\":\"บอลลูน\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Climbing\":{\"order\":4,\"value\":\"Climbing\",\"label\":{\"en\":\"Climbing\",\"th\":\"ปีนเขา\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 411,
+      "fieldId": "policy_policyDetails_insured_previuosPolicyFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_previuosPolicyFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"มี\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่มี\",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808035490
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_rejectInsurerFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_rejectInsurerFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policyNewApp_appDet_insuredDrugUsage",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policyNewApp_appDet_insuredDrugUsage\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคยเสพ\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคยเสพ \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policyNewApp_appDet_insuredDrugPenalty",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policyNewApp_appDet_insuredDrugPenalty\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_alcoholUsageFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_alcoholUsageFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_treatment_for_alcoholism",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_treatment_for_alcoholism\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_smokingFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_smokingFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_prematureBirth",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_prematureBirth\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"ใช่\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่ใช่ \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "slow13.2",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"slow13.2\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"ใช่\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่ใช่ \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "g6pdFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"g6pdFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เป็น\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เป็น \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_familyHealthHistoryFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_familyHealthHistoryFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เป็น\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เป็น \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_healthy",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_healthy\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"ใช่\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่ใช่ \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policyNewApp_appDet_insuredHasTreatmentFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policyNewApp_appDet_insuredHasTreatmentFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_isPayerFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_isPayerFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"ใช่\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่ใช่ \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_insured_PayerType",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_insured_PayerType\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"ใช่\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่ใช่ \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_payer_customer_partner_sex",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_payer_customer_partner_sex\",\"value\":{\"M\":{\"order\":0,\"value\":\"M\",\"label\":{\"en\":\"Male\",\"th\":\"ชาย\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"F\":{\"order\":1,\"value\":\"F\",\"label\":{\"en\":\"Female\",\"th\":\"หญิง\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_payer_customer_partner_maritalStatus",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_payer_customer_partner_maritalStatus\",\"value\":{\"Single\":{\"order\":0,\"value\":\"Single\",\"label\":{\"en\":\"Single\",\"th\":\"โสด\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Married\":{\"order\":1,\"value\":\"Married\",\"label\":{\"en\":\"Married\",\"th\":\"สมรส\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Widow\":{\"order\":2,\"value\":\"Widow\",\"label\":{\"en\":\"Widow\",\"th\":\"หม้าย\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":false},\"Divorce\":{\"order\":3,\"value\":\"Divorce\",\"label\":{\"en\":\"Divorce\",\"th\":\"หย่า\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_payer_confirmation_documents",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_payer_confirmation_documents\",\"value\":{\"Identification card\":{\"order\":0,\"value\":\"Identification card\",\"label\":{\"en\":\"Identification card\",\"th\":\"บัตรประจำตัวประชาชน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Passport\":{\"order\":1,\"value\":\"Passport\",\"label\":{\"en\":\"Passport\",\"th\":\"หนังสือเดินทาง\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Other\":{\"order\":1,\"value\":\"Other\",\"label\":{\"en\":\"Other\",\"th\":\"อื่นๆ\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 418,
+      "fieldId": "sameAddress",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Checkbox\",\"fieldName\":\"sameAddress\",\"value\":true,\"type\":\"setValue\"}}",
+      "timestamp": 1479808355517
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_payer_home_contact",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"home_contact\",\"value\":{\"Registered\":{\"order\":0,\"value\":\"Registered\",\"label\":{\"en\":\"Registered address\",\"th\":\"ที่อยู่ตามทะเบียนบ้าน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Office\":{\"order\":1,\"value\":\"Office\",\"label\":{\"en\":\"Office\",\"th\":\"สถานที่ทำงาน\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Current\":{\"order\":2,\"value\":\"Current\",\"label\":{\"en\":\"Current address\",\"th\":\"ที่อยู่ปัจจุบัน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policyNewApp_appDet_payerMotorcycleUsageFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policyNewApp_appDet_payerMotorcycleUsageFlag\",\"value\":{\"Yes\":{\"order\":0,\"value\":\"Yes\",\"label\":{\"en\":\"Yes\",\"th\":\"ใช้\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"No\":{\"order\":1,\"value\":\"No\",\"label\":{\"en\":\"No\",\"th\":\"ไม่ใช้\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "payer_lifeStyleFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"payer_lifeStyleFlag\",\"value\":{\"Yes\":{\"order\":0,\"value\":\"Yes\",\"label\":{\"en\":\"Yes\",\"th\":\"มี\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"No\":{\"order\":1,\"value\":\"No\",\"label\":{\"en\":\"No\",\"th\":\"ไม่มี\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_policyDetails_payer_lifeStyleFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_policyDetails_payer_lifeStyleFlag\",\"value\":{\"Plane\":{\"order\":0,\"value\":\"Plane\",\"label\":{\"en\":\"Drive a private plane\",\"th\":\"ขับเครื่องบินส่วนตัว\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Parachute\":{\"order\":1,\"value\":\"Parachute\",\"label\":{\"en\":\"Parachute\",\"th\":\"กระโดดร่ม\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Glider\":{\"order\":2,\"value\":\"Glider\",\"label\":{\"en\":\"Drive glider\",\"th\":\"ขับเครื่องร่อน\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":false},\"Balloon\":{\"order\":3,\"value\":\"Balloon\",\"label\":{\"en\":\"Balloon\",\"th\":\"บอลลูน\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false},\"Climbing\":{\"order\":4,\"value\":\"Climbing\",\"label\":{\"en\":\"Climbing\",\"th\":\"ปีนเขา\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 411,
+      "fieldId": "policy_policyDetails_payer_previuosPolicyFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_payer_previuosPolicyFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"มี\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่มี\",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808035490
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_payer_rejectInsurerFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_payer_rejectInsurerFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policyNewApp_appDet_payerDrugUsage",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policyNewApp_appDet_payerDrugUsage\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคยเสพ\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคยเสพ \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policyNewApp_appDet_payerDrugPenalty",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policyNewApp_appDet_payerDrugPenalty\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_payer_alcoholUsageFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_payer_alcoholUsageFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_payer_treatment_for_alcoholism",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_payer_treatment_for_alcoholism\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_payer_smokingFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_payer_smokingFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_payer_customer_partner_weightChange",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_payer_customer_partner_weightChange\",\"value\":{\"Yes\":{\"order\":0,\"value\":\"Yes\",\"label\":{\"en\":\"Yes\",\"th\":\"ใช่\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"No\":{\"order\":1,\"value\":\"No\",\"label\":{\"en\":\"No\",\"th\":\"ไม่ใช่\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "policy_policyDetails_payer_familyHealthHistoryFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"policy_policyDetails_payer_familyHealthHistoryFlag\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เป็น\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เป็น \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 422,
+      "fieldId": "hasTreatment",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Option\",\"fieldName\":\"hasTreatment\",\"value\":{\"yes\":{\"order\":0,\"value\":\"yes\",\"label\":{\"th\":\"เคย\",\"en\":\"Yes\"},\"checked\":true},\"no\":{\"order\":1,\"value\":\"no\",\"label\":{\"th\":\"ไม่เคย \",\"en\":\"No\"},\"checked\":false}},\"type\":\"setValue\"}}",
+      "timestamp": 1479808387175
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "print_FACTA_incomeInUSA",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"print_FACTA_incomeInUSA\",\"value\":{\"Yes\":{\"order\":0,\"value\":\"Yes\",\"label\":{\"en\":\"Yes\",\"th\":\"ใช่\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"No\":{\"order\":1,\"value\":\"No\",\"label\":{\"en\":\"No\",\"th\":\"ไม่ใช่\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "print_FACTA_insurebyNationalityUSA",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"print_FACTA_insurebyNationalityUSA\",\"value\":{\"Yes\":{\"order\":0,\"value\":\"Yes\",\"label\":{\"en\":\"Yes\",\"th\":\"ใช่\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"No\":{\"order\":1,\"value\":\"No\",\"label\":{\"en\":\"No\",\"th\":\"ไม่ใช่\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "print_lawyer_relation",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"print_lawyer_relation\",\"value\":{\"Parent\":{\"order\":0,\"value\":\"Parent\",\"label\":{\"en\":\"Parent\",\"th\":\"บิดา/มารดา\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"Adult\":{\"order\":1,\"value\":\"Adult\",\"label\":{\"en\":\"Adult\",\"th\":\"ผู้แทนโดยชอบธรรม\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    }
+  ]
+}
