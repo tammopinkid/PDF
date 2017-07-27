@@ -1,0 +1,18 @@
+part3_statusConfirmA_no : 53.8 , 143.8
+part3_statusConfirmA_yes : 106.08 , 144.04
+part3_statusConfirmA_yesDetail : 192.48 , 144.52
+part3_statusConfirmB_no : 53.52 , 174.04
+part3_statusConfirmB_yes : 106.56 , 174.76
+part3_statusConfirmB_yesDetail : 199.44 , 174.76
+part4_writeAt : 62.88 , 543.64
+part4_day : 355.44 , 543.88
+part4_month : 412.32 , 544.12
+part4_year : 531.36 , 544.12
+print_witness_signature : 106.56 , 658.36
+print_agent_signature : 87.12 , 657.88
+policy_insuredPerson_customer_signature : 386.88 , 660.76
+policy_policyAgent_agent_signature : 110.64 , 655.72
+policy_policyAgent_witness_signature : 104, 657
+part4_licenseNo : 126.72 , 696.16
+part4_licenseExpired : 157.68 , 713.8
+part4_officerNo : 186 , 727.48

@@ -1,0 +1,113 @@
+policy_insuredPerson_customer_houseRegAddress_mobileNo : 129.6 , 589.72
+policy_insuredPerson_customer_houseRegAddress_province: 222.72 , 555.4
+policy_insuredPerson_customer_officeAddress_soi : 482.64 , 608.92
+policy_insuredPerson_customer_officeAddress_email : 480.24 , 645.88
+policy_insuredPerson_customer_officeAddress_phoneNo: 348.72 , 643
+policy_insuredPerson_customer_officeAddress_postCode: 126.24 , 643
+policy_insuredPerson_customer_officeAddress_moo: 416.4 , 614.44
+policy_insuredPerson_customer_officeAddress_officeName: 127.68 , 610.84
+policy_insuredPerson_customer_officeAddress_road: 96.24 , 626.2
+policy_insuredPerson_customer_officeAddress_homeNo: 354.24 , 610.84
+policy_insuredPerson_customer_officeAddress_tambol : 232.32 , 624.76
+policy_insuredPerson_customer_officeAddress_amphur: 348.96 , 625
+policy_insuredPerson_customer_officeAddress_province: 467.52 , 627.88
+policy_insuredPerson_customer_officeAddress_country: 222.48 , 640.6
+policy_policyAgent_relation_agentName: 412.8 , 293.32
+policy_policyAgent_service_agentName: 411.84 , 277
+policy_insuredPerson_customer_partner_lnationality2 : 237.6 , 424.12
+policy_policyAgent_relation_Name: 226.08 , 295
+policy_policyAgent_service_Name: 224.64 , 277
+policy_policyAgent_loanNo : 120, 347
+policy_policyAgent_relation_Code: 88.8 , 292.12
+policy_policyAgent_deliverDate : 80.16 , 328.12
+policy_policyAgent_relation_branchCode: 507.12 , 296.2
+policy_policyAgent_service_branchCode : 507.12 , 279.16
+policy_policyAgent_CIF : 78.24 , 312.76
+policy_policyAgent_facsimile : 393.36 , 329.08
+policy_policyAgent_tel : 219.12 , 327.88
+policy_policyAgent_insurancePlanOtherDetail : 501.6 , 251.08
+policy_policyAgent_insurancePlanOther : 458.4 , 251.08
+policy_policyAgent_insurancePlan3 : 363.84 , 251.32
+policy_policyAgent_insurancePlan2 : 267.84 , 251.32
+policy_policyAgent_insurancePlan1 : 143.52 , 251.56
+policy_policyAgent_service_Code,236778 : 89.52 , 276.04
+policy_policyBase_policyNo,3022134627 : 409.68 , 183.4
+policy_insuredPerson_customer_partner_typeOfWork : 127.44 , 768.04
+policy_insuredPerson_customer_partner_typeOfBusiness QQQQ : 358.08 , 768.04
+policy_insuredPerson_customer_partner_occupationDetails_other_appointment : 241.2 , 782.44
+policy_insuredPerson_contactAddress_Home : 361.92 , 733.72
+policy_insuredPerson_contactAddress_office : 286.08 , 734.2
+policy_insuredPerson_contactAddress_houseRegis : 184.32 , 734.2
+policy_insuredPerson_customer_partner_occupationDetails_other_typeOfbusiness : 509.76 , 781.96
+policy_insuredPerson_customer_partner_occupationDetails_other_typeOfWork : 370.32 , 782.68
+policy_insuredPerson_customer_partner_occupationDetails_other : 127.68 , 782.2
+policy_insuredPerson_customer_partner_occupationDetails : 119.04 , 753.88
+policy_insuredPerson_customer_partner_occupationDetails_appointment : 348.72 , 753.88
+policy_insuredPerson_customer_houseRegAddress_province: 468.24 , 558.04
+policy_insuredPerson_customer_houseRegAddress_phoneNo: 456.48 , 573.16
+policy_insuredPerson_customer_houseRegAddress_road : 96.48 , 557.32
+policy_insuredPerson_customer_houseRegAddress_soi: 480 , 539.56
+policy_insuredPerson_customer_houseRegAddress_homeNo: 306.48 , 544.6
+policy_insuredPerson_customer_houseRegAddress_moo: 409.44 , 544.6
+policy_insuredPerson_customer_houseRegAddress_homeNo:178.32 , 541
+policy_insuredPerson_customer_houseRegAddress_amphur: 349.68 , 555.16
+policy_insuredPerson_customer_houseRegAddress_country : 228.72 , 571
+policy_insuredPerson_customer_homeAddress_email: 287.52 , 712.36
+policy_insuredPerson_customer_homeAddress_phoneNo: 321.6 , 696.04
+policy_insuredPerson_customer_homeAddress_tambol: 118.32 , 678.76
+policy_insuredPerson_customer_partner_lastNameEng: 193.44 , 407.8
+policy_insuredPerson_customer_partner_Wife/Husband : 126 , 503.8
+policy_insuredPerson_customer_partner_title : 134, 391
+policy_insuredPerson_customer_partner_firstNameEng: 168 , 407.8
+policy_insuredPerson_customer_homeAddress_postCode: 503.04 , 680.44
+policy_insuredPerson_customer_partner_formlastName : 468.48 , 390.52
+policy_insuredPerson_customer_partner_lastName: 180.24 , 390.04
+policy_insuredPerson_customer_partner_idNo : 81.84 , 471.4
+policy_insuredPerson_customer_partner_formName : 401.04 , 393.64
+policy_insuredPerson_customer_partner_bornYear : 305.04 , 439.96
+policy_insuredPerson_customer_partner_bornMonth : 182.4 , 437.56
+policy_insuredPerson_customer_partner_bornDay : 93.36 , 439.96
+policy_policyAgent_loanFormNo2 : 374.4 , 347.8
+policy_policyAgent_loanFormNo1 : 122.64 , 347.8
+policy_policyAgent_accountNo : 410, 312
+policy_policyAgent_mortgageDate : 250.08 , 313.96
+policy_policyAgent_typeOfloan_insurPremiumPayer_otherDetail : 394.8 , 262.84
+policy_policyAgent_typeOfloan_insurPremiumPayer_other : 362.88 , 263.32
+policy_policyAgent_typeOfloan_insurPremiumPayer_cash : 268.32 , 263.32
+policy_policyAgent_typeOfloan_insurPremiumPayer_loanForPayer : 142.56 , 263.08
+policy_policyAgent_typeOfloan_loanOtherDetails : 476.64 , 239.08
+policy_policyAgent_typeOfloan_loanOther : 428.64 , 238.84
+policy_policyAgent_typeOfloan_loanOD31 : 363.12 , 239.08
+policy_policyAgent_typeOfloan_loanODPNLG : 268.56 , 239.56
+policy_policyAgent_typeOfloan_loanBusiness : 211.92 , 239.08
+policy_policyAgent_typeOfloan_loanaddress : 143.28 , 238.84
+policy_insuredPerson_customer_partner_firstName : 156.72 , 390.04
+policy_insuredPerson_customer_partner_titleEng : 143.04 , 407.56
+policy_insuredPerson_customer_partner_title : 138.72 , 392.92
+policy_insuredPerson_customer_partner_sex_S : 398.88 , 407.56
+policy_insuredPerson_customer_partner_sex_M: 365.04 , 405.88
+policy_insuredPerson_customer_officeAddress_arKan, : 278.64 , 614.44
+policy_insuredPerson_customer_homeAddress_mobileNo: 129.6 , 713.08
+policy_insuredPerson_customer_homeAddress_arKan, : 237.6 , 667.48
+policy_insuredPerson_customer_homeAddress_moo: 315.36 , 667.96
+policy_insuredPerson_customer_homeAddress_homeNo: 137.04 , 664.6
+policy_insuredPerson_customer_homeAddress_amphur: 225.6 , 679.24
+policy_insuredPerson_customer_homeAddress_road: 472.08 , 664.84
+policy_insuredPerson_customer_homeAddress_country: 105.12 , 694.84
+policy_insuredPerson_customer_homeAddress_soi: 377.28 , 662.92
+policy_insuredPerson_customer_homeAddress_province: 340.32 , 681.88
+policy_payer_customer_partner_idType_greenCard_expire : 462.24 , 487.96
+policy_payer_customer_partner_idType_greenCard : 310.56 , 487.96
+policy_payer_customer_partner_idType_otherDetails : 503.04 , 455.32
+policy_payer_customer_partner_idType_other : 433.44 , 455.56
+policy_payer_customer_partner_idType_pasSport : 249.12 , 456.04
+policy_payer_customer_partner_idType_identityCard  : 134.16 , 455.08
+policy_insuredPerson_customer_partner_age : 532.56 , 423.64
+policy_insuredPerson_customer_partner_maritalStatus_divorce : 480.96 , 423.64
+policy_insuredPerson_customer_partner_maritalStatus_marry : 401.28 , 423.4
+policy_insuredPerson_customer_partner_maritalStatus_widowed : 441.6 , 423.16
+policy_insuredPerson_customer_partner_maritalStatus_single: 365.04 , 422.68
+policy_insuredPerson_customer_partner_bornCountry: 408.96 , 437.08
+policy_insuredPerson_customer_partner_lnationality : 465.12 , 406.12
+policy_insuredPerson_customer_partner_idExpiryDate : 308.88 , 471.64
+policy_insuredPerson_customer_houseRegAddress_postCode: 124.8 , 573.4
