@@ -12,13 +12,11 @@ import { ignoreList } from '../../config/eventIgnore.json';
 const filter = jsonObject => {
   let events = jsonObject.events;
   let data = [];
-  let i = 0;
   if (events.length > 0) {
     events.forEach(item => {
       const key = item.fieldId;
       const sequenceId = item.sequenceId;
       const componentType = JSON.parse(item.payload).params.componentType;
-      //i++
       let isIgnore = false;
       _.map(ignoreList, item => {
         if (key === item) {
@@ -27,50 +25,45 @@ const filter = jsonObject => {
       });
       if (isIgnore === false) {
         switch (componentType) {
-          case 'Textbox': {
-            data.push(Textbox.compile(item));
-            break;
-          }
+          // case 'Textbox': {
+          //   data.push(Textbox.compile(item));
+          //   break;
+          // }
           case 'Option': {
             if (Option.compile(item)) {
               data.push(Option.compile(item));
             }
             break;
           }
-          case 'Checkbox': {
-            data.push(Checkbox.compile(item));
-            break;
-          }
-          case 'YesNoList': {
-            data.push(Yesnolist.compile(item));
-            break;
-          }
-          case 'InfiniteDropdown': {
-            data.push(InfiniteDropdown.compile(item));
-            break;
-          }
-          case 'Picker': {
-            data.push(Picker.compile(item));
-            break;
-          }
-          case 'CardList': {
-            data.push(CardList.compile(item));
-            break;
-          }
-          case 'Auto': {
-            data.push(CardList.compile(item));
-            break;
-          }
+          // case 'Checkbox': {
+          //   data.push(Checkbox.compile(item));
+          //   break;
+          // }
+          // case 'YesNoList': {
+          //   data.push(Yesnolist.compile(item));
+          //   break;
+          // }
+          // case 'InfiniteDropdown': {
+          //   data.push(InfiniteDropdown.compile(item));
+          //   break;
+          // }
+          // case 'Picker': {
+          //   data.push(Picker.compile(item));
+          //   break;
+          // }
+          // case 'CardList': {
+          //   data.push(CardList.compile(item));
+          //   break;
+          // }
+          // case 'Auto': {
+          //   data.push(CardList.compile(item));
+          //   break;
+          // }
         }
       }
-
-      // if (sequenceId === 411) {
-      //   console.log(item.payload);
-      // }
     });
   }
   console.log(data);
-  //console.log('i = ',i)
   Generator.generate(data);
 };
 export default {

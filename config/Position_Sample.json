@@ -1,0 +1,6742 @@
+[
+  {
+    "key": "paper_insuredNo",
+    "outputType": "text",
+    "p": 1,
+    "x": 324.400639649739,
+    "y": 194.880335449901,
+    "optlist": ""
+  },
+  {
+    "key": "policyNo",
+    "outputType": "text",
+    "p": 1,
+    "x": 394.960783204718,
+    "y": 211.92037011794,
+    "optlist": ""
+  },
+  {
+    "key": "channel",
+    "outputType": "text",
+    "p": 1,
+    "x": 303.280596680902,
+    "y": 228.96040478598,
+    "optlist": ""
+  },
+  {
+    "key": "agentName",
+    "outputType": "text",
+    "p": 1,
+    "x": 250.480489258808,
+    "y": 246.240439942301,
+    "optlist": ""
+  },
+  {
+    "key": "agentLicense",
+    "outputType": "text",
+    "p": 1,
+    "x": 502.001000978599,
+    "y": 246.240439942301,
+    "optlist": ""
+  },
+  {
+    "key": "leadGen",
+    "outputType": "text",
+    "p": 1,
+    "x": 286.00056152458,
+    "y": 263.280474610341,
+    "optlist": ""
+  },
+  {
+    "key": "leadGenLicense",
+    "outputType": "text",
+    "p": 1,
+    "x": 502.001000978599,
+    "y": 263.280474610341,
+    "optlist": ""
+  },
+  {
+    "key": "agentId[0]",
+    "outputType": "text",
+    "p": 1,
+    "x": 395.200783693001,
+    "y": 250.320448243099,
+    "optlist": ""
+  },
+  {
+    "key": "leadGenId[0] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 395.200783693001,
+    "y": 267.360482911139,
+    "optlist": ""
+  },
+  {
+    "key": "leadGenId[1] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 404.80080322429,
+    "y": 267.360482911139,
+    "optlist": ""
+  },
+  {
+    "key": "leadGenId[2] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 414.40082275558,
+    "y": 267.360482911139,
+    "optlist": ""
+  },
+  {
+    "key": "leadGenId[3] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 424.00084228687,
+    "y": 267.360482911139,
+    "optlist": ""
+  },
+  {
+    "key": "leadGenId[4] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 433.840862306442,
+    "y": 267.600483399421,
+    "optlist": ""
+  },
+  {
+    "key": "leadGenId[5] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 443.440881837732,
+    "y": 267.600483399421,
+    "optlist": ""
+  },
+  {
+    "key": "leadGenId[6] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 453.040901369021,
+    "y": 267.600483399421,
+    "optlist": ""
+  },
+  {
+    "key": "agentId[1] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 404.80080322429,
+    "y": 250.320448243099,
+    "optlist": ""
+  },
+  {
+    "key": "agentId[2] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 414.40082275558,
+    "y": 250.320448243099,
+    "optlist": ""
+  },
+  {
+    "key": "agentId[3] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 424.00084228687,
+    "y": 250.320448243099,
+    "optlist": ""
+  },
+  {
+    "key": "agentId[4]  ",
+    "outputType": "text",
+    "p": 1,
+    "x": 433.840862306442,
+    "y": 250.320448243099,
+    "optlist": ""
+  },
+  {
+    "key": "agentId[5]   ",
+    "outputType": "text",
+    "p": 1,
+    "x": 443.440881837732,
+    "y": 250.320448243099,
+    "optlist": ""
+  },
+  {
+    "key": "agentId[6]    ",
+    "outputType": "text",
+    "p": 1,
+    "x": 453.040901369021,
+    "y": 250.320448243099,
+    "optlist": ""
+  },
+  {
+    "key": "branchId[0]    ",
+    "outputType": "text",
+    "p": 1,
+    "x": 413.680821290733,
+    "y": 284.880518555742,
+    "optlist": ""
+  },
+  {
+    "key": "branchId[1]     ",
+    "outputType": "text",
+    "p": 1,
+    "x": 423.280840822023,
+    "y": 284.880518555742,
+    "optlist": ""
+  },
+  {
+    "key": "branchId[2]     ",
+    "outputType": "text",
+    "p": 1,
+    "x": 433.120860841595,
+    "y": 284.880518555742,
+    "optlist": ""
+  },
+  {
+    "key": "branchId[3]      ",
+    "outputType": "text",
+    "p": 1,
+    "x": 442.720880372885,
+    "y": 284.880518555742,
+    "optlist": ""
+  },
+  {
+    "key": "branchId[4]       ",
+    "outputType": "text",
+    "p": 1,
+    "x": 452.320899904175,
+    "y": 284.880518555742,
+    "optlist": ""
+  },
+  {
+    "key": "branchId[5]       ",
+    "outputType": "text",
+    "p": 1,
+    "x": 461.920919435464,
+    "y": 284.880518555742,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyBase_premiumTerm",
+    "outputType": "text",
+    "p": 1,
+    "x": 241.360470704083,
+    "y": 280.32050927838,
+    "optlist": ""
+  },
+  {
+    "key": "insured.firstName",
+    "outputType": "text",
+    "p": 1,
+    "x": 132.160248535662,
+    "y": 333.600617677038,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousFirstName",
+    "outputType": "text",
+    "p": 1,
+    "x": 368.320729005389,
+    "y": 332.880616212191,
+    "optlist": ""
+  },
+  {
+    "key": "insured.engFirstName",
+    "outputType": "text",
+    "p": 1,
+    "x": 137.920260254436,
+    "y": 349.680650391948,
+    "optlist": ""
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_sex[M]",
+    "outputType": "text",
+    "p": 1,
+    "x": 342.400676270907,
+    "y": 353.760658692746,
+    "optlist": ""
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_sex[F]",
+    "outputType": "text",
+    "p": 1,
+    "x": 376.96074658355,
+    "y": 353.520658204464,
+    "optlist": ""
+  },
+  {
+    "key": "insured.nationality",
+    "outputType": "text",
+    "p": 1,
+    "x": 442.24087939632,
+    "y": 349.680650391948,
+    "optlist": ""
+  },
+  {
+    "key": "insured.secondNationality",
+    "outputType": "text",
+    "p": 1,
+    "x": 223.120433594632,
+    "y": 365.760683106859,
+    "optlist": ""
+  },
+  {
+    "key": "insured.maritalStatus[S]",
+    "outputType": "text",
+    "p": 1,
+    "x": 355.120702149866,
+    "y": 369.840691407657,
+    "optlist": ""
+  },
+  {
+    "key": "insured.maritalStatus[M]",
+    "outputType": "text",
+    "p": 1,
+    "x": 390.88077490392,
+    "y": 369.840691407657,
+    "optlist": ""
+  },
+  {
+    "key": "insured.maritalStatus[W]",
+    "outputType": "text",
+    "p": 1,
+    "x": 431.920858400184,
+    "y": 369.840691407657,
+    "optlist": ""
+  },
+  {
+    "key": "insured.maritalStatus[D]",
+    "outputType": "text",
+    "p": 1,
+    "x": 471.280938478472,
+    "y": 369.840691407657,
+    "optlist": ""
+  },
+  {
+    "key": "insured.age",
+    "outputType": "text",
+    "p": 1,
+    "x": 518.081033693509,
+    "y": 365.760683106859,
+    "optlist": ""
+  },
+  {
+    "key": "insured.dateOfBirth.date",
+    "outputType": "text",
+    "p": 1,
+    "x": 88.2401591800113,
+    "y": 383.04071826318,
+    "optlist": ""
+  },
+  {
+    "key": "insured.dateOfBirth.month",
+    "outputType": "text",
+    "p": 1,
+    "x": 143.68027197321,
+    "y": 383.04071826318,
+    "optlist": ""
+  },
+  {
+    "key": "insured.dateOfBirth.year",
+    "outputType": "text",
+    "p": 1,
+    "x": 300.400590821515,
+    "y": 383.04071826318,
+    "optlist": ""
+  },
+  {
+    "key": "insured.birthCountry",
+    "outputType": "text",
+    "p": 1,
+    "x": 404.080801759444,
+    "y": 381.600715333487,
+    "optlist": ""
+  },
+  {
+    "key": "insured.Idcard",
+    "outputType": "text",
+    "p": 1,
+    "x": 132.160248535662,
+    "y": 402.480757814042,
+    "optlist": ""
+  },
+  {
+    "key": "insured.passport",
+    "outputType": "text",
+    "p": 1,
+    "x": 244.960478028316,
+    "y": 402.480757814042,
+    "optlist": ""
+  },
+  {
+    "key": "insured.etc",
+    "outputType": "text",
+    "p": 1,
+    "x": 431.200856935337,
+    "y": 402.480757814042,
+    "optlist": ""
+  },
+  {
+    "key": "orther_1",
+    "outputType": "text",
+    "p": 1,
+    "x": 502.481001955163,
+    "y": 397.920748536679,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[0]",
+    "outputType": "text",
+    "p": 1,
+    "x": 79.1201406252861,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[1]",
+    "outputType": "text",
+    "p": 1,
+    "x": 96.1601752933254,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[2]",
+    "outputType": "text",
+    "p": 1,
+    "x": 107.440198242591,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[3]",
+    "outputType": "text",
+    "p": 1,
+    "x": 118.720221191856,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[4]",
+    "outputType": "text",
+    "p": 1,
+    "x": 130.000244141122,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[5]",
+    "outputType": "text",
+    "p": 1,
+    "x": 146.800278320879,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[6]",
+    "outputType": "text",
+    "p": 1,
+    "x": 158.080301270144,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[7]       ",
+    "outputType": "text",
+    "p": 1,
+    "x": 169.36032421941,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[8]",
+    "outputType": "text",
+    "p": 1,
+    "x": 180.640347168675,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[9]",
+    "outputType": "text",
+    "p": 1,
+    "x": 191.92037011794,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[10]",
+    "outputType": "text",
+    "p": 1,
+    "x": 208.720404297698,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[11]",
+    "outputType": "text",
+    "p": 1,
+    "x": 220.000427246963,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.idNo[12]",
+    "outputType": "text",
+    "p": 1,
+    "x": 236.80046142672,
+    "y": 418.32079004067,
+    "optlist": ""
+  },
+  {
+    "key": "insured.expiredDate",
+    "outputType": "text",
+    "p": 1,
+    "x": 308.560607423111,
+    "y": 414.000781251589,
+    "optlist": ""
+  },
+  {
+    "key": "insured.greenCardNumber",
+    "outputType": "text",
+    "p": 1,
+    "x": 308.560607423111,
+    "y": 430.0808139665,
+    "optlist": ""
+  },
+  {
+    "key": "insured.greenCardExpiryDate",
+    "outputType": "text",
+    "p": 1,
+    "x": 473.20094238473,
+    "y": 430.0808139665,
+    "optlist": ""
+  },
+  {
+    "key": "insured.spouseFirstName.Lastname",
+    "outputType": "text",
+    "p": 1,
+    "x": 109.840203125413,
+    "y": 446.16084668141,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.number",
+    "outputType": "text",
+    "p": 1,
+    "x": 173.920333496772,
+    "y": 496.080948244117,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.road",
+    "outputType": "text",
+    "p": 1,
+    "x": 88.2401591800113,
+    "y": 513.360983400438,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.tambol",
+    "outputType": "text",
+    "p": 1,
+    "x": 217.840422852423,
+    "y": 513.360983400438,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.amphur",
+    "outputType": "text",
+    "p": 1,
+    "x": 342.400676270907,
+    "y": 513.360983400438,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.province",
+    "outputType": "text",
+    "p": 1,
+    "x": 460.240916017489,
+    "y": 513.360983400438,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.postCode[0]",
+    "outputType": "text",
+    "p": 1,
+    "x": 122.32022851609,
+    "y": 532.081021486453,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.postCode[1] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 133.840251953638,
+    "y": 531.601020509889,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.postCode[2] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 145.120274902903,
+    "y": 531.841020998171,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.postCode[3] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 156.640298340451,
+    "y": 531.841020998171,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.postCode[4]  ",
+    "outputType": "text",
+    "p": 1,
+    "x": 167.680320801434,
+    "y": 531.841020998171,
+    "optlist": ""
+  },
+  {
+    "key": "policy_insuredPerson_customer_partner_bornCountry",
+    "outputType": "text",
+    "p": 1,
+    "x": 216.640420411012,
+    "y": 528.001013185655,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.homeTel",
+    "outputType": "text",
+    "p": 1,
+    "x": 442.720880372885,
+    "y": 528.001013185655,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[0]",
+    "outputType": "text",
+    "p": 1,
+    "x": 127.120238281735,
+    "y": 548.641055177928,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[1]",
+    "outputType": "text",
+    "p": 1,
+    "x": 138.160260742718,
+    "y": 548.641055177928,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[2]",
+    "outputType": "text",
+    "p": 1,
+    "x": 155.200295410757,
+    "y": 548.641055177928,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[3]  ",
+    "outputType": "text",
+    "p": 1,
+    "x": 166.480318360023,
+    "y": 548.401054689646,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[4]   ",
+    "outputType": "text",
+    "p": 1,
+    "x": 177.760341309288,
+    "y": 548.401054689646,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[5]    ",
+    "outputType": "text",
+    "p": 1,
+    "x": 189.280364746836,
+    "y": 548.161054201364,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[6]",
+    "outputType": "text",
+    "p": 1,
+    "x": 205.840398438311,
+    "y": 548.161054201364,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[7]",
+    "outputType": "text",
+    "p": 1,
+    "x": 217.120421387576,
+    "y": 548.161054201364,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[8]",
+    "outputType": "text",
+    "p": 1,
+    "x": 228.640444825124,
+    "y": 548.161054201364,
+    "optlist": ""
+  },
+  {
+    "key": "insured.registeredAddress.phone[9]",
+    "outputType": "text",
+    "p": 1,
+    "x": 240.160468262671,
+    "y": 548.161054201364,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.name",
+    "outputType": "text",
+    "p": 1,
+    "x": 124.48023291063,
+    "y": 565.201088869403,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.road",
+    "outputType": "text",
+    "p": 1,
+    "x": 89.920162597987,
+    "y": 581.761122560878,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.tambol",
+    "outputType": "text",
+    "p": 1,
+    "x": 217.840422852423,
+    "y": 581.761122560878,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.amphur",
+    "outputType": "text",
+    "p": 1,
+    "x": 341.920675294343,
+    "y": 581.761122560878,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.province",
+    "outputType": "text",
+    "p": 1,
+    "x": 456.640908693255,
+    "y": 581.761122560878,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.postCode[0]",
+    "outputType": "text",
+    "p": 1,
+    "x": 122.560229004372,
+    "y": 602.641165041433,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.postCode[1] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 134.08025244192,
+    "y": 602.641165041433,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.postCode[2]  ",
+    "outputType": "text",
+    "p": 1,
+    "x": 145.120274902903,
+    "y": 602.641165041433,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.postCode[3]  ",
+    "outputType": "text",
+    "p": 1,
+    "x": 156.640298340451,
+    "y": 602.641165041433,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.postCode[4]   ",
+    "outputType": "text",
+    "p": 1,
+    "x": 167.920321289716,
+    "y": 602.641165041433,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.countryCode",
+    "outputType": "text",
+    "p": 1,
+    "x": 211.12040918052,
+    "y": 598.08115576407,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.phone",
+    "outputType": "text",
+    "p": 1,
+    "x": 338.560668458391,
+    "y": 597.841155275788,
+    "optlist": ""
+  },
+  {
+    "key": "insured.workAddress.email",
+    "outputType": "text",
+    "p": 1,
+    "x": 465.520926759698,
+    "y": 597.841155275788,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.number",
+    "outputType": "text",
+    "p": 1,
+    "x": 137.440259277871,
+    "y": 619.44119922119,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.tambol",
+    "outputType": "text",
+    "p": 1,
+    "x": 116.080215820752,
+    "y": 636.001232912665,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.amphur",
+    "outputType": "text",
+    "p": 1,
+    "x": 220.72042871181,
+    "y": 636.001232912665,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.province",
+    "outputType": "text",
+    "p": 1,
+    "x": 331.360653809924,
+    "y": 636.001232912665,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.postCode[0]",
+    "outputType": "text",
+    "p": 1,
+    "x": 501.04099902547,
+    "y": 640.561242190027,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.postCode[1] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 512.321021974735,
+    "y": 640.561242190027,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.postCode[2] ",
+    "outputType": "text",
+    "p": 1,
+    "x": 523.841045412283,
+    "y": 640.561242190027,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.postCode[3]  ",
+    "outputType": "text",
+    "p": 1,
+    "x": 534.881067873266,
+    "y": 640.561242190027,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.postCode[4]   ",
+    "outputType": "text",
+    "p": 1,
+    "x": 546.161090822532,
+    "y": 640.561242190027,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.countryCode",
+    "outputType": "text",
+    "p": 1,
+    "x": 101.440186035535,
+    "y": 652.081265627575,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.homeTel",
+    "outputType": "text",
+    "p": 1,
+    "x": 324.400639649739,
+    "y": 652.081265627575,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[0]",
+    "outputType": "text",
+    "p": 1,
+    "x": 127.120238281735,
+    "y": 672.96130810813,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[1]",
+    "outputType": "text",
+    "p": 1,
+    "x": 138.400261231,
+    "y": 672.96130810813,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[2]",
+    "outputType": "text",
+    "p": 1,
+    "x": 155.200295410757,
+    "y": 672.721307619848,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[3]",
+    "outputType": "text",
+    "p": 1,
+    "x": 166.480318360023,
+    "y": 672.721307619848,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[4]",
+    "outputType": "text",
+    "p": 1,
+    "x": 177.760341309288,
+    "y": 672.721307619848,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[5]",
+    "outputType": "text",
+    "p": 1,
+    "x": 189.040364258554,
+    "y": 672.721307619848,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[6]",
+    "outputType": "text",
+    "p": 1,
+    "x": 205.840398438311,
+    "y": 672.96130810813,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[7]",
+    "outputType": "text",
+    "p": 1,
+    "x": 217.120421387576,
+    "y": 672.721307619848,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[8]",
+    "outputType": "text",
+    "p": 1,
+    "x": 228.640444825124,
+    "y": 672.721307619848,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.phone[9]",
+    "outputType": "text",
+    "p": 1,
+    "x": 240.160468262671,
+    "y": 672.721307619848,
+    "optlist": ""
+  },
+  {
+    "key": "insured.homeAddress.email",
+    "outputType": "text",
+    "p": 1,
+    "x": 282.880555176911,
+    "y": 668.161298342485,
+    "optlist": ""
+  },
+  {
+    "key": "home.contact.registered",
+    "outputType": "text",
+    "p": 1,
+    "x": 180.880347656957,
+    "y": 694.081351076968,
+    "optlist": ""
+  },
+  {
+    "key": "home.contact.office",
+    "outputType": "text",
+    "p": 1,
+    "x": 284.080557618322,
+    "y": 694.081351076968,
+    "optlist": ""
+  },
+  {
+    "key": "home.contact.current",
+    "outputType": "text",
+    "p": 1,
+    "x": 361.360714845204,
+    "y": 694.081351076968,
+    "optlist": ""
+  },
+  {
+    "key": "occupationName",
+    "outputType": "text",
+    "p": 1,
+    "x": 105.040193359768,
+    "y": 720.721405276297,
+    "optlist": ""
+  },
+  {
+    "key": "occupationPosition",
+    "outputType": "text",
+    "p": 1,
+    "x": 273.280535645621,
+    "y": 720.721405276297,
+    "optlist": ""
+  },
+  {
+    "key": "occupationJobDescription",
+    "outputType": "text",
+    "p": 1,
+    "x": 437.680870118958,
+    "y": 720.721405276297,
+    "optlist": ""
+  },
+  {
+    "key": "occupationBusinessDescription",
+    "outputType": "text",
+    "p": 1,
+    "x": 108.880201172284,
+    "y": 736.801437991207,
+    "optlist": ""
+  },
+  {
+    "key": "occupationIncomeAnnual",
+    "outputType": "text",
+    "p": 1,
+    "x": 423.040840333741,
+    "y": 736.561437502925,
+    "optlist": ""
+  },
+  {
+    "key": "otherOccupationJobDescription",
+    "outputType": "text",
+    "p": 1,
+    "x": 436.720868165829,
+    "y": 752.641470217835,
+    "optlist": ""
+  },
+  {
+    "key": "otherOccupationName",
+    "outputType": "text",
+    "p": 1,
+    "x": 121.840227539525,
+    "y": 752.401469729553,
+    "optlist": ""
+  },
+  {
+    "key": "otherOccupationPosition",
+    "outputType": "text",
+    "p": 1,
+    "x": 274.720538575314,
+    "y": 752.641470217835,
+    "optlist": ""
+  },
+  {
+    "key": "otherOccupationJobDescription",
+    "outputType": "text",
+    "p": 1,
+    "x": 437.92087060724,
+    "y": 752.401469729553,
+    "optlist": ""
+  },
+  {
+    "key": "otherOccupationBusinessDescription",
+    "outputType": "text",
+    "p": 1,
+    "x": 110.080203613696,
+    "y": 768.961503421027,
+    "optlist": ""
+  },
+  {
+    "key": "otherOccupationIncomeAnnual",
+    "outputType": "text",
+    "p": 1,
+    "x": 417.040828126685,
+    "y": 768.721502932745,
+    "optlist": ""
+  },
+  {
+    "key": "insured.motorcycleUsageFlag[N]",
+    "outputType": "text",
+    "p": 1,
+    "x": 226.000439454019,
+    "y": 788.161542483607,
+    "optlist": ""
+  },
+  {
+    "key": "insured.motorcycleUsageFlag[Y]",
+    "outputType": "text",
+    "p": 1,
+    "x": 268.960526856541,
+    "y": 788.161542483607,
+    "optlist": ""
+  },
+
+  {
+    "key": "basic",
+    "outputType": "text",
+    "p": 2,
+    "x": 53.2000856935294,
+    "y": 31.9200038086013,
+    "optlist": ""
+  },
+  {
+    "key": "coverageTerm",
+    "outputType": "text",
+    "p": 2,
+    "x": 69.0401171144901,
+    "y": 42.7200252319836,
+    "optlist": ""
+  },
+  {
+    "key": "paymentTerm",
+    "outputType": "text",
+    "p": 2,
+    "x": 78.4001356814215,
+    "y": 53.520046655366,
+    "optlist": ""
+  },
+  {
+    "key": "premium.payment.period[Annual]",
+    "outputType": "text",
+    "p": 2,
+    "x": 127.840233752905,
+    "y": 44.6400290405849,
+    "optlist": ""
+  },
+  {
+    "key": "premium.payment.period[Six]",
+    "outputType": "text",
+    "p": 2,
+    "x": 166.960311353157,
+    "y": 44.8800295166601,
+    "optlist": ""
+  },
+  {
+    "key": "premium.payment.period[Three]",
+    "outputType": "text",
+    "p": 2,
+    "x": 128.08023422898,
+    "y": 55.6800509400424,
+    "optlist": ""
+  },
+  {
+    "key": "premium.payment.period[Monthly]",
+    "outputType": "text",
+    "p": 2,
+    "x": 166.960311353157,
+    "y": 55.6800509400424,
+    "optlist": ""
+  },
+  {
+    "key": "premium.payment.period[Onetime]",
+    "outputType": "text",
+    "p": 2,
+    "x": 128.08023422898,
+    "y": 66.4800723634248,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyBase.dividendOption[1]",
+    "outputType": "text",
+    "p": 2,
+    "x": 212.320401331363,
+    "y": 44.6400290405849,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyBase.dividendOption[2]",
+    "outputType": "text",
+    "p": 2,
+    "x": 212.320401331363,
+    "y": 55.4400504639673,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyBase.dividendOption[3]",
+    "outputType": "text",
+    "p": 2,
+    "x": 212.560401807438,
+    "y": 66.4800723634248,
+    "optlist": ""
+  },
+  {
+    "key": "basic",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 118.80017614781,
+    "optlist": ""
+  },
+  {
+    "key": "basic.sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 115.440169482758,
+    "optlist": ""
+  },
+  {
+    "key": "basic.premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 115.680169958833,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[WP]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 126.720191858291,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[WP].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 123.600185669314,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[WP].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 123.600185669314,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[PB4]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 134.880208044846,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[PB4].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 131.760201855869,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[PB4].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 131.760201855869,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[AI]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 142.320222803176,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[AIRCC].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 147.840233752905,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[AI].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.000238037582,
+    "y": 139.68021756635,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[AIRCC]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 151.200240417957,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[AI].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 103.840186145389,
+    "y": 139.68021756635,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[AIRCC].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 147.840233752905,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[ADD].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 155.760249463385,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[ADDRCC].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 163.920265649941,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[ADB].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 171.840281360421,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[HS].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 180.000297546977,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[HSP].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.000238037582,
+    "y": 187.920313257457,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[HB].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.240238513657,
+    "y": 196.080329444013,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[HBP].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 130.000238037582,
+    "y": 204.000345154493,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[OPD].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 271.600518921928,
+    "y": 114.480167578457,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[OPDP].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 271.600518921928,
+    "y": 122.400183288938,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[CI48].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 272.080519874078,
+    "y": 139.200216614199,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[CB].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 272.080519874078,
+    "y": 147.360232800755,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[TRN].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 272.080519874078,
+    "y": 155.760249463385,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[TRC].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 271.840519398003,
+    "y": 163.920265649941,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[PPE].premium",
+    "outputType": "text",
+    "p": 2,
+    "x": 271.840519398003,
+    "y": 172.320282312572,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[ADD]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 158.880255652363,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[ADD].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 155.760249463385,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[ADDRCC]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 167.280272314993,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[ADDRCC].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 163.920265649941,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[ADB].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 171.840281360421,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[HS].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 180.000297546977,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[OPD].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 245.920467981885,
+    "y": 114.480167578457,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[OPDP].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 245.920467981885,
+    "y": 122.400183288938,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[CI48].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 246.16046845796,
+    "y": 139.200216614199,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[CB].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 245.920467981885,
+    "y": 147.360232800755,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[TRN].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 245.920467981885,
+    "y": 155.760249463385,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[TRC].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 245.68046750581,
+    "y": 163.920265649941,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[PPE].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 245.68046750581,
+    "y": 172.080281836497,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[HSP].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 187.920313257457,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[HB].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 196.080329444013,
+    "optlist": ""
+  },
+  {
+    "key": "policy.riders[HBP].sa",
+    "outputType": "text",
+    "p": 2,
+    "x": 104.080186621464,
+    "y": 204.000345154493,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[ADB]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 174.960287549399,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[HS]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 183.120303735954,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[HSP]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 191.040319446434,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[HB]",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 199.20033563299,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[HBP]   ",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 207.360351819546,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[OPD]",
+    "outputType": "text",
+    "p": 2,
+    "x": 159.040295642676,
+    "y": 118.80017614781,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[OPDP]",
+    "outputType": "text",
+    "p": 2,
+    "x": 159.040295642676,
+    "y": 126.960192334366,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[CI48]",
+    "outputType": "text",
+    "p": 2,
+    "x": 159.040295642676,
+    "y": 142.800223755327,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[CB]",
+    "outputType": "text",
+    "p": 2,
+    "x": 159.040295642676,
+    "y": 150.960239941882,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[TRN]",
+    "outputType": "text",
+    "p": 2,
+    "x": 159.040295642676,
+    "y": 158.880255652363,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[TRC]",
+    "outputType": "text",
+    "p": 2,
+    "x": 159.040295642676,
+    "y": 166.800271362843,
+    "optlist": ""
+  },
+  {
+    "key": "front.policy.riders[PPE]",
+    "outputType": "text",
+    "p": 2,
+    "x": 159.040295642676,
+    "y": 174.960287549399,
+    "optlist": ""
+  },
+  {
+    "key": "totalPayment",
+    "outputType": "text",
+    "p": 2,
+    "x": 95.4401694827581,
+    "y": 249.840436084849,
+    "optlist": ""
+  },
+  {
+    "key": "paymemtWayOtherDetails",
+    "outputType": "text",
+    "p": 2,
+    "x": 237.040450367104,
+    "y": 276.480488929193,
+    "optlist": ""
+  },
+  {
+    "key": "totalPremium",
+    "outputType": "text",
+    "p": 2,
+    "x": 245.440467029735,
+    "y": 249.840436084849,
+    "optlist": ""
+  },
+  {
+    "key": "payment.way[Cash]",
+    "outputType": "text",
+    "p": 2,
+    "x": 45.0400695069738,
+    "y": 279.360494642094,
+    "optlist": ""
+  },
+  {
+    "key": "payment.way[ATM]",
+    "outputType": "text",
+    "p": 2,
+    "x": 68.800116638415,
+    "y": 279.360494642094,
+    "optlist": ""
+  },
+  {
+    "key": "payment.way[Other]",
+    "outputType": "text",
+    "p": 2,
+    "x": 209.200395142385,
+    "y": 279.360494642094,
+    "optlist": ""
+  },
+  {
+    "key": "tempRecieve",
+    "outputType": "text",
+    "p": 2,
+    "x": 105.520189477915,
+    "y": 284.400504639673,
+    "optlist": ""
+  },
+  {
+    "key": "insured.name",
+    "outputType": "text",
+    "p": 2,
+    "x": 99.0401766238855,
+    "y": 314.640564625143,
+    "optlist": ""
+  },
+  {
+    "key": "insured.age",
+    "outputType": "text",
+    "p": 2,
+    "x": 169.600316589983,
+    "y": 314.640564625143,
+    "optlist": ""
+  },
+  {
+    "key": "insured.ralation",
+    "outputType": "text",
+    "p": 2,
+    "x": 217.600411805016,
+    "y": 315.120565577294,
+    "optlist": ""
+  },
+  {
+    "key": "insure.occupation",
+    "outputType": "text",
+    "p": 2,
+    "x": 250.960477979464,
+    "y": 314.640564625143,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[3].name",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 413.760761244186,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[2].name",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 401.280736488277,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[1].name",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 390.000714112745,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[0].name",
+    "outputType": "text",
+    "p": 2,
+    "x": 17.6800152344052,
+    "y": 378.480691261137,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[3].id",
+    "outputType": "text",
+    "p": 2,
+    "x": 92.5601637698561,
+    "y": 413.520760768111,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[2].id",
+    "outputType": "text",
+    "p": 2,
+    "x": 92.5601637698561,
+    "y": 401.280736488277,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[1].id",
+    "outputType": "text",
+    "p": 2,
+    "x": 92.5601637698561,
+    "y": 390.000714112745,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[0].id",
+    "outputType": "text",
+    "p": 2,
+    "x": 93.0401647220064,
+    "y": 378.480691261137,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[3].age",
+    "outputType": "text",
+    "p": 2,
+    "x": 151.120279932196,
+    "y": 413.760761244186,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[2].age",
+    "outputType": "text",
+    "p": 2,
+    "x": 150.640278980046,
+    "y": 401.520736964353,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[1].age",
+    "outputType": "text",
+    "p": 2,
+    "x": 150.880279456121,
+    "y": 389.760713636669,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[0].age",
+    "outputType": "text",
+    "p": 2,
+    "x": 150.880279456121,
+    "y": 378.480691261137,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[3].relation",
+    "outputType": "text",
+    "p": 2,
+    "x": 163.120303735954,
+    "y": 401.280736488277,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[2].relation",
+    "outputType": "text",
+    "p": 2,
+    "x": 163.120303735954,
+    "y": 413.760761244186,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[1].relation",
+    "outputType": "text",
+    "p": 2,
+    "x": 163.120303735954,
+    "y": 390.000714112745,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[0].relation",
+    "outputType": "text",
+    "p": 2,
+    "x": 163.120303735954,
+    "y": 378.480691261137,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[3].relation",
+    "outputType": "text",
+    "p": 2,
+    "x": 184.240345630568,
+    "y": 413.520760768111,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[2].relation",
+    "outputType": "text",
+    "p": 2,
+    "x": 184.000345154493,
+    "y": 401.040736012202,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[1].relation",
+    "outputType": "text",
+    "p": 2,
+    "x": 184.240345630568,
+    "y": 389.760713636669,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[0].address",
+    "outputType": "text",
+    "p": 2,
+    "x": 184.240345630568,
+    "y": 378.480691261137,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[3].share",
+    "outputType": "text",
+    "p": 2,
+    "x": 272.320520350153,
+    "y": 413.520760768111,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[2].share",
+    "outputType": "text",
+    "p": 2,
+    "x": 272.320520350153,
+    "y": 401.280736488277,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[1].share",
+    "outputType": "text",
+    "p": 2,
+    "x": 272.320520350153,
+    "y": 389.760713636669,
+    "optlist": ""
+  },
+  {
+    "key": "policy_beneficiary[0].share",
+    "outputType": "text",
+    "p": 2,
+    "x": 272.320520350153,
+    "y": 378.480691261137,
+    "optlist": ""
+  },
+  {
+    "key": "Layer 1",
+    "outputType": "text",
+    "p": 3,
+    "x": 10,
+    "y": 30,
+    "optlist": ""
+  },
+  {
+    "key": "insured.lifeStyleFlag[No]",
+    "outputType": "text",
+    "p": 3,
+    "x": 34.4800498047888,
+    "y": 190.320326172539,
+    "optlist": ""
+  },
+  {
+    "key": "insured.hasPreviousPolicies[No]",
+    "outputType": "text",
+    "p": 3,
+    "x": 34.0000488282243,
+    "y": 226.80040039144,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.companyName[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 27.760036132886,
+    "y": 276.240500977582,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.companyName[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 27.760036132886,
+    "y": 290.640530274516,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.lifeAmount[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 165.520316406894,
+    "y": 276.240500977582,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasBeenRejected[No]",
+    "outputType": "text",
+    "p": 3,
+    "x": 297.040583985563,
+    "y": 321.360592774644,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasBeenRejected[Yes]",
+    "outputType": "text",
+    "p": 3,
+    "x": 353.200698243608,
+    "y": 320.880591798079,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.criticalIllnessAmount[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 234.64045703218,
+    "y": 276.240500977582,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.criticalIllnessAmount[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 234.64045703218,
+    "y": 290.640530274516,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.accidentAmount[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 303.280596680902,
+    "y": 276.240500977582,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.hospitalBenefitAmount[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 373.840740235881,
+    "y": 290.640530274516,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.isCurrentlyEnforced[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 442.480879884603,
+    "y": 276.240500977582,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.isCurrentlyEnforced[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 442.960880861167,
+    "y": 290.640530274516,
+    "optlist": ""
+  },
+  {
+    "key": "insured.rejectDetails.companyName[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 25.1200307617813,
+    "y": 354.480660157593,
+    "optlist": ""
+  },
+  {
+    "key": "insured.rejectDetails.companyName[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 25.1200307617813,
+    "y": 368.880689454528,
+    "optlist": ""
+  },
+  {
+    "key": "insured.rejectDetails.reason[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 165.520316406894,
+    "y": 354.480660157593,
+    "optlist": ""
+  },
+  {
+    "key": "insured.rejectDetails.reason[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 165.520316406894,
+    "y": 368.880689454528,
+    "optlist": ""
+  },
+  {
+    "key": "insured.rejectDetails.when[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 512.561022463018,
+    "y": 354.480660157593,
+    "optlist": ""
+  },
+  {
+    "key": "insured.rejectDetails.when[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 512.561022463018,
+    "y": 369.360690431092,
+    "optlist": ""
+  },
+  {
+    "key": "insured.hasUsedDrugs[No]",
+    "outputType": "text",
+    "p": 3,
+    "x": 33.5200478516599,
+    "y": 398.640750001526,
+    "optlist": ""
+  },
+  {
+    "key": "insured.hasBeenSuggestedToStopDrinking[No]",
+    "outputType": "text",
+    "p": 3,
+    "x": 478.480953126939,
+    "y": 496.080948244117,
+    "optlist": ""
+  },
+  {
+    "key": "insured.hasBeenSuggestedToStopDrinking[Yes]",
+    "outputType": "text",
+    "p": 3,
+    "x": 525.521048830259,
+    "y": 496.080948244117,
+    "optlist": ""
+  },
+  {
+    "key": "Rectangle 8 copy 8",
+    "outputType": "text",
+    "p": 3,
+    "x": 34.0000488282243,
+    "y": 528.241013673937,
+    "optlist": ""
+  },
+  {
+    "key": "insured.smoke[no]",
+    "outputType": "text",
+    "p": 3,
+    "x": 34.0000488282243,
+    "y": 528.241013673937,
+    "optlist": ""
+  },
+  {
+    "key": "insured.smoke[Yes]",
+    "outputType": "text",
+    "p": 3,
+    "x": 174.640334961619,
+    "y": 528.241013673937,
+    "optlist": ""
+  },
+  {
+    "key": "lossweight[yes].12",
+    "outputType": "text",
+    "p": 3,
+    "x": 530.081058107622,
+    "y": 561.361081056887,
+    "optlist": ""
+  },
+  {
+    "key": "lossweight[no].12",
+    "outputType": "text",
+    "p": 3,
+    "x": 479.920956056633,
+    "y": 561.361081056887,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_insured_prematureBirth[no].13",
+    "outputType": "text",
+    "p": 3,
+    "x": 350.320692384221,
+    "y": 596.881153322659,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_insured_prematureBirth[yes].13",
+    "outputType": "text",
+    "p": 3,
+    "x": 401.440796388339,
+    "y": 596.401152346094,
+    "optlist": ""
+  },
+  {
+    "key": "slow[no].13",
+    "outputType": "text",
+    "p": 3,
+    "x": 511.361020021606,
+    "y": 630.001220705608,
+    "optlist": ""
+  },
+  {
+    "key": "slow[yes].13",
+    "outputType": "text",
+    "p": 3,
+    "x": 550.721100099894,
+    "y": 630.001220705608,
+    "optlist": ""
+  },
+  {
+    "key": "g6pd[yes].13",
+    "outputType": "text",
+    "p": 3,
+    "x": 361.360714845204,
+    "y": 666.001293947945,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryFlag[yes].14",
+    "outputType": "text",
+    "p": 3,
+    "x": 82.7201479495198,
+    "y": 724.561413088812,
+    "optlist": ""
+  },
+  {
+    "key": "g6pd[no].13",
+    "outputType": "text",
+    "p": 3,
+    "x": 316.480623536425,
+    "y": 666.001293947945,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryFlag[no].14",
+    "outputType": "text",
+    "p": 3,
+    "x": 34.0000488282243,
+    "y": 724.561413088812,
+    "optlist": ""
+  },
+  {
+    "key": "insured.isDrinkingRegularly[No]",
+    "outputType": "text",
+    "p": 3,
+    "x": 34.4800498047888,
+    "y": 462.480879884603,
+    "optlist": ""
+  },
+  {
+    "key": "insured.isDrinkingRegularly[Yes]",
+    "outputType": "text",
+    "p": 3,
+    "x": 174.640334961619,
+    "y": 462.480879884603,
+    "optlist": ""
+  },
+  {
+    "key": "insured.hasTradedDrugs[Yes]",
+    "outputType": "text",
+    "p": 3,
+    "x": 174.640334961619,
+    "y": 429.840813478218,
+    "optlist": ""
+  },
+  {
+    "key": "insured.hasTradedDrugs[No]",
+    "outputType": "text",
+    "p": 3,
+    "x": 34.0000488282243,
+    "y": 429.840813478218,
+    "optlist": ""
+  },
+  {
+    "key": "insured.hasUsedDrugs[Yes]",
+    "outputType": "text",
+    "p": 3,
+    "x": 174.640334961619,
+    "y": 399.12075097809,
+    "optlist": ""
+  },
+  {
+    "key": "insured.isDrinkingRegularly.amount",
+    "outputType": "text",
+    "p": 3,
+    "x": 138.640261719282,
+    "y": 474.960905275279,
+    "optlist": ""
+  },
+  {
+    "key": "height.12",
+    "outputType": "text",
+    "p": 3,
+    "x": 65.4401127931982,
+    "y": 546.961051759952,
+    "optlist": ""
+  },
+  {
+    "key": "weight.12",
+    "outputType": "text",
+    "p": 3,
+    "x": 171.280328125668,
+    "y": 546.961051759952,
+    "optlist": ""
+  },
+  {
+    "key": "age.pregnant.13.1",
+    "outputType": "text",
+    "p": 3,
+    "x": 115.600214844187,
+    "y": 610.801181643029,
+    "optlist": ""
+  },
+  {
+    "key": "weight.13.1",
+    "outputType": "text",
+    "p": 3,
+    "x": 245.920479981445,
+    "y": 610.801181643029,
+    "optlist": ""
+  },
+  {
+    "key": "amount.day.13.1",
+    "outputType": "text",
+    "p": 3,
+    "x": 460.720916994053,
+    "y": 610.801181643029,
+    "optlist": ""
+  },
+  {
+    "key": "detail.13.2",
+    "outputType": "text",
+    "p": 3,
+    "x": 135.760255859896,
+    "y": 643.441248049414,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistory.person[0].14",
+    "outputType": "text",
+    "p": 3,
+    "x": 25.3600312500636,
+    "y": 759.121483401456,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryPerson[1].14",
+    "outputType": "text",
+    "p": 3,
+    "x": 24.8800302734991,
+    "y": 776.401518557777,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryDisease[1].14",
+    "outputType": "text",
+    "p": 3,
+    "x": 294.880579591023,
+    "y": 776.401518557777,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryDisease[0].14",
+    "outputType": "text",
+    "p": 3,
+    "x": 294.880579591023,
+    "y": 759.121483401456,
+    "optlist": ""
+  },
+  {
+    "key": "insured.smoke.amount",
+    "outputType": "text",
+    "p": 3,
+    "x": 300.880591798079,
+    "y": 527.281011720808,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.hospitalBenefitAmount[0]",
+    "outputType": "text",
+    "p": 3,
+    "x": 373.840740235881,
+    "y": 276.240500977582,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.accidentAmount[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 303.280596680902,
+    "y": 290.640530274516,
+    "optlist": ""
+  },
+  {
+    "key": "insured.previousPolicies.lifeAmount[1]",
+    "outputType": "text",
+    "p": 3,
+    "x": 165.520316406894,
+    "y": 290.640530274516,
+    "optlist": ""
+  },
+  {
+    "key": "insured.hasPreviousPolicies[Yes]",
+    "outputType": "text",
+    "p": 3,
+    "x": 71.9201259768188,
+    "y": 227.280401368004,
+    "optlist": ""
+  },
+  {
+    "key": "insured.lifeStyleFlag[Yes]",
+    "outputType": "text",
+    "p": 3,
+    "x": 71.9201259768188,
+    "y": 189.840325195974,
+    "optlist": ""
+  },
+  {
+    "key": "insured.lifeStyleDetail",
+    "outputType": "text",
+    "p": 3,
+    "x": 158.320301758426,
+    "y": 185.040315430329,
+    "optlist": ""
+  },
+
+  {
+    "key": "Layer 1",
+    "outputType": "text",
+    "p": 4,
+    "x": 10,
+    "y": 30,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.healthy[Yes]",
+    "outputType": "text",
+    "p": 4,
+    "x": 185.200356446038,
+    "y": 69.8400810548524,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_insured_PayerType[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 79.1201406252861,
+    "y": 238.800424805552,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.isPayerFlag[Yes]",
+    "outputType": "text",
+    "p": 4,
+    "x": 34.9600507813533,
+    "y": 224.400395508617,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.appDet.insuredHasTreatmentFlag[Yes]",
+    "outputType": "text",
+    "p": 4,
+    "x": 226.960441407148,
+    "y": 106.320155273753,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.appDet.insuredHasTreatmentFlag[No]",
+    "outputType": "text",
+    "p": 4,
+    "x": 185.200356446038,
+    "y": 106.320155273753,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.healthy[No]",
+    "outputType": "text",
+    "p": 4,
+    "x": 226.960441407148,
+    "y": 69.8400810548524,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.isPayerFlag[No]",
+    "outputType": "text",
+    "p": 4,
+    "x": 273.520536133903,
+    "y": 224.400395508617,
+    "optlist": ""
+  },
+  {
+    "key": "payer.maritalStatus[D]",
+    "outputType": "text",
+    "p": 4,
+    "x": 493.840984377003,
+    "y": 297.360543946419,
+    "optlist": ""
+  },
+  {
+    "key": "payer.maritalStatus[W]",
+    "outputType": "text",
+    "p": 4,
+    "x": 454.00090332215,
+    "y": 297.360543946419,
+    "optlist": ""
+  },
+  {
+    "key": "payer.maritalStatus[M]",
+    "outputType": "text",
+    "p": 4,
+    "x": 413.200820314169,
+    "y": 297.360543946419,
+    "optlist": ""
+  },
+  {
+    "key": "payer.maritalStatus[S]",
+    "outputType": "text",
+    "p": 4,
+    "x": 377.680748048397,
+    "y": 297.360543946419,
+    "optlist": ""
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.sex[W]",
+    "outputType": "text",
+    "p": 4,
+    "x": 388.72077050938,
+    "y": 282.48051367292,
+    "optlist": ""
+  },
+  {
+    "key": "policy.insuredPerson.customer.partner.sex[M]",
+    "outputType": "text",
+    "p": 4,
+    "x": 354.160700196737,
+    "y": 282.48051367292,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.PayerType[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 79.1201406252861,
+    "y": 253.680455079051,
+    "optlist": ""
+  },
+  {
+    "key": "payerSameInsure",
+    "outputType": "text",
+    "p": 4,
+    "x": 133.840251953638,
+    "y": 370.320692384221,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[12]",
+    "outputType": "text",
+    "p": 4,
+    "x": 239.920467774389,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[11]",
+    "outputType": "text",
+    "p": 4,
+    "x": 223.120433594632,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[10]",
+    "outputType": "text",
+    "p": 4,
+    "x": 212.080411133649,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[9]",
+    "outputType": "text",
+    "p": 4,
+    "x": 195.280376953892,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[8]",
+    "outputType": "text",
+    "p": 4,
+    "x": 183.760353516344,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[7]",
+    "outputType": "text",
+    "p": 4,
+    "x": 172.720331055361,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[6]",
+    "outputType": "text",
+    "p": 4,
+    "x": 161.200307617813,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[5]",
+    "outputType": "text",
+    "p": 4,
+    "x": 150.16028515683,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[4]",
+    "outputType": "text",
+    "p": 4,
+    "x": 133.360250977073,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[3]",
+    "outputType": "text",
+    "p": 4,
+    "x": 121.840227539525,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[2]",
+    "outputType": "text",
+    "p": 4,
+    "x": 110.800205078542,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 99.2801816409946,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.idNo[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 82.4801474612375,
+    "y": 341.040632813787,
+    "optlist": ""
+  },
+  {
+    "key": "payer.etc",
+    "outputType": "text",
+    "p": 4,
+    "x": 433.360861329877,
+    "y": 326.640603516853,
+    "optlist": ""
+  },
+  {
+    "key": "payer.passport",
+    "outputType": "text",
+    "p": 4,
+    "x": 248.080484375985,
+    "y": 326.640603516853,
+    "optlist": ""
+  },
+  {
+    "key": "payer.Idcard",
+    "outputType": "text",
+    "p": 4,
+    "x": 135.280254883331,
+    "y": 326.640603516853,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.postCode[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 125.680235352041,
+    "y": 457.680870118958,
+    "optlist": ""
+  },
+  {
+    "key": "payer.motorcycleUsageFlag[N]",
+    "outputType": "text",
+    "p": 4,
+    "x": 237.520462891567,
+    "y": 546.481050783388,
+    "optlist": ""
+  },
+  {
+    "key": "payer.home.contact.etc",
+    "outputType": "text",
+    "p": 4,
+    "x": 255.280499024453,
+    "y": 472.560900392457,
+    "optlist": ""
+  },
+  {
+    "key": "payer.home.contact.current",
+    "outputType": "text",
+    "p": 4,
+    "x": 200.800388184383,
+    "y": 472.560900392457,
+    "optlist": ""
+  },
+  {
+    "key": "payer.home.contact.current",
+    "outputType": "text",
+    "p": 4,
+    "x": 132.400249023944,
+    "y": 472.560900392457,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.postCode[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 136.480257324742,
+    "y": 457.680870118958,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.postCode[2]",
+    "outputType": "text",
+    "p": 4,
+    "x": 148.720282227137,
+    "y": 457.680870118958,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.postCode[3]",
+    "outputType": "text",
+    "p": 4,
+    "x": 159.76030468812,
+    "y": 457.680870118958,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.postCode[4]",
+    "outputType": "text",
+    "p": 4,
+    "x": 170.800327149103,
+    "y": 457.680870118958,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[8]",
+    "outputType": "text",
+    "p": 4,
+    "x": 562.481124025724,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[7]",
+    "outputType": "text",
+    "p": 4,
+    "x": 550.721100099894,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[6]",
+    "outputType": "text",
+    "p": 4,
+    "x": 539.921078127193,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[5]",
+    "outputType": "text",
+    "p": 4,
+    "x": 528.641055177928,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[2]",
+    "outputType": "text",
+    "p": 4,
+    "x": 478.960954103504,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[4]",
+    "outputType": "text",
+    "p": 4,
+    "x": 512.321021974735,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[3]",
+    "outputType": "text",
+    "p": 4,
+    "x": 501.04099902547,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[2]",
+    "outputType": "text",
+    "p": 4,
+    "x": 489.28097509964,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 462.640920900311,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.phone[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 450.880896974481,
+    "y": 414.480782228154,
+    "optlist": ""
+  },
+  {
+    "key": "Rectangle 1 copy 50",
+    "outputType": "text",
+    "p": 4,
+    "x": 548.561095705354,
+    "y": 399.600751954655,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.postCode[3]",
+    "outputType": "text",
+    "p": 4,
+    "x": 537.521073244371,
+    "y": 399.600751954655,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.postCode[2]",
+    "outputType": "text",
+    "p": 4,
+    "x": 526.001049806823,
+    "y": 399.600751954655,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.postCode[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 514.481026369276,
+    "y": 399.600751954655,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.postCode[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 502.961002931728,
+    "y": 399.600751954655,
+    "optlist": ""
+  },
+  {
+    "key": "payer.motorcycleUsageFlag[Y]",
+    "outputType": "text",
+    "p": 4,
+    "x": 283.120555665193,
+    "y": 546.481050783388,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 373.120738771034,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[2]",
+    "outputType": "text",
+    "p": 4,
+    "x": 384.4007617203,
+    "y": 575.281109377257,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[3]",
+    "outputType": "text",
+    "p": 4,
+    "x": 395.680784669565,
+    "y": 575.281109377257,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[4]",
+    "outputType": "text",
+    "p": 4,
+    "x": 407.440808595395,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[5]",
+    "outputType": "text",
+    "p": 4,
+    "x": 423.760841798588,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[6]",
+    "outputType": "text",
+    "p": 4,
+    "x": 435.520865724418,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[7]",
+    "outputType": "text",
+    "p": 4,
+    "x": 446.320887697119,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[8]",
+    "outputType": "text",
+    "p": 4,
+    "x": 457.600910646384,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[9]",
+    "outputType": "text",
+    "p": 4,
+    "x": 469.360934572214,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[10]",
+    "outputType": "text",
+    "p": 4,
+    "x": 485.440967287124,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[11]",
+    "outputType": "text",
+    "p": 4,
+    "x": 496.72099023639,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[12]",
+    "outputType": "text",
+    "p": 4,
+    "x": 514.001025392711,
+    "y": 575.761110353822,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryNameIdNo[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 356.320704591277,
+    "y": 575.521109865539,
+    "optlist": ""
+  },
+  {
+    "key": "payer_lifeStyleFlag[Yes]",
+    "outputType": "text",
+    "p": 4,
+    "x": 159.280303711555,
+    "y": 679.921322268315,
+    "optlist": ""
+  },
+  {
+    "key": "payer_lifeStyleFlag[No]",
+    "outputType": "text",
+    "p": 4,
+    "x": 57.7600971681664,
+    "y": 679.921322268315,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyleFlag[Yes]",
+    "outputType": "text",
+    "p": 4,
+    "x": 202.960392578924,
+    "y": 710.881385256725,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyleFlag[No]",
+    "outputType": "text",
+    "p": 4,
+    "x": 159.280303711555,
+    "y": 710.881385256725,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.hospital[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 23.9200283203701,
+    "y": 143.280230469219,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.hospital[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 23.9200283203701,
+    "y": 161.520267578669,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.doctors[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 143.200270996645,
+    "y": 143.280230469219,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.doctors[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 143.440271484927,
+    "y": 162.000268555234,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.result[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 381.760756349195,
+    "y": 161.040266602105,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.result[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 381.520755860913,
+    "y": 143.040229980937,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.disease[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 262.240513184638,
+    "y": 161.520267578669,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.disease[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 262.48051367292,
+    "y": 143.280230469219,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.dateMonthYear[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 500.800998537188,
+    "y": 143.040229980937,
+    "optlist": ""
+  },
+  {
+    "key": "insuredHasTreatment.dateMonthYear[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 500.800998537188,
+    "y": 161.520267578669,
+    "optlist": ""
+  },
+  {
+    "key": "insured.dateOfBirth.year",
+    "outputType": "text",
+    "p": 4,
+    "x": 238.240464356413,
+    "y": 307.200563965991,
+    "optlist": ""
+  },
+  {
+    "key": "payer.birthCountry",
+    "outputType": "text",
+    "p": 4,
+    "x": 331.840654786488,
+    "y": 307.200563965991,
+    "optlist": ""
+  },
+  {
+    "key": "payer.relationship",
+    "outputType": "text",
+    "p": 4,
+    "x": 495.760988283261,
+    "y": 307.200563965991,
+    "optlist": ""
+  },
+  {
+    "key": "payer.detail",
+    "outputType": "text",
+    "p": 4,
+    "x": 505.121007326268,
+    "y": 321.840593751208,
+    "optlist": ""
+  },
+  {
+    "key": "payer.expiredDate",
+    "outputType": "text",
+    "p": 4,
+    "x": 318.640627930965,
+    "y": 336.480623536425,
+    "optlist": ""
+  },
+  {
+    "key": "payer.greenCardNumber",
+    "outputType": "text",
+    "p": 4,
+    "x": 327.520645997408,
+    "y": 351.360653809924,
+    "optlist": ""
+  },
+  {
+    "key": "payer.greenCardExpiryDate",
+    "outputType": "text",
+    "p": 4,
+    "x": 478.960954103504,
+    "y": 351.360653809924,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.number",
+    "outputType": "text",
+    "p": 4,
+    "x": 139.840264160694,
+    "y": 379.920711915511,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.countryCode",
+    "outputType": "text",
+    "p": 4,
+    "x": 223.360434082914,
+    "y": 453.360861329877,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.homeTel",
+    "outputType": "text",
+    "p": 4,
+    "x": 349.840691407657,
+    "y": 453.60086181816,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.email",
+    "outputType": "text",
+    "p": 4,
+    "x": 474.880945802705,
+    "y": 453.360861329877,
+    "optlist": ""
+  },
+  {
+    "key": "payerOtherOccupationPosition",
+    "outputType": "text",
+    "p": 4,
+    "x": 276.640542481572,
+    "y": 511.920980470745,
+    "optlist": ""
+  },
+  {
+    "key": "payerOtherOccupationJobDescription",
+    "outputType": "text",
+    "p": 4,
+    "x": 442.720880372885,
+    "y": 511.680979982463,
+    "optlist": ""
+  },
+  {
+    "key": "payerOtherOccupationIncomeAnnual",
+    "outputType": "text",
+    "p": 4,
+    "x": 420.400834962636,
+    "y": 526.321009767679,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryAge",
+    "outputType": "text",
+    "p": 4,
+    "x": 546.641091799096,
+    "y": 571.441101564741,
+    "optlist": ""
+  },
+  {
+    "key": "payer_lifeStyleFlag.detail",
+    "outputType": "text",
+    "p": 4,
+    "x": 238.480464844696,
+    "y": 675.601313479235,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyle.company[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 38.560058105587,
+    "y": 760.081485354585,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_effectiveContract[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 491.200979005898,
+    "y": 777.361520510906,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_effectiveContract[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 491.200979005898,
+    "y": 759.361483889738,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_cashBack[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 400.48079443521,
+    "y": 776.641519046059,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_cashBack[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 400.720794923492,
+    "y": 759.60148437802,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyle.accident[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 310.480611329369,
+    "y": 776.641519046059,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyle.dangerousDisease[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 219.760426758681,
+    "y": 776.881519534341,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyle.life[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 128.80024169971,
+    "y": 776.881519534341,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyle.company[1]",
+    "outputType": "text",
+    "p": 4,
+    "x": 38.560058105587,
+    "y": 776.881519534341,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyle.accident[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 310.240610841086,
+    "y": 759.361483889738,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyle.dangerousDisease[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 219.520426270399,
+    "y": 759.60148437802,
+    "optlist": ""
+  },
+  {
+    "key": "policy_policyDetails_payer_lifeStyle.life[0]",
+    "outputType": "text",
+    "p": 4,
+    "x": 128.80024169971,
+    "y": 759.60148437802,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiary.greenCardExpiryDate",
+    "outputType": "text",
+    "p": 4,
+    "x": 503.441003908292,
+    "y": 600.24116015861,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiary.greenCardNumber",
+    "outputType": "text",
+    "p": 4,
+    "x": 326.800644532561,
+    "y": 600.001159670328,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryEmail",
+    "outputType": "text",
+    "p": 4,
+    "x": 353.200698243608,
+    "y": 585.601130373394,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryHomeTel",
+    "outputType": "text",
+    "p": 4,
+    "x": 228.160443848559,
+    "y": 585.601130373394,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryRelation",
+    "outputType": "text",
+    "p": 4,
+    "x": 112.7202089848,
+    "y": 585.601130373394,
+    "optlist": ""
+  },
+  {
+    "key": "payerBeneficiaryName",
+    "outputType": "text",
+    "p": 4,
+    "x": 94.4801718753497,
+    "y": 570.481099611612,
+    "optlist": ""
+  },
+  {
+    "key": "payerOtherOccupationBusinessDescription",
+    "outputType": "text",
+    "p": 4,
+    "x": 111.280206055107,
+    "y": 526.321009767679,
+    "optlist": ""
+  },
+  {
+    "key": "payerOtherOccupationName",
+    "outputType": "text",
+    "p": 4,
+    "x": 126.400236816888,
+    "y": 511.680979982463,
+    "optlist": ""
+  },
+  {
+    "key": "payerOccupationIncomeAnnual",
+    "outputType": "text",
+    "p": 4,
+    "x": 422.560839357176,
+    "y": 497.040950197246,
+    "optlist": ""
+  },
+  {
+    "key": "payerOccupationBusinessDescription",
+    "outputType": "text",
+    "p": 4,
+    "x": 113.200209961365,
+    "y": 497.040950197246,
+    "optlist": ""
+  },
+  {
+    "key": "payerOccupationJobDescription",
+    "outputType": "text",
+    "p": 4,
+    "x": 443.680882326014,
+    "y": 482.400920412029,
+    "optlist": ""
+  },
+  {
+    "key": "payerOccupationPosition",
+    "outputType": "text",
+    "p": 4,
+    "x": 276.880542969855,
+    "y": 482.400920412029,
+    "optlist": ""
+  },
+  {
+    "key": "payerOccupationName",
+    "outputType": "text",
+    "p": 4,
+    "x": 109.840203125413,
+    "y": 482.160919923747,
+    "optlist": ""
+  },
+  {
+    "key": "payer.home.contact.detail",
+    "outputType": "text",
+    "p": 4,
+    "x": 316.960624512989,
+    "y": 468.000891115094,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.province",
+    "outputType": "text",
+    "p": 4,
+    "x": 462.880921388593,
+    "y": 438.720831544661,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.amphur",
+    "outputType": "text",
+    "p": 4,
+    "x": 349.600690919374,
+    "y": 438.720831544661,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.tambol",
+    "outputType": "text",
+    "p": 4,
+    "x": 223.360434082914,
+    "y": 438.720831544661,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.road",
+    "outputType": "text",
+    "p": 4,
+    "x": 93.2801694339385,
+    "y": 438.720831544661,
+    "optlist": ""
+  },
+  {
+    "key": "payer.workAddress.name",
+    "outputType": "text",
+    "p": 4,
+    "x": 128.320240723146,
+    "y": 423.840801271161,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.homeTel",
+    "outputType": "text",
+    "p": 4,
+    "x": 273.280535645621,
+    "y": 409.680772462509,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.countryCode",
+    "outputType": "text",
+    "p": 4,
+    "x": 104.320191894922,
+    "y": 409.440771974227,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.province",
+    "outputType": "text",
+    "p": 4,
+    "x": 337.36066601698,
+    "y": 394.80074218901,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.amphur",
+    "outputType": "text",
+    "p": 4,
+    "x": 230.560448731382,
+    "y": 394.80074218901,
+    "optlist": ""
+  },
+  {
+    "key": "payer.registeredAddress.tambol",
+    "outputType": "text",
+    "p": 4,
+    "x": 119.920223633267,
+    "y": 394.80074218901,
+    "optlist": ""
+  },
+  {
+    "key": "payer.dateOfBirth.month",
+    "outputType": "text",
+    "p": 4,
+    "x": 152.080289063088,
+    "y": 307.200563965991,
+    "optlist": ""
+  },
+  {
+    "key": "payer.dateOfBirth.date",
+    "outputType": "text",
+    "p": 4,
+    "x": 97.8401787113011,
+    "y": 307.200563965991,
+    "optlist": ""
+  },
+  {
+    "key": "payer.age",
+    "outputType": "text",
+    "p": 4,
+    "x": 545.201088869403,
+    "y": 292.560534180774,
+    "optlist": ""
+  },
+  {
+    "key": "payer.secondNationality",
+    "outputType": "text",
+    "p": 4,
+    "x": 229.840447266535,
+    "y": 292.560534180774,
+    "optlist": ""
+  },
+  {
+    "key": "payer.nationality",
+    "outputType": "text",
+    "p": 4,
+    "x": 454.480904298715,
+    "y": 278.16050488384,
+    "optlist": ""
+  },
+  {
+    "key": "payer.firstName",
+    "outputType": "text",
+    "p": 4,
+    "x": 138.880262207565,
+    "y": 263.760475586905,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.healthy.detail",
+    "outputType": "text",
+    "p": 4,
+    "x": 349.360690431092,
+    "y": 64.8000708009253,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.appDet.insuredHasTreatmentFlag.detail",
+    "outputType": "text",
+    "p": 4,
+    "x": 358.480708985817,
+    "y": 101.760145996391,
+    "optlist": ""
+  },
+  {
+    "key": "payer.engFirstName",
+    "outputType": "text",
+    "p": 4,
+    "x": 151.120287109959,
+    "y": 278.16050488384,
+    "optlist": ""
+  },
+  {
+    "key": "payer.previousFirstName",
+    "outputType": "text",
+    "p": 4,
+    "x": 381.760756349195,
+    "y": 263.040474122058,
+    "optlist": ""
+  },
+  {
+    "key": "Layer 1",
+    "outputType": "text",
+    "p": 5,
+    "x": 10,
+    "y": 30,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.companyName[0]",
+    "outputType": "text",
+    "p": 5,
+    "x": 38.8000585938692,
+    "y": 101.040144531544,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.when[1]",
+    "outputType": "text",
+    "p": 5,
+    "x": 513.041023439582,
+    "y": 119.280181640995,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.when[2]",
+    "outputType": "text",
+    "p": 5,
+    "x": 513.041023439582,
+    "y": 135.600214844187,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.when[0]",
+    "outputType": "text",
+    "p": 5,
+    "x": 513.041023439582,
+    "y": 101.040144531544,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.reason[2]",
+    "outputType": "text",
+    "p": 5,
+    "x": 240.880469727518,
+    "y": 135.600214844187,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.reason[1]",
+    "outputType": "text",
+    "p": 5,
+    "x": 240.880469727518,
+    "y": 118.80018066443,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.reason[0]",
+    "outputType": "text",
+    "p": 5,
+    "x": 240.880469727518,
+    "y": 101.040144531544,
+    "optlist": ""
+  },
+  {
+    "key": "amount.drink.18.5",
+    "outputType": "text",
+    "p": 5,
+    "x": 160.960307129531,
+    "y": 244.080435547761,
+    "optlist": ""
+  },
+  {
+    "key": "height.18.7",
+    "outputType": "text",
+    "p": 5,
+    "x": 88.4801596682936,
+    "y": 321.600593262926,
+    "optlist": ""
+  },
+  {
+    "key": "weight.18.7",
+    "outputType": "text",
+    "p": 5,
+    "x": 192.160370606223,
+    "y": 321.600593262926,
+    "optlist": ""
+  },
+  {
+    "key": "payer.smoke.amount",
+    "outputType": "text",
+    "p": 5,
+    "x": 297.76058545041,
+    "y": 305.280560059733,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.companyName[2]",
+    "outputType": "text",
+    "p": 5,
+    "x": 38.8000585938692,
+    "y": 135.120213867623,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistory.person[0].18.8",
+    "outputType": "text",
+    "p": 5,
+    "x": 40.2400615235627,
+    "y": 406.800766603122,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryDisease[0].18.8",
+    "outputType": "text",
+    "p": 5,
+    "x": 284.560558594886,
+    "y": 406.800766603122,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryDisease[1].18.8",
+    "outputType": "text",
+    "p": 5,
+    "x": 284.560558594886,
+    "y": 424.080801759444,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistory.person[1].18.8",
+    "outputType": "text",
+    "p": 5,
+    "x": 39.7600605469982,
+    "y": 424.080801759444,
+    "optlist": ""
+  },
+  {
+    "key": "payer.rejectDetails.companyName[1]",
+    "outputType": "text",
+    "p": 5,
+    "x": 38.8000585938692,
+    "y": 118.80018066443,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[0].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 172.720331055361,
+    "y": 659.521280764325,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[9].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 556.961112795233,
+    "y": 712.081387698136,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[9].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 524.56104687713,
+    "y": 712.081387698136,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[9].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 493.60098388872,
+    "y": 712.081387698136,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[9].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 461.680918947182,
+    "y": 712.081387698136,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[8].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 556.961112795233,
+    "y": 677.28131689721,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[8].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 524.801047365412,
+    "y": 677.28131689721,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[8].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 493.60098388872,
+    "y": 677.28131689721,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[8].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 461.680918947182,
+    "y": 677.28131689721,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[7].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 556.961112795233,
+    "y": 659.521280764325,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[7].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 524.801047365412,
+    "y": 659.521280764325,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[7].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 493.60098388872,
+    "y": 659.521280764325,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[7].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 461.680918947182,
+    "y": 659.521280764325,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[6].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 268.480525879976,
+    "y": 764.641494631947,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[6].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 236.320460450156,
+    "y": 764.641494631947,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[6].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 204.640395996899,
+    "y": 764.641494631947,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[6].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 172.720331055361,
+    "y": 764.641494631947,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[5].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 268.480525879976,
+    "y": 747.361459475626,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[5].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 236.320460450156,
+    "y": 747.361459475626,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[5].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 204.640395996899,
+    "y": 747.361459475626,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[5].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 172.720331055361,
+    "y": 747.361459475626,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[4].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 268.480525879976,
+    "y": 729.601423342739,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[4].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 236.320460450156,
+    "y": 729.601423342739,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[4].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 204.640395996899,
+    "y": 729.601423342739,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[4].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 172.720331055361,
+    "y": 729.601423342739,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[3].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 172.720331055361,
+    "y": 712.081387698136,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[3].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 204.640395996899,
+    "y": 712.081387698136,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[3].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 236.320460450156,
+    "y": 712.081387698136,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[3].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 268.480525879976,
+    "y": 712.081387698136,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[2].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 172.720331055361,
+    "y": 694.801352541814,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[2].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 204.640395996899,
+    "y": 694.801352541814,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[2].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 236.320460450156,
+    "y": 694.801352541814,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[2].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 268.480525879976,
+    "y": 694.801352541814,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[1].juvenileAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 172.720331055361,
+    "y": 677.28131689721,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[1].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 204.640395996899,
+    "y": 677.28131689721,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[1].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 236.320460450156,
+    "y": 677.28131689721,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[1].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 268.480525879976,
+    "y": 677.28131689721,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[0].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 204.640395996899,
+    "y": 659.521280764325,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[0].insPayAns[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 236.320460450156,
+    "y": 659.521280764325,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[0].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 268.480525879976,
+    "y": 659.521280764325,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasBeenRejected[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 58.2400981447309,
+    "y": 68.1600776368767,
+    "optlist": ""
+  },
+  {
+    "key": "diagnose [no].19.1",
+    "outputType": "text",
+    "p": 5,
+    "x": 340.480672364649,
+    "y": 493.440942873012,
+    "optlist": ""
+  },
+  {
+    "key": "diagnose [Yes].19.1",
+    "outputType": "text",
+    "p": 5,
+    "x": 387.760768556251,
+    "y": 493.440942873012,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryFlag[yes].14",
+    "outputType": "text",
+    "p": 5,
+    "x": 391.840776857049,
+    "y": 373.920699708455,
+    "optlist": ""
+  },
+  {
+    "key": "policy.policyDetails.insured.familyHealthHistoryFlag[no].18.8",
+    "outputType": "text",
+    "p": 5,
+    "x": 342.400676270907,
+    "y": 373.920699708455,
+    "optlist": ""
+  },
+  {
+    "key": "lossweight[Yes].18.7",
+    "outputType": "text",
+    "p": 5,
+    "x": 529.121056154493,
+    "y": 340.320631348941,
+    "optlist": ""
+  },
+  {
+    "key": "lossweight[no].18.7",
+    "outputType": "text",
+    "p": 5,
+    "x": 489.28097509964,
+    "y": 340.320631348941,
+    "optlist": ""
+  },
+  {
+    "key": "payer.smoke[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 174.640334961619,
+    "y": 310.800571290225,
+    "optlist": ""
+  },
+  {
+    "key": "payer.smoke[no]",
+    "outputType": "text",
+    "p": 5,
+    "x": 58.2400981447309,
+    "y": 310.800571290225,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasBeenSuggestedToStopDrinking[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 174.640334961619,
+    "y": 280.080508790098,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasBeenSuggestedToStopDrinking[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 58.4800986330132,
+    "y": 280.080508790098,
+    "optlist": ""
+  },
+  {
+    "key": "payer.isDrinkingRegularly[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 58.4800986330132,
+    "y": 249.120445801688,
+    "optlist": ""
+  },
+  {
+    "key": "payer.isDrinkingRegularly[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 58.4800986330132,
+    "y": 233.760414551625,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasTradedDrugs[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 174.640334961619,
+    "y": 203.040352051497,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasTradedDrugs[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 58.4800986330132,
+    "y": 202.800351563215,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasUsedDrugs[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 174.640334961619,
+    "y": 170.16028515683,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasUsedDrugs[No]",
+    "outputType": "text",
+    "p": 5,
+    "x": 58.2400981447309,
+    "y": 170.16028515683,
+    "optlist": ""
+  },
+  {
+    "key": "payer.hasBeenRejected[Yes]",
+    "outputType": "text",
+    "p": 5,
+    "x": 103.600190430075,
+    "y": 68.1600776368767,
+    "optlist": ""
+  },
+
+  {
+    "key": "Layer 1",
+    "outputType": "text",
+    "p": 6,
+    "x": 10,
+    "y": 30,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[10].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 123.840190918357,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[10].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 123.840190918357,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[10].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 123.840190918357,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[10].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 123.840190918357,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[11].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 141.360226562961,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[11].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 141.360226562961,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[11].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 141.360226562961,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[11].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 141.360226562961,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[12].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 158.880262207565,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[12].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 158.880262207565,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[12].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 158.880262207565,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[12].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 158.880262207565,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[15].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 123.840190918357,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[15].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 123.840190918357,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[15].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 123.840190918357,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[15].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 123.840190918357,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[16].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 141.360226562961,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[16].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 141.360226562961,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[16].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 141.360226562961,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[16].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 141.360226562961,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[17].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 158.880262207565,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[17].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 158.880262207565,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[17].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 158.880262207565,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[17].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 158.880262207565,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[27].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 193.440332520208,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[27].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 193.440332520208,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[27].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 193.440332520208,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[27].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 193.440332520208,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[28].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 210.960368164812,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[28].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 210.960368164812,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[28].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 210.960368164812,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[28].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 210.960368164812,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[29].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 228.480403809415,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[29].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 228.480403809415,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[29].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 228.480403809415,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[29].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 228.480403809415,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[30].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 245.760438965737,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[30].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 245.760438965737,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[30].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 245.760438965737,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[30].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 245.760438965737,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[31].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 263.280474610341,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[31].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 263.280474610341,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[31].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 263.280474610341,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[31].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 263.280474610341,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[32].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 280.800510254944,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[32].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 280.800510254944,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[32].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 280.800510254944,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[32].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 280.800510254944,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[33].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 298.320545899548,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[33].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 298.320545899548,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[33].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 298.320545899548,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[33].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 298.320545899548,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[38].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[38].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[38].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[38].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[39].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[39].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[39].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[39].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[40].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[40].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[40].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[40].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[41].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 385.20072265772,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[41].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 385.20072265772,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[41].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 385.20072265772,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[41].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 385.20072265772,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[42].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 403.200759278888,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[42].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 403.200759278888,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[42].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 403.200759278888,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[42].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 403.200759278888,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[43].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 437.520829103249,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[43].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 437.520829103249,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[43].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 437.520829103249,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[43].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 437.520829103249,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[44].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 455.520865724418,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[44].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 455.520865724418,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[44].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 455.520865724418,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[44].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 455.520865724418,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[45].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 489.840935548778,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[45].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 489.840935548778,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[45].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 489.840935548778,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[45].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 489.840935548778,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[46].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 459.520914552642,
+    "y": 508.080972658229,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[46].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 556.001110842104,
+    "y": 508.080972658229,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[46].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 523.601044924001,
+    "y": 508.080972658229,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[46].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 491.44097949418,
+    "y": 508.080972658229,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[47].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 613.441187014134,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[47].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 613.441187014134,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[47].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.760939455036,
+    "y": 613.441187014134,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[47].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 613.441187014134,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[48].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 630.721222170455,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[48].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 630.721222170455,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[48].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.280938478472,
+    "y": 631.20122314702,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[48].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 630.721222170455,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[49].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 648.481258303341,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[49].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 648.481258303341,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[49].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.760939455036,
+    "y": 648.481258303341,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[49].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 648.481258303341,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[50].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 665.761293459663,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[50].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 665.761293459663,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[50].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.760939455036,
+    "y": 665.761293459663,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[50].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 665.761293459663,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[51].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 683.521329592549,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[51].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 683.521329592549,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[51].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.760939455036,
+    "y": 683.521329592549,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[51].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 683.521329592549,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[52].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 700.80136474887,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[52].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 700.80136474887,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[52].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.760939455036,
+    "y": 700.80136474887,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[52].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 700.80136474887,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[53].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 718.081399905192,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[53].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 718.081399905192,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[53].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.760939455036,
+    "y": 718.081399905192,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[53].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 718.081399905192,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[54].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 735.361435061513,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[54].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 735.361435061513,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[54].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.760939455036,
+    "y": 735.361435061513,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[54].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 735.361435061513,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[55].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 336.640664552133,
+    "y": 753.601472170964,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[55].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 538.241074709218,
+    "y": 753.601472170964,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[55].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 471.760939455036,
+    "y": 753.601472170964,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[55].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 404.560802736008,
+    "y": 753.601472170964,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[13].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 176.160297363886,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[13].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 176.160297363886,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[13].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 176.160297363886,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[13].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 176.160297363886,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[14].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 193.920333496772,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[14].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 193.920333496772,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[14].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 193.920333496772,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[14].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 193.920333496772,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[18].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 228.480403809415,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[18].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 228.480403809415,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[18].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 228.480403809415,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[18].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 228.480403809415,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[19].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 245.760438965737,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[19].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 245.760438965737,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[19].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 245.760438965737,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[19].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 245.760438965737,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[20].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 263.520475098623,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[20].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 263.520475098623,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[20].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 263.520475098623,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[20].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 263.520475098623,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[21].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 281.040510743227,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[21].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 281.040510743227,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[21].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 281.040510743227,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[21].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 281.040510743227,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[22].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 298.320545899548,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[22].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 298.320545899548,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[22].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 298.320545899548,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[22].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 298.320545899548,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 40",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 316.080582032434,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 41",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 316.080582032434,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 42",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 316.080582032434,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 43",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 316.080582032434,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 44",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 45",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 46",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 47",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 48",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 49",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 50",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 51",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 1 copy 52",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[23].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 316.080582032434,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[23].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 316.080582032434,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[23].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 316.080582032434,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[23].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 316.080582032434,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[24].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[24].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[24].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[24].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 333.360617188756,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[25].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[25].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[25].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[25].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 350.640652345077,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[26].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[26].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[26].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[26].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 368.400688477963,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[34].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 403.200759278888,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[34].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 403.200759278888,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[34].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 403.200759278888,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[34].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 403.200759278888,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[35].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 420.48079443521,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[35].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 420.48079443521,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[35].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 420.48079443521,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[35].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 420.48079443521,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[36].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 437.760829591531,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[36].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 437.760829591531,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[36].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 437.760829591531,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[36].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 437.760829591531,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[37].juvenileAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 169.36032421941,
+    "y": 455.520865724418,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[37].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 265.840520508871,
+    "y": 455.520865724418,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[37].insPayAns[No]",
+    "outputType": "text",
+    "p": 6,
+    "x": 233.440454590769,
+    "y": 455.520865724418,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[37].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 6,
+    "x": 201.280389160948,
+    "y": 455.520865724418,
+    "optlist": ""
+  },
+  {
+    "key": "Layer 1",
+    "outputType": "text",
+    "p": 7,
+    "x": 10,
+    "y": 30,
+    "optlist": ""
+  },
+  {
+    "key": "agePregnant3",
+    "outputType": "text",
+    "p": 7,
+    "x": 110.080203613696,
+    "y": 113.520169922221,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[56].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 352.480696778761,
+    "y": 115.920174805043,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[56].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 415.360824708709,
+    "y": 115.920174805043,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[56].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 477.760951662092,
+    "y": 115.920174805043,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[56].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 540.64107959204,
+    "y": 115.920174805043,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[57].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 352.480696778761,
+    "y": 132.960209473082,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[57].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 415.360824708709,
+    "y": 132.960209473082,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[57].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 477.760951662092,
+    "y": 132.960209473082,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[57].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 540.64107959204,
+    "y": 132.960209473082,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[66].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 265.680479493163,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[66].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 265.680479493163,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[66].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 524.081045900565,
+    "y": 265.680479493163,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[66].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 556.001110842104,
+    "y": 265.680479493163,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[67].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 282.720514161202,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[67].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 282.720514161202,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[67].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 524.081045900565,
+    "y": 282.720514161202,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[67].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 556.001110842104,
+    "y": 282.720514161202,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[68].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 310.32057031366,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[68].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 310.32057031366,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[68].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 524.081045900565,
+    "y": 310.32057031366,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[68].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 556.001110842104,
+    "y": 310.32057031366,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 2 copy 20",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 333.84061816532,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 2 copy 21",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 333.84061816532,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 2 copy 22",
+    "outputType": "text",
+    "p": 7,
+    "x": 524.081045900565,
+    "y": 333.84061816532,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 2 copy 23",
+    "outputType": "text",
+    "p": 7,
+    "x": 556.001110842104,
+    "y": 333.84061816532,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[69].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 333.84061816532,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[69].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 333.84061816532,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[69].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 524.081045900565,
+    "y": 333.84061816532,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[69].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 556.001110842104,
+    "y": 333.84061816532,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[70].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 351.120653321642,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[70].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 351.120653321642,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[70].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 524.081045900565,
+    "y": 351.120653321642,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[70].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 556.001110842104,
+    "y": 351.120653321642,
+    "optlist": ""
+  },
+  {
+    "key": "IpdOpdDetail",
+    "outputType": "text",
+    "p": 7,
+    "x": 173.200332031926,
+    "y": 594.721148928119,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[71].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 368.160687989681,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[71].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 368.160687989681,
+    "optlist": ""
+  },
+  {
+    "key": "deatailMRI",
+    "outputType": "text",
+    "p": 7,
+    "x": 173.200332031926,
+    "y": 530.161017580195,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailName[0]",
+    "outputType": "text",
+    "p": 7,
+    "x": 23.9200283203701,
+    "y": 784.081534182809,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailName[1]",
+    "outputType": "text",
+    "p": 7,
+    "x": 23.9200283203701,
+    "y": 800.881568362566,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailName[2]",
+    "outputType": "text",
+    "p": 7,
+    "x": 24.4000292969346,
+    "y": 817.681602542323,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailNumber[0]",
+    "outputType": "text",
+    "p": 7,
+    "x": 162.640310547507,
+    "y": 784.081534182809,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailNumber[1]",
+    "outputType": "text",
+    "p": 7,
+    "x": 162.640310547507,
+    "y": 800.881568362566,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailNumber[2]",
+    "outputType": "text",
+    "p": 7,
+    "x": 163.120311524071,
+    "y": 817.681602542323,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailAge[0]",
+    "outputType": "text",
+    "p": 7,
+    "x": 301.360592774644,
+    "y": 784.081534182809,
+    "optlist": ""
+  },
+  {
+    "key": "inforceFlag",
+    "outputType": "text",
+    "p": 7,
+    "x": 128.320240723146,
+    "y": 181.440308106096,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailAge[1]",
+    "outputType": "text",
+    "p": 7,
+    "x": 301.360592774644,
+    "y": 800.881568362566,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailAge[2]",
+    "outputType": "text",
+    "p": 7,
+    "x": 301.840593751208,
+    "y": 817.681602542323,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailRelation[0]",
+    "outputType": "text",
+    "p": 7,
+    "x": 440.08087500178,
+    "y": 784.081534182809,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailRelation[1]",
+    "outputType": "text",
+    "p": 7,
+    "x": 440.08087500178,
+    "y": 800.881568362566,
+    "optlist": ""
+  },
+  {
+    "key": "ChildFatherMotherDetailRelation[2]",
+    "outputType": "text",
+    "p": 7,
+    "x": 440.560875978345,
+    "y": 817.681602542323,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[71].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 524.081045900565,
+    "y": 368.160687989681,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[71].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 556.001110842104,
+    "y": 368.160687989681,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 2 copy 40",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 384.960722169438,
+    "optlist": ""
+  },
+  {
+    "key": "Shape 2 copy 41",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 384.960722169438,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[72].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 492.160980959027,
+    "y": 384.960722169438,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[72].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 460.240916017489,
+    "y": 384.960722169438,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[72].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 524.081045900565,
+    "y": 384.960722169438,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[72].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 556.001110842104,
+    "y": 384.960722169438,
+    "optlist": ""
+  },
+  {
+    "key": "InsurePayerDeatil[0]",
+    "outputType": "text",
+    "p": 7,
+    "x": 24.4000292969346,
+    "y": 657.121275881502,
+    "optlist": ""
+  },
+  {
+    "key": "InsurePayerDeatil[1]",
+    "outputType": "text",
+    "p": 7,
+    "x": 24.4000292969346,
+    "y": 673.441309084694,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[73].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 352.480696778761,
+    "y": 516.000988771543,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[73].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 540.64107959204,
+    "y": 516.000988771543,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[73].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 477.760951662092,
+    "y": 516.000988771543,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[73].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 415.360824708709,
+    "y": 516.000988771543,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[74].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 352.480696778761,
+    "y": 596.641152834377,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[74].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 540.64107959204,
+    "y": 596.641152834377,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[74].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 477.760951662092,
+    "y": 596.641152834377,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[74].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 415.360824708709,
+    "y": 596.641152834377,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[58].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 203.200393067206,
+    "y": 265.680479493163,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[58].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 171.280328125668,
+    "y": 265.680479493163,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[58].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 235.120458008744,
+    "y": 265.680479493163,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[58].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 267.040522950283,
+    "y": 265.680479493163,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[59].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 203.200393067206,
+    "y": 282.960514649485,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[59].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 171.280328125668,
+    "y": 282.960514649485,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[59].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 235.120458008744,
+    "y": 282.960514649485,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[59].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 267.040522950283,
+    "y": 282.960514649485,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[60].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 203.200393067206,
+    "y": 300.000549317524,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[60].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 171.280328125668,
+    "y": 300.000549317524,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[60].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 235.120458008744,
+    "y": 300.000549317524,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[60].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 267.040522950283,
+    "y": 300.000549317524,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[61].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 203.200393067206,
+    "y": 316.800583497281,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[61].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 171.280328125668,
+    "y": 316.800583497281,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[61].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 235.120458008744,
+    "y": 316.800583497281,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[61].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 267.040522950283,
+    "y": 316.800583497281,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[62].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 203.200393067206,
+    "y": 333.600617677038,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[62].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 171.280328125668,
+    "y": 333.600617677038,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[62].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 235.120458008744,
+    "y": 333.600617677038,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[62].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 267.040522950283,
+    "y": 333.600617677038,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[63].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 203.200393067206,
+    "y": 350.880652833359,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[63].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 171.280328125668,
+    "y": 350.880652833359,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[63].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 235.120458008744,
+    "y": 350.880652833359,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[63].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 267.040522950283,
+    "y": 350.880652833359,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[64].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 203.200393067206,
+    "y": 367.920687501399,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[64].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 171.280328125668,
+    "y": 367.920687501399,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[64].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 235.120458008744,
+    "y": 367.920687501399,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[64].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 267.040522950283,
+    "y": 367.920687501399,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[65].juvenileAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 203.200393067206,
+    "y": 384.720721681156,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[65].juvenileAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 171.280328125668,
+    "y": 384.720721681156,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[65].insPayAns[No]",
+    "outputType": "text",
+    "p": 7,
+    "x": 235.120458008744,
+    "y": 384.720721681156,
+    "optlist": ""
+  },
+  {
+    "key": "policyNewApp.questionNMix.doctorDiagList[65].insPayAns[Yes]",
+    "outputType": "text",
+    "p": 7,
+    "x": 267.040522950283,
+    "y": 384.720721681156,
+    "optlist": ""
+  },
+
+  {
+    "key": "Layer 1",
+    "outputType": "text",
+    "p": 8,
+    "x": 10,
+    "y": 30,
+    "optlist": ""
+  },
+  {
+    "key": "checkFatherMother",
+    "outputType": "text",
+    "p": 8,
+    "x": 302.800595704337,
+    "y": 755.761476565504,
+    "optlist": ""
+  },
+  {
+    "key": "checkInsureUnderage",
+    "outputType": "text",
+    "p": 8,
+    "x": 302.800595704337,
+    "y": 771.36150830385,
+    "optlist": ""
+  },
+  {
+    "key": "print_FACTA_incomeInUSA[No]",
+    "outputType": "text",
+    "p": 8,
+    "x": 52.4800864259571,
+    "y": 109.440161621423,
+    "optlist": ""
+  },
+  {
+    "key": "print_FACTA_incomeInUSA[Yes]",
+    "outputType": "text",
+    "p": 8,
+    "x": 104.320191894922,
+    "y": 109.20016113314,
+    "optlist": ""
+  },
+  {
+    "key": "print_FACTA_insurebyNationalityUSA[No]",
+    "outputType": "text",
+    "p": 8,
+    "x": 52.9600874025216,
+    "y": 140.640225098114,
+    "optlist": ""
+  },
+  {
+    "key": "print_FACTA_insurebyNationalityUSA[Yes]",
+    "outputType": "text",
+    "p": 8,
+    "x": 103.600190430075,
+    "y": 140.640225098114,
+    "optlist": ""
+  },
+  {
+    "key": "signFullName",
+    "outputType": "text",
+    "p": 8,
+    "x": 68.3201186525852,
+    "y": 610.321180666465,
+    "optlist": ""
+  },
+  {
+    "key": "contradicWritePayerInsure",
+    "outputType": "text",
+    "p": 8,
+    "x": 50.5600825196991,
+    "y": 506.160968751971,
+    "optlist": ""
+  },
+  {
+    "key": "print_FACTA_incomeInUSA_detail",
+    "outputType": "text",
+    "p": 8,
+    "x": 192.160370606223,
+    "y": 99.8401420901328,
+    "optlist": ""
+  },
+  {
+    "key": "print_FACTA_insurebyNationalityUSA_detail",
+    "outputType": "text",
+    "p": 8,
+    "x": 201.280389160948,
+    "y": 134.88021337934,
+    "optlist": ""
+  },
+  {
+    "key": "contradicMonthPayerInsure",
+    "outputType": "text",
+    "p": 8,
+    "x": 400.960795411775,
+    "y": 506.160968751971,
+    "optlist": ""
+  },
+  {
+    "key": "contradicYearPayerInsure",
+    "outputType": "text",
+    "p": 8,
+    "x": 528.88105566621,
+    "y": 506.400969240253,
+    "optlist": ""
+  },
+  {
+    "key": "contradicDayPayerInsure",
+    "outputType": "text",
+    "p": 8,
+    "x": 347.680687013117,
+    "y": 506.160968751971,
+    "optlist": ""
+  },
+  {
+    "key": "signSignature",
+    "outputType": "text",
+    "p": 8,
+    "x": 68.3201186525852,
+    "y": 631.681224123584,
+    "optlist": ""
+  },
+  {
+    "key": "signFullName3",
+    "outputType": "text",
+    "p": 8,
+    "x": 74.080130371359,
+    "y": 687.841338381629,
+    "optlist": ""
+  },
+  {
+    "key": "signFullName2",
+    "outputType": "text",
+    "p": 8,
+    "x": 342.400676270907,
+    "y": 610.321180666465,
+    "optlist": ""
+  },
+  {
+    "key": "signFullName4",
+    "outputType": "text",
+    "p": 8,
+    "x": 342.400676270907,
+    "y": 687.841338381629,
+    "optlist": ""
+  },
+  {
+    "key": "signSignature2",
+    "outputType": "text",
+    "p": 8,
+    "x": 342.400676270907,
+    "y": 631.681224123584,
+    "optlist": ""
+  },
+  {
+    "key": "signSignature4",
+    "outputType": "text",
+    "p": 8,
+    "x": 342.400676270907,
+    "y": 709.201381838749,
+    "optlist": ""
+  },
+  {
+    "key": "signSignature3",
+    "outputType": "text",
+    "p": 8,
+    "x": 74.080130371359,
+    "y": 709.201381838749,
+    "optlist": ""
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "agentId": "5225199",
+  "events": [
+    {
+      "replay": 1,
+      "sequenceId": 150,
+      "fieldId": "paper_insuredNo",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Auto\",\"fieldName\":\"policy_insuredPerson_customer_partner_lastName\",\"value\":\"3018920664\",\"type\":\"setValue\"}}",
+      "timestamp": 1479806527885
+    },
+    {
+      "replay": 1,
+      "sequenceId": 150,
+      "fieldId": "agentName",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Textbox\",\"fieldName\":\"policy_insuredPerson_customer_partner_lastName\",\"value\":\"PDF\",\"type\":\"setValue\"}}",
+      "timestamp": 1479806527885
+    },
+    {
+      "replay": 1,
+      "sequenceId": 404,
+      "fieldId": "policy_insuredPerson_customer_partner_sex",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_insuredPerson_customer_partner_sex\",\"value\":{\"M\":{\"order\":0,\"value\":\"M\",\"label\":{\"en\":\"Male\",\"th\":\"ชาย\"},\"imagePath\":\"images/allianz/male.png\",\"checked\":true},\"F\":{\"order\":1,\"value\":\"F\",\"label\":{\"en\":\"Female\",\"th\":\"หญิง\"},\"imagePath\":\"images/allianz/female.png\",\"checked\":false}},\"type\":\"setValue\",\"componentType\":\"Option\"}}",
+      "timestamp": 1479807969592
+    },
+    {
+      "replay": 1,
+      "sequenceId": 187,
+      "fieldId": "basic.sa",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"CardList\",\"fieldName\":\"policy_riders\",\"value\":[{\"value\":\"ADB\",\"label\":{\"th\":\"(ADB) อุบัติเหตุ อ.3\",\"en\":\"(ADB) อุบัติเหตุ อ.3\"},\"coverCode\":\"R001EA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R001EA\",\"label\":{\"th\":\"อุบัติเหตุ อ.3\",\"en\":\"อุบัติเหตุ อ.3\"},\"coverCode\":\"R001EA\",\"riderCode\":\"ADB\",\"sumInsured\":null}],\"index\":0,\"slideId\":82634,\"riderCode\":\"ADB\"},{\"value\":\"ADD_RCC\",\"label\":{\"th\":\"(ADD_RCC) สลักหลังอุบัติเหตุ อ2\",\"en\":\"(ADD_RCC) สลักหลังอุบัติเหตุ อ2\"},\"coverCode\":\"R003CA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R003CA\",\"label\":{\"th\":\"สลักหลังอุบัติเหตุ อ2\",\"en\":\"สลักหลังอุบัติเหตุ อ2\"},\"coverCode\":\"R003CA\",\"riderCode\":\"ADD_RCC\",\"sumInsured\":null}],\"index\":1,\"slideId\":70763,\"riderCode\":\"ADD_RCC\"},{\"value\":\"AI_RCC\",\"label\":{\"th\":\"(AI_RCC) สลักหลังอุบัติเหตุ อ1\",\"en\":\"(AI_RCC) สลักหลังอุบัติเหตุ อ1\"},\"coverCode\":\"R003BA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R003BA\",\"label\":{\"th\":\"สลักหลังอุบัติเหตุ อ1\",\"en\":\"สลักหลังอุบัติเหตุ อ1\"},\"coverCode\":\"R003BA\",\"riderCode\":\"AI_RCC\",\"sumInsured\":null}],\"index\":2,\"slideId\":7128,\"riderCode\":\"AI_RCC\"},{\"value\":\"CI48\",\"label\":{\"th\":\"(CI48) คุ้มครองโรคร้ายแรง 48\",\"en\":\"(CI48) คุ้มครองโรคร้ายแรง 48\"},\"coverCode\":\"R002GA\",\"sumInsured\":null,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R002GA\",\"label\":{\"th\":\"คุ้มครองโรคร้ายแรง 48\",\"en\":\"คุ้มครองโรคร้ายแรง 48\"},\"coverCode\":\"R002GA\",\"riderCode\":\"CI48\",\"sumInsured\":null}],\"index\":3,\"slideId\":98860,\"riderCode\":\"CI48\"},{\"value\":\"HB\",\"label\":{\"th\":\"(HB) ค่ารักษาพยาบาลรายวัน\",\"en\":\"(HB) ค่ารักษาพยาบาลรายวัน\"},\"coverCode\":\"R008EA\",\"sumInsured\":null,\"isHealth\":true,\"SA\":\"NONE\",\"options\":[{\"value\":\"R008EA\",\"label\":{\"th\":\"ค่ารักษาพยาบาลรายวัน\",\"en\":\"ค่ารักษาพยาบาลรายวัน\"},\"coverCode\":\"R008EA\",\"riderCode\":\"HB\",\"sumInsured\":null}],\"index\":4,\"slideId\":58904,\"riderCode\":\"HB\"},{\"value\":\"HSMHPE\",\"label\":{\"th\":\"(HSMHPE) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"(HSMHPE) ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004OD\",\"sumInsured\":\"10000000\",\"isHealth\":true,\"SA\":\"PRE_SA\",\"options\":[{\"value\":\"R004OD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004OD\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"10000000\"},{\"value\":\"R004KD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004KD\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"2000000\"},{\"value\":\"R004LD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004LD\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"4000000\"},{\"value\":\"R004MD\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004MD\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"6000000\"},{\"value\":\"R004ND\",\"label\":{\"th\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\",\"en\":\"ผู้ป่วยใน สุขภาพปลดล็อค เอ็กซ์ตร้า.\"},\"coverCode\":\"R004ND\",\"riderCode\":\"HSMHPE\",\"sumInsured\":\"8000000\"}],\"index\":5,\"slideId\":13545,\"riderCode\":\"HSMHPE\"}],\"type\":\"setValue\"}}",
+      "timestamp": 1479806590498
+    },
+    {
+      "replay": 1,
+      "sequenceId": 418,
+      "fieldId": "inforceFlag",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"Checkbox\",\"fieldName\":\"inforceFlag\",\"value\":false,\"type\":\"setValue\"}}",
+      "timestamp": 1479808355517
+    },
+    {
+      "replay": 1,
+      "sequenceId": 151,
+      "fieldId": "policy_insuredPerson_customer_partner_bornCountry",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_insuredPerson_customer_partner_bornCountry\",\"componentType\":\"InfiniteDropdown\",\"value\":{\"value\":\"TH\",\"label\":{\"en\":\"Thailand - ISO code\",\"th\":\"ไทย\"}},\"type\":\"setValue\"}}",
+      "timestamp": 1479806529161
+    },
+    {
+      "replay": 1,
+      "sequenceId": 158,
+      "fieldId": "policy_policyBase_premiumTerm",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"fieldName\":\"policy_policyBase_premiumTerm\",\"value\":\"10\",\"type\":\"setValue\",\"componentType\":\"Picker\"}}",
+      "timestamp": 1479806560961
+    },
+    {
+      "replay": 1,
+      "sequenceId": 154,
+      "fieldId": "policyNewApp.questionNMix.doctorDiagList",
+      "appId": "JaFLVAPz",
+      "type": "setValue",
+      "payload": "{\"type\":\"setValue\",\"params\":{\"componentType\":\"YesNoList\",\"fieldName\":\"policyNewApp.questionNMix.doctorDiagList\",\"value\":[{\"label\":{\"en\":\"Visual Impairment\",\"th\":\"โรคความดันโลหิตสูง\"},\"value\":1,\"group\":null,\"backend\":\"{}\",\"groupType\":\"DOCTOR_DIAG\",\"questionType\":\"SIMPLE\",\"checked\":{\"juvenileAns\":null,\"insPayAns\":null}},{\"label\":{\"en\":\"Glaucoma\",\"th\":\"โรคหัวใจ\"},\"value\":2,\"group\":null,\"backend\":\"{}\",\"groupType\":\"DOCTOR_DIAG\",\"questionType\":\"SIMPLE\",\"checked\":{\"juvenileAns\":true,\"insPayAns\":false}},{\"label\":{\"en\":\"Cerebrovascular disease\",\"th\":\"โรคเส้นเลือดหัวใจตีบ\"},\"value\":3,\"group\":null,\"backend\":\"{}\",\"groupType\":\"DOCTOR_DIAG\",\"questionType\":\"SIMPLE\",\"checked\":{\"juvenileAns\":true,\"insPayAns\":true}},{\"label\":{\"en\":\"Paralysis\",\"th\":\"โรคหลอดเลือด\"},\"value\":4,\"group\":null,\"backend\":\"{}\",\"groupType\":\"DOCTOR_DIAG\",\"questionType\":\"SIMPLE\",\"checked\":{\"juvenileAns\":true,\"insPayAns\":false}},{\"label\":{\"en\":\"Parkinson's disease\",\"th\":\"โรคเลือด\"},\"value\":5,\"group\":null,\"backend\":\"{}\",\"groupType\":\"DOCTOR_DIAG\",\"questionType\":\"SIMPLE\",\"checked\":{\"juvenileAns\":true,\"insPayAns\":false}},{\"label\":{\"en\":\"Seizure\",\"th\":\"โรคเอสแอลดี\"},\"value\":6,\"group\":null,\"backend\":\"{}\",\"groupType\":\"DOCTOR_DIAG\",\"questionType\":\"SIMPLE\",\"checked\":{\"juvenileAns\":false,\"insPayAns\":false}},{\"label\":{\"en\":\"Lung disease\",\"th\":\"ใจสั่น\"},\"value\":7,\"group\":null,\"backend\":\"{}\",\"groupType\":\"DOCTOR_DIAG\",\"questionType\":\"SIMPLE\",\"checked\":{\"juvenileAns\":false,\"insPayAns\":true}}],\"type\":\"setValue\"}}",
+      "timestamp": 1479806532441
+    }
+  ]
+}

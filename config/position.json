@@ -249,7 +249,7 @@
   },
   {
     "key": "policy_insuredPerson_customer_partner_sex[M]",
-    "outputType": "x",
+    "outputType": "text",
     "p": 2,
     "x": 160,
     "y": 397
